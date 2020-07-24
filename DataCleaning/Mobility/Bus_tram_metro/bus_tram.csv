@@ -1,0 +1,112 @@
+Name,Type,Code,Mode,Distance travelled,BUURTCODE,population,tram/bus km per capita
+Belgisch Park,Buurt,BU05180271,Bus / tram / metro.1,10196.87241,71,8205,1.242763243
+Westbroekpark,Buurt,BU05180373,Bus / tram / metro.1,726.3999432,73,880,0.825454481
+Duttendel,Buurt,BU05180374,Bus / tram / metro.1,971.5631744,74,1075,0.903779697
+Nassaubuurt,Buurt,BU05180448,Bus / tram / metro.1,1761.829938,48,1625,1.084203039
+Uilennest,Buurt,BU05180475,Bus / tram / metro.1,2017.994952,75,2100,0.960949977
+Duinzigt,Buurt,BU05180476,Bus / tram / metro.1,1714.578908,76,2495,0.687205975
+Waalsdorp,Buurt,BU05180477,Bus / tram / metro.1,3951.671745,77,3810,1.037184185
+Arendsdorp,Buurt,BU05180478,Bus / tram / metro.1,1265.645584,78,1305,0.96984336
+Van Hoytemastraat en omgeving,Buurt,BU05180479,Bus / tram / metro.1,2622.581928,79,2360,1.111263529
+Archipelbuurt,Buurt,BU05180546,Bus / tram / metro.1,6931.121627,46,6100,1.136249447
+Van Stolkpark en Scheveningse Bosjes,Buurt,BU05180605,Bus / tram / metro.1,734.7097204,5,760,0.966723316
+Oud Scheveningen,Buurt,BU05180701,Bus / tram / metro.1,3391.899315,1,2920,1.161609354
+Vissershaven,Buurt,BU05180702,Bus / tram / metro.1,3866.943599,2,3560,1.086220112
+Scheveningen Badplaats,Buurt,BU05180703,Bus / tram / metro.1,6606.476055,3,5390,1.22569129
+Visserijbuurt,Buurt,BU05180704,Bus / tram / metro.1,4345.580013,4,3860,1.125797931
+Rijslag,Buurt,BU05180772,Bus / tram / metro.1,1834.336289,72,1610,1.13933931
+Duindorp,Buurt,BU05180800,Bus / tram / metro.1,7041.917303,100,5955,1.182521797
+Statenkwartier,Buurt,BU05180907,Bus / tram / metro.1,11348.97369,7,9665,1.174234215
+Geuzenkwartier,Buurt,BU05180908,Bus / tram / metro.1,5068.72168,8,4390,1.154606305
+Zorgvliet,Buurt,BU05181041,Bus / tram / metro.1,449.0647,41,500,0.8981294
+Stadhoudersplantsoen,Buurt,BU05181142,Bus / tram / metro.1,2176.467806,42,1960,1.110442758
+Sweelinckplein en omgeving,Buurt,BU05181143,Bus / tram / metro.1,7463.812504,43,5810,1.284649312
+Bloemenbuurt-West,Buurt,BU05181250,Bus / tram / metro.1,2400.567885,50,2340,1.025883711
+Bloemenbuurt-Oost,Buurt,BU05181251,Bus / tram / metro.1,7368.475155,51,6460,1.140630829
+Bomenbuurt,Buurt,BU05181252,Bus / tram / metro.1,6638.903613,52,5865,1.131952875
+Vogelwijk,Buurt,BU05181309,Bus / tram / metro.1,5803.4166,9,5350,1.084750766
+Bosjes van Pex,Buurt,BU05181481,Bus / tram / metro.1,493.11275,81,400,1.232781875
+Bohemen en Meer en Bos,Buurt,BU05181492,Bus / tram / metro.1,3862.869005,92,4485,0.861286289
+Ockenburgh,Buurt,BU05181590,Bus / tram / metro.1,1076.266635,90,795,1.35379451
+Kijkduin,Buurt,BU05181591,Bus / tram / metro.1,1359.10921,91,1550,0.876844651
+Kraayenstein,Buurt,BU05181697,Bus / tram / metro.1,6664.869596,97,5875,1.134445889
+Kerketuinen en Zichtenburg,Buurt,BU05181785,Bus / tram / metro.1,61.145,85,50,1.2229
+Houtwijk,Buurt,BU05181786,Bus / tram / metro.1,14791.97308,86,12820,1.153820053
+Kom Loosduinen,Buurt,BU05181795,Bus / tram / metro.1,4903.430387,95,4975,0.985614148
+Waldeck-Zuid,Buurt,BU05181806,Bus / tram / metro.1,1881.242107,6,2035,0.924443296
+Nieuw Waldeck,Buurt,BU05181840,Bus / tram / metro.1,8146.774567,40,7210,1.129927124
+Rosenburg,Buurt,BU05181882,Bus / tram / metro.1,2624.737766,82,2910,0.901971741
+Componistenbuurt,Buurt,BU05181893,Bus / tram / metro.1,1719.547432,93,1825,0.942217771
+Waldeck-Noord,Buurt,BU05181894,Bus / tram / metro.1,2031.686401,94,3150,0.64497981
+Vruchtenbuurt,Buurt,BU05181953,Bus / tram / metro.1,8383.140239,53,7165,1.170012594
+Eykenduinen,Buurt,BU05181983,Bus / tram / metro.1,3114.283159,83,2635,1.181891142
+Heesterbuurt,Buurt,BU05182054,Bus / tram / metro.1,9012.429252,54,6805,1.324383432
+Valkenboskwartier,Buurt,BU05182055,Bus / tram / metro.1,15752.68455,55,11435,1.377585007
+Rond de Energiecentrale,Buurt,BU05182110,Bus / tram / metro.1,8254.584855,10,5955,1.386160345
+Koningsplein en omgeving,Buurt,BU05182144,Bus / tram / metro.1,10297.47645,44,7575,1.359402832
+Zeeheldenkwartier,Buurt,BU05182245,Bus / tram / metro.1,16624.07176,45,11845,1.403467434
+Willemspark,Buurt,BU05182347,Bus / tram / metro.1,1816.443163,47,1490,1.219089371
+Haagse Bos,Buurt,BU05182449,Bus / tram / metro.1,369.4726765,49,425,0.869347474
+Landen,Buurt,BU05182561,Bus / tram / metro.1,5881.227825,61,5155,1.140878337
+Kampen,Buurt,BU05182567,Bus / tram / metro.1,2766.316833,67,2455,1.126809301
+Marlot,Buurt,BU05182568,Bus / tram / metro.1,876.4418634,68,805,1.088747656
+Burgen en Horsten,Buurt,BU05182569,Bus / tram / metro.1,6609.556842,69,6285,1.051639911
+Bezuidenhout-West,Buurt,BU05182664,Bus / tram / metro.1,5891.559874,64,3580,1.645687116
+Bezuidenhout-Midden,Buurt,BU05182665,Bus / tram / metro.1,5353.722404,65,4285,1.249410129
+Bezuidenhout-Oost,Buurt,BU05182666,Bus / tram / metro.1,11638.69762,66,9010,1.291753343
+Huygenspark,Buurt,BU05182718,Bus / tram / metro.1,14594.57989,18,7895,1.848585166
+Rivierenbuurt-Zuid,Buurt,BU05182762,Bus / tram / metro.1,1524.262176,62,850,1.793249619
+Rivierenbuurt-Noord,Buurt,BU05182763,Bus / tram / metro.1,5189.921883,63,3690,1.406482895
+Kortenbos,Buurt,BU05182811,Bus / tram / metro.1,10029.25684,11,7275,1.378592006
+Voorhout,Buurt,BU05182812,Bus / tram / metro.1,3327.887404,12,2355,1.413115671
+Uilebomen,Buurt,BU05182813,Bus / tram / metro.1,4121.569969,13,3180,1.296091185
+Zuidwal,Buurt,BU05182814,Bus / tram / metro.1,10027.65797,14,6885,1.456449959
+Schildersbuurt-West,Buurt,BU05182915,Bus / tram / metro.1,19713.96674,15,14115,1.396667852
+Schildersbuurt-Noord,Buurt,BU05182916,Bus / tram / metro.1,13373.39444,16,9985,1.339348466
+Schildersbuurt-Oost,Buurt,BU05182917,Bus / tram / metro.1,10032.78356,17,7230,1.387660243
+Transvaalkwartier-Noord,Buurt,BU05183032,Bus / tram / metro.1,5468.353758,32,3945,1.386147974
+Transvaalkwartier-Midden,Buurt,BU05183033,Bus / tram / metro.1,6271.154016,33,5005,1.252977825
+Transvaalkwartier-Zuid,Buurt,BU05183034,Bus / tram / metro.1,10092.99976,34,7235,1.395024155
+Rustenburg,Buurt,BU05183130,Bus / tram / metro.1,7957.806295,30,6100,1.304558409
+Oostbroek-Noord,Buurt,BU05183131,Bus / tram / metro.1,6249.7969,31,4500,1.388843756
+Oostbroek-Zuid,Buurt,BU05183135,Bus / tram / metro.1,11420.33221,35,8055,1.417794191
+Leyenburg,Buurt,BU05183284,Bus / tram / metro.1,18206.7792,84,14910,1.221111952
+"Venen, Oorden en Raden",Buurt,BU05183387,Bus / tram / metro.1,10674.13393,87,8585,1.243346993
+"Zijden, Steden en Zichten",Buurt,BU05183396,Bus / tram / metro.1,9562.833559,96,7850,1.218195358
+Dreven en Gaarden,Buurt,BU05183398,Bus / tram / metro.1,12942.07306,98,10815,1.196678045
+De Uithof,Buurt,BU05183399,Bus / tram / metro.1,1090.929819,99,1380,0.790528854
+Morgenstond-Zuid,Buurt,BU05183480,Bus / tram / metro.1,7504.574987,80,5930,1.265526979
+Morgenstond-West,Buurt,BU05183488,Bus / tram / metro.1,8985.514554,88,7405,1.213438832
+Morgenstond-Oost,Buurt,BU05183489,Bus / tram / metro.1,6813.884892,89,5560,1.225518865
+Zuiderpark,Buurt,BU05183536,Bus / tram / metro.1,87.00664063,36,160,0.543791504
+Moerwijk-Oost,Buurt,BU05183620,Bus / tram / metro.1,4140.151053,20,3265,1.268040139
+Moerwijk-West,Buurt,BU05183637,Bus / tram / metro.1,7428.295369,37,6240,1.19043195
+Moerwijk-Noord,Buurt,BU05183638,Bus / tram / metro.1,9128.763203,38,6975,1.308783255
+Moerwijk-Zuid,Buurt,BU05183639,Bus / tram / metro.1,5965.111467,39,4600,1.296763362
+Groente- en Fruitmarkt,Buurt,BU05183721,Bus / tram / metro.1,7574.590873,21,5315,1.425134689
+Laakhaven-Oost,Buurt,BU05183819,Bus / tram / metro.1,6640.651281,19,4050,1.639666983
+Laakhaven-West,Buurt,BU05183822,Bus / tram / metro.1,8161.075147,22,5510,1.481138865
+Spoorwijk,Buurt,BU05183823,Bus / tram / metro.1,5900.000818,23,4340,1.359447193
+Laakkwartier-West,Buurt,BU05183824,Bus / tram / metro.1,11270.98508,24,8085,1.394061235
+Laakkwartier-Oost,Buurt,BU05183825,Bus / tram / metro.1,15871.63032,25,11240,1.412066754
+Noordpolderbuurt,Buurt,BU05183826,Bus / tram / metro.1,12165.54062,26,8345,1.457823921
+Binckhorst,Buurt,BU05183960,Bus / tram / metro.1,3106.418925,60,1790,1.735429567
+Erasmus Veld,Buurt,BU05184001,Bus / tram / metro.1,2496.415023,101,2155,1.158429245
+Hoge Veld,Buurt,BU05184002,Bus / tram / metro.1,10608.62672,102,8685,1.221488397
+Parkbuurt oosteinde,Buurt,BU05184003,Bus / tram / metro.1,4584.938193,103,3465,1.323214486
+Lage Veld,Buurt,BU05184004,Bus / tram / metro.1,5396.081637,104,4285,1.259295598
+Zonne Veld,Buurt,BU05184005,Bus / tram / metro.1,4794.202445,105,3440,1.393663502
+Vlietzoom-West,Buurt,BU05184106,Bus / tram / metro.1,189.5514706,106,170,1.115008651
+De Reef,Buurt,BU05184110,Bus / tram / metro.1,265.5125,110,110,2.41375
+Bosweide,Buurt,BU05184208,Bus / tram / metro.1,2684.620488,108,2050,1.30957097
+De Venen,Buurt,BU05184211,Bus / tram / metro.1,2271.324103,111,1755,1.294201768
+Morgenweide,Buurt,BU05184212,Bus / tram / metro.1,9339.268917,112,7135,1.30893748
+Singels,Buurt,BU05184213,Bus / tram / metro.1,7420.642136,113,5595,1.326298863
+Waterbuurt,Buurt,BU05184214,Bus / tram / metro.1,6282.664516,114,4775,1.31574126
+De Bras,Buurt,BU05184215,Bus / tram / metro.1,7490.344855,115,5855,1.279307405
+Vlietzoom-Oost,Buurt,BU05184316,Bus / tram / metro.1,117.474,116,100,1.17474
+De Rivieren,Buurt,BU05184317,Bus / tram / metro.1,35.6175,117,20,1.780875
+De Lanen,Buurt,BU05184418,Bus / tram / metro.1,6599.124294,118,5255,1.255780075
+De Velden,Buurt,BU05184419,Bus / tram / metro.1,5456.448089,119,4220,1.292997178
+De Vissen,Buurt,BU05184420,Bus / tram / metro.1,10737.19426,120,8505,1.262456704
+Rietbuurt,Buurt,BU05184421,Bus / tram / metro.1,3267.801788,121,2755,1.18613495

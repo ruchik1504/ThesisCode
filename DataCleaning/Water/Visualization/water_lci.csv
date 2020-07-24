@@ -1,0 +1,851 @@
+Method,Type,Parameter,Score
+CML 2001 (obsolete),resources,depletion of abiotic resources,1.2744198760408026e-06
+CML 2001 (obsolete),acidification potential,average European,8.216832392946588e-07
+CML 2001 (obsolete),acidification potential,generic,8.042046159815632e-07
+CML 2001 (obsolete),climate change,GWP 100a,0.0001725065483838446
+CML 2001 (obsolete),climate change,GWP 20a,0.00018594413434481477
+CML 2001 (obsolete),climate change,GWP 500a,0.0001666708587734965
+CML 2001 (obsolete),climate change,lower limit of net GWP,0.0001734306130935395
+CML 2001 (obsolete),climate change,upper limit of net GWP,0.0001736985214880843
+CML 2001 (obsolete),eutrophication potential,average European,4.684472217421589e-07
+CML 2001 (obsolete),eutrophication potential,generic,5.824316482993918e-07
+CML 2001 (obsolete),freshwater aquatic ecotoxicity,FAETP 100a,0.0001234464939138007
+CML 2001 (obsolete),freshwater aquatic ecotoxicity,FAETP 20a,0.00011643888722706654
+CML 2001 (obsolete),freshwater aquatic ecotoxicity,FAETP 500a,0.00012353777218944144
+CML 2001 (obsolete),freshwater aquatic ecotoxicity,FAETP infinite,0.00012459610699285052
+CML 2001 (obsolete),freshwater sediment ecotoxicity,FSETP 100a,0.0002700320382830136
+CML 2001 (obsolete),freshwater sediment ecotoxicity,FSETP 20a,0.0002510734185394634
+CML 2001 (obsolete),freshwater sediment ecotoxicity,FSETP 500a,0.00027024629334561904
+CML 2001 (obsolete),freshwater sediment ecotoxicity,FSETP infinite,0.00027168547440458606
+CML 2001 (obsolete),human toxicity,HTP 100a,4.4297693878111286e-05
+CML 2001 (obsolete),human toxicity,HTP 20a,4.4104084242803214e-05
+CML 2001 (obsolete),human toxicity,HTP 500a,4.4776745024033283e-05
+CML 2001 (obsolete),human toxicity,HTP infinite,0.00013290652005758949
+CML 2001 (obsolete),ionising radiation,ionising radiation,1.9522858720728946e-12
+CML 2001 (obsolete),land use,competition,2.012017550815559e-05
+CML 2001 (obsolete),malodours air,malodours air,1.5261399889333702
+CML 2001 (obsolete),marine aquatic ecotoxicity,MAETP 100a,0.00043045931641625274
+CML 2001 (obsolete),marine aquatic ecotoxicity,MAETP 20a,6.1459738402144e-05
+CML 2001 (obsolete),marine aquatic ecotoxicity,MAETP 500a,0.002317396466535209
+CML 2001 (obsolete),marine aquatic ecotoxicity,MAETP infinite,0.32027194585520596
+CML 2001 (obsolete),marine sediment ecotoxicity,MSETP 100a,0.00046671378962031304
+CML 2001 (obsolete),marine sediment ecotoxicity,MSETP 20a,0.00010502707840883469
+CML 2001 (obsolete),marine sediment ecotoxicity,MSETP 500a,0.002068036838466098
+CML 2001 (obsolete),marine sediment ecotoxicity,MSETP infinite,0.16558002892407653
+CML 2001 (obsolete),photochemical oxidation (summer smog),EBIR,1.0397934853066957e-08
+CML 2001 (obsolete),photochemical oxidation (summer smog),MIR,5.545630176511656e-09
+CML 2001 (obsolete),photochemical oxidation (summer smog),MOIR,8.667915750568909e-09
+CML 2001 (obsolete),photochemical oxidation (summer smog),high NOx POCP,3.232585532558741e-08
+CML 2001 (obsolete),photochemical oxidation (summer smog),low NOx POCP,9.277576747893802e-09
+CML 2001 (obsolete),stratospheric ozone depletion,ODP 10a,1.2363840061519881e-11
+CML 2001 (obsolete),stratospheric ozone depletion,ODP 15a,1.162880445640555e-11
+CML 2001 (obsolete),stratospheric ozone depletion,ODP 20a,1.1011906682440967e-11
+CML 2001 (obsolete),stratospheric ozone depletion,ODP 25a,1.0584653764173149e-11
+CML 2001 (obsolete),stratospheric ozone depletion,ODP 30a,1.013590493709486e-11
+CML 2001 (obsolete),stratospheric ozone depletion,ODP 40a,9.279327629907882e-12
+CML 2001 (obsolete),stratospheric ozone depletion,ODP 5a,1.3092256854531214e-11
+CML 2001 (obsolete),stratospheric ozone depletion,ODP steady state,2.0021728657598352e-11
+CML 2001 (obsolete),terrestrial ecotoxicity,TAETP 100a,4.218971372070238e-08
+CML 2001 (obsolete),terrestrial ecotoxicity,TAETP 20a,1.7657719639136848e-08
+CML 2001 (obsolete),terrestrial ecotoxicity,TAETP 500a,1.3612045176570727e-07
+CML 2001 (obsolete),terrestrial ecotoxicity,TAETP infinite,7.08500375803676e-07
+CML 2001 w/o LT (obsolete),resources w/o LT,depletion of abiotic resources w/o LT,1.2744198760408026e-06
+CML 2001 w/o LT (obsolete),acidification potential w/o LT,average European w/o LT,8.216331407897774e-07
+CML 2001 w/o LT (obsolete),acidification potential w/o LT,generic w/o LT,8.041136246176351e-07
+CML 2001 w/o LT (obsolete),climate change w/o LT,GWP 100a w/o LT,0.00017250650447422485
+CML 2001 w/o LT (obsolete),climate change w/o LT,GWP 20a w/o LT,0.00018594409061632546
+CML 2001 w/o LT (obsolete),climate change w/o LT,GWP 500a w/o LT,0.00016667083437998817
+CML 2001 w/o LT (obsolete),climate change w/o LT,lower limit of net GWP w/o LT,0.00017343057514246612
+CML 2001 w/o LT (obsolete),climate change w/o LT,upper limit of net GWP w/o LT,0.00017369847857528307
+CML 2001 w/o LT (obsolete),eutrophication potential w/o LT,average European w/o LT,4.6844455507077605e-07
+CML 2001 w/o LT (obsolete),eutrophication potential w/o LT,generic w/o LT,1.0891832506868431e-07
+CML 2001 w/o LT (obsolete),freshwater aquatic ecotoxicity w/o LT,FAETP 100a w/o LT,7.911817758153982e-07
+CML 2001 w/o LT (obsolete),freshwater aquatic ecotoxicity w/o LT,FAETP 20a w/o LT,7.435065745455746e-07
+CML 2001 w/o LT (obsolete),freshwater aquatic ecotoxicity w/o LT,FAETP 500a w/o LT,8.754239058861973e-07
+CML 2001 w/o LT (obsolete),freshwater aquatic ecotoxicity w/o LT,FAETP infinite w/o LT,1.0739487547539119e-06
+CML 2001 w/o LT (obsolete),freshwater sediment ecotoxicity w/o LT,FSETP 100a w/o LT,1.6949366693034716e-06
+CML 2001 w/o LT (obsolete),freshwater sediment ecotoxicity w/o LT,FSETP 20a w/o LT,1.5780509291559324e-06
+CML 2001 w/o LT (obsolete),freshwater sediment ecotoxicity w/o LT,FSETP 500a w/o LT,1.8943408882925231e-06
+CML 2001 w/o LT (obsolete),freshwater sediment ecotoxicity w/o LT,FSETP infinite w/o LT,2.371698812248478e-06
+CML 2001 w/o LT (obsolete),human toxicity w/o LT,HTP 100a w/o LT,3.573594316111483e-05
+CML 2001 w/o LT (obsolete),human toxicity w/o LT,HTP 20a w/o LT,3.5693068725143074e-05
+CML 2001 w/o LT (obsolete),human toxicity w/o LT,HTP 500a w/o LT,3.5840739923963756e-05
+CML 2001 w/o LT (obsolete),human toxicity w/o LT,HTP infinite w/o LT,4.874773031398811e-05
+CML 2001 w/o LT (obsolete),ionising radiation w/o LT,ionising radiation w/o LT,6.373473549142239e-13
+CML 2001 w/o LT (obsolete),land use w/o LT,competition w/o LT,2.012017550815559e-05
+CML 2001 w/o LT (obsolete),malodours air w/o LT,malodours air w/o LT,1.5248270339559094
+CML 2001 w/o LT (obsolete),marine aquatic ecotoxicity w/o LT,MAETP 100a w/o LT,1.2504177616606472e-05
+CML 2001 w/o LT (obsolete),marine aquatic ecotoxicity w/o LT,MAETP 20a w/o LT,2.358544024240697e-06
+CML 2001 w/o LT (obsolete),marine aquatic ecotoxicity w/o LT,MAETP 500a w/o LT,6.507397800777374e-05
+CML 2001 w/o LT (obsolete),marine aquatic ecotoxicity w/o LT,MAETP infinite w/o LT,0.10452926225119784
+CML 2001 w/o LT (obsolete),marine sediment ecotoxicity w/o LT,MSETP 100a w/o LT,1.3965563610507368e-05
+CML 2001 w/o LT (obsolete),marine sediment ecotoxicity w/o LT,MSETP 20a w/o LT,4.024297985572534e-06
+CML 2001 w/o LT (obsolete),marine sediment ecotoxicity w/o LT,MSETP 500a w/o LT,6.141706417178019e-05
+CML 2001 w/o LT (obsolete),marine sediment ecotoxicity w/o LT,MSETP infinite w/o LT,0.03749297465748273
+CML 2001 w/o LT (obsolete),photochemical oxidation w/o LT,EBIR w/o LT,1.0397934853066957e-08
+CML 2001 w/o LT (obsolete),photochemical oxidation w/o LT,MIR w/o LT,5.545630176511656e-09
+CML 2001 w/o LT (obsolete),photochemical oxidation w/o LT,MOIR w/o LT,8.667915750568909e-09
+CML 2001 w/o LT (obsolete),photochemical oxidation w/o LT,high NOx POCP w/o LT,3.232389138878285e-08
+CML 2001 w/o LT (obsolete),photochemical oxidation w/o LT,low NOx POCP w/o LT,9.277576747893802e-09
+CML 2001 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP 10a w/o LT,1.236291387230934e-11
+CML 2001 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP 15a w/o LT,1.1627845189040606e-11
+CML 2001 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP 20a w/o LT,1.1010930875998822e-11
+CML 2001 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP 25a w/o LT,1.058366141855522e-11
+CML 2001 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP 30a w/o LT,1.0134879513322526e-11
+CML 2001 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP 40a w/o LT,9.278269127981144e-12
+CML 2001 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP 5a w/o LT,1.3091347204397875e-11
+CML 2001 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP steady state w/o LT,2.0020074748300857e-11
+CML 2001 w/o LT (obsolete),terrestrial ecotoxicity w/o LT,TAETP 100a w/o LT,4.056372714292244e-08
+CML 2001 w/o LT (obsolete),terrestrial ecotoxicity w/o LT,TAETP 20a w/o LT,1.7353066647354424e-08
+CML 2001 w/o LT (obsolete),terrestrial ecotoxicity w/o LT,TAETP 500a w/o LT,1.2802141581168452e-07
+CML 2001 w/o LT (obsolete),terrestrial ecotoxicity w/o LT,TAETP infinite w/o LT,6.424082417329041e-07
+"eco-indicator 99, (E,E) (obsolete)",resources,mineral extraction,6.908717937214534e-08
+"eco-indicator 99, (E,E) (obsolete)",resources,total,4.994735361194176e-06
+"eco-indicator 99, (E,E) (obsolete)",total,total,1.2699376471455848e-05
+"eco-indicator 99, (E,E) (obsolete)",ecosystem quality,acidification & eutrophication,2.631560599982468e-07
+"eco-indicator 99, (E,E) (obsolete)",ecosystem quality,ecotoxicity,7.910700412254886e-07
+"eco-indicator 99, (E,E) (obsolete)",ecosystem quality,land occupation,2.1783376158681026e-06
+"eco-indicator 99, (E,E) (obsolete)",ecosystem quality,total,3.232563717091838e-06
+"eco-indicator 99, (E,E) (obsolete)",human health,carcinogenics,1.4007103926288425e-06
+"eco-indicator 99, (E,E) (obsolete)",human health,climate change,6.976701591171033e-07
+"eco-indicator 99, (E,E) (obsolete)",human health,ionising radiation,3.779647666222865e-08
+"eco-indicator 99, (E,E) (obsolete)",human health,ozone layer depletion,3.7933590760827704e-10
+"eco-indicator 99, (E,E) (obsolete)",human health,respiratory effects,2.3355209767533826e-06
+"eco-indicator 99, (E,E) (obsolete)",human health,total,4.472077344266481e-06
+"eco-indicator 99, (E,E) (obsolete)",resources,fossil fuels,4.92564818182203e-06
+"eco-indicator 99, (E,E) w/o LT (obsolete)",resources w/o LT,mineral extraction w/o LT,6.908717937214534e-08
+"eco-indicator 99, (E,E) w/o LT (obsolete)",resources w/o LT,total w/o LT,4.994735361194176e-06
+"eco-indicator 99, (E,E) w/o LT (obsolete)",total w/o LT,total w/o LT,1.113288998823532e-05
+"eco-indicator 99, (E,E) w/o LT (obsolete)",ecosystem quality w/o LT,acidification & eutrophication w/o LT,2.6300922654369406e-07
+"eco-indicator 99, (E,E) w/o LT (obsolete)",ecosystem quality w/o LT,ecotoxicity w/o LT,1.988861971620054e-07
+"eco-indicator 99, (E,E) w/o LT (obsolete)",ecosystem quality w/o LT,land occupation w/o LT,2.1783376158681026e-06
+"eco-indicator 99, (E,E) w/o LT (obsolete)",ecosystem quality w/o LT,total w/o LT,2.640233039573802e-06
+"eco-indicator 99, (E,E) w/o LT (obsolete)",human health w/o LT,carcinogenics w/o LT,4.825967867760284e-07
+"eco-indicator 99, (E,E) w/o LT (obsolete)",human health w/o LT,climate change w/o LT,6.976699898215097e-07
+"eco-indicator 99, (E,E) w/o LT (obsolete)",human health w/o LT,ionising radiation w/o LT,1.2345840817681898e-08
+"eco-indicator 99, (E,E) w/o LT (obsolete)",human health w/o LT,ozone layer depletion w/o LT,3.7930556168119323e-10
+"eco-indicator 99, (E,E) w/o LT (obsolete)",human health w/o LT,respiratory effects w/o LT,2.304929619995983e-06
+"eco-indicator 99, (E,E) w/o LT (obsolete)",human health w/o LT,total w/o LT,3.497921546116861e-06
+"eco-indicator 99, (E,E) w/o LT (obsolete)",resources w/o LT,fossil fuels w/o LT,4.92564818182203e-06
+"eco-indicator 99, (H,A) (obsolete)",resources,mineral extraction,4.879598438582637e-08
+"eco-indicator 99, (H,A) (obsolete)",resources,total,2.9262870368201763e-06
+"eco-indicator 99, (H,A) (obsolete)",total,total,1.003766400138734e-05
+"eco-indicator 99, (H,A) (obsolete)",ecosystem quality,acidification & eutrophication,2.105272355265271e-07
+"eco-indicator 99, (H,A) (obsolete)",ecosystem quality,ecotoxicity,6.32860700968513e-07
+"eco-indicator 99, (H,A) (obsolete)",ecosystem quality,land occupation,2.7245293462542804e-07
+"eco-indicator 99, (H,A) (obsolete)",ecosystem quality,total,1.115840871120468e-06
+"eco-indicator 99, (H,A) (obsolete)",human health,carcinogenics,1.8797125621945576e-06
+"eco-indicator 99, (H,A) (obsolete)",human health,climate change,9.36264592270288e-07
+"eco-indicator 99, (H,A) (obsolete)",human health,ionising radiation,5.072237701664089e-08
+"eco-indicator 99, (H,A) (obsolete)",human health,ozone layer depletion,5.090557651587626e-10
+"eco-indicator 99, (H,A) (obsolete)",human health,respiratory effects,3.1283274510724352e-06
+"eco-indicator 99, (H,A) (obsolete)",human health,total,5.995536057916516e-06
+"eco-indicator 99, (H,A) (obsolete)",resources,fossil fuels,2.87749105243435e-06
+"eco-indicator 99, (H,A) w/o LT (obsolete)",resources w/o LT,mineral extraction w/o LT,4.879598438582637e-08
+"eco-indicator 99, (H,A) w/o LT (obsolete)",resources w/o LT,total w/o LT,2.9262870368201763e-06
+"eco-indicator 99, (H,A) w/o LT (obsolete)",total w/o LT,total w/o LT,8.256471769415412e-06
+"eco-indicator 99, (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,acidification & eutrophication w/o LT,2.1040976598795145e-07
+"eco-indicator 99, (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,ecotoxicity w/o LT,1.591089515992215e-07
+"eco-indicator 99, (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,land occupation w/o LT,2.7245293462542804e-07
+"eco-indicator 99, (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,total w/o LT,6.419716522126011e-07
+"eco-indicator 99, (H,A) w/o LT (obsolete)",human health w/o LT,carcinogenics w/o LT,6.475984007148716e-07
+"eco-indicator 99, (H,A) w/o LT (obsolete)",human health w/o LT,climate change w/o LT,9.362643650804062e-07
+"eco-indicator 99, (H,A) w/o LT (obsolete)",human health w/o LT,ionising radiation w/o LT,1.6567944480892317e-08
+"eco-indicator 99, (H,A) w/o LT (obsolete)",human health w/o LT,ozone layer depletion w/o LT,5.090150409514679e-10
+"eco-indicator 99, (H,A) w/o LT (obsolete)",human health w/o LT,respiratory effects w/o LT,3.0872733167296298e-06
+"eco-indicator 99, (H,A) w/o LT (obsolete)",human health w/o LT,total w/o LT,4.688213061359719e-06
+"eco-indicator 99, (H,A) w/o LT (obsolete)",resources w/o LT,fossil fuels w/o LT,2.87749105243435e-06
+"eco-indicator 99, (I,I) (obsolete)",resources,mineral extraction,2.7358251956185023e-06
+"eco-indicator 99, (I,I) (obsolete)",resources,total,2.7358251956185023e-06
+"eco-indicator 99, (I,I) (obsolete)",total,total,1.1520126081338849e-05
+"eco-indicator 99, (I,I) (obsolete)",ecosystem quality,acidification & eutrophication,1.495858758954108e-07
+"eco-indicator 99, (I,I) (obsolete)",ecosystem quality,ecotoxicity,1.3989023278346115e-08
+"eco-indicator 99, (I,I) (obsolete)",ecosystem quality,land occupation,1.2388526694045258e-06
+"eco-indicator 99, (I,I) (obsolete)",ecosystem quality,total,1.4024275685782827e-06
+"eco-indicator 99, (I,I) (obsolete)",human health,carcinogenics,7.545600687411544e-07
+"eco-indicator 99, (I,I) (obsolete)",human health,climate change,2.293834421367704e-06
+"eco-indicator 99, (I,I) (obsolete)",human health,ionising radiation,5.396512157868803e-09
+"eco-indicator 99, (I,I) (obsolete)",human health,ozone layer depletion,1.0552538406390539e-09
+"eco-indicator 99, (I,I) (obsolete)",human health,respiratory effects,4.327026997781504e-06
+"eco-indicator 99, (I,I) (obsolete)",human health,total,7.381873247419561e-06
+ecological scarcity 1997 (obsolete),total,deposited waste,0.009127151287312318
+ecological scarcity 1997 (obsolete),total,emission into air,0.09840990914638963
+ecological scarcity 1997 (obsolete),total,emission into top-soil/groundwater,0.00023658136978985258
+ecological scarcity 1997 (obsolete),total,emission into water,0.0005443463551433289
+ecological scarcity 1997 (obsolete),total,radioactive waste,0.07074023358412448
+ecological scarcity 1997 (obsolete),total,total,0.36551526300306286
+ecological scarcity 1997 (obsolete),total,use of energy resources,0.0036994097587718508
+ecological scarcity 2006 (obsolete),total,deposited waste,0.04683212566220597
+ecological scarcity 2006 (obsolete),total,emission into air,0.11924159521524451
+ecological scarcity 2006 (obsolete),total,emission into groundwater,0.00017145732852404032
+ecological scarcity 2006 (obsolete),total,emission into surface water,0.008266804297833222
+ecological scarcity 2006 (obsolete),total,emission into top soil,0.0007417659597861772
+ecological scarcity 2006 (obsolete),total,energy resources,0.013008415965952624
+ecological scarcity 2006 (obsolete),total,natural resources,0.10123808139685721
+ecological scarcity 2006 (obsolete),total,total,0.2895002458264037
+EDIP (obsolete),resource consumption,"non-renewable resources, antimony",9.184347511444638e-15
+EDIP (obsolete),resource consumption,"non-renewable resources, cadmium",6.640442188784156e-13
+EDIP (obsolete),resource consumption,"non-renewable resources, cerium",1.8032709506229316e-12
+EDIP (obsolete),resource consumption,"non-renewable resources, copper",4.2105043613048416e-08
+EDIP (obsolete),resource consumption,"non-renewable resources, molybdenum",0.0
+EDIP (obsolete),resource consumption,"non-renewable resources, gold",1.3162043551308756e-11
+EDIP (obsolete),resource consumption,"non-renewable resources, iron",1.2593375873149741e-06
+EDIP (obsolete),resource consumption,"non-renewable resources, lanthanum",5.405951392668643e-13
+EDIP (obsolete),resource consumption,"non-renewable resources, lead",1.293964543882452e-09
+EDIP (obsolete),resource consumption,"non-renewable resources, manganese",6.76950892001559e-09
+EDIP (obsolete),resource consumption,"non-renewable resources, mercury",5.698607469518677e-13
+EDIP (obsolete),resource consumption,"non-renewable resources, nickel",1.3249513253390124e-08
+EDIP (obsolete),resource consumption,"non-renewable resources, palladium",1.3302700938986646e-13
+EDIP (obsolete),resource consumption,"non-renewable resources, platinum",1.2373243969019186e-13
+EDIP (obsolete),resource consumption,"non-renewable resources, silver",5.948864808132898e-12
+EDIP (obsolete),resource consumption,"non-renewable resources, tantalum",6.903552056685118e-13
+EDIP (obsolete),resource consumption,"non-renewable resources, tin",2.1541220817102642e-11
+EDIP (obsolete),resource consumption,"non-renewable resources, zinc",5.7663761937791776e-09
+EDIP (obsolete),environmental impact,acidification,8.042011960749901e-07
+EDIP (obsolete),environmental impact,"ecotoxicity, acute, in water",0.11096047947089345
+EDIP (obsolete),environmental impact,"ecotoxicity, chronic, in soil",0.0003167916393447129
+EDIP (obsolete),environmental impact,"ecotoxicity, chronic, in water",0.5838737844843079
+EDIP (obsolete),environmental impact,"ecotoxicity, in sewage treatment plants",2.4102013537590232
+EDIP (obsolete),environmental impact,"global warming, GWP 100a",0.0001720416185414583
+EDIP (obsolete),environmental impact,"global warming, GWP 20a",0.00018300885818026548
+EDIP (obsolete),environmental impact,"global warming, GWP 500a",0.0001666742428361998
+EDIP (obsolete),environmental impact,"human toxicity, via air",63.51178136793224
+EDIP (obsolete),environmental impact,"human toxicity, via soil",2.6653145600156478e-05
+EDIP (obsolete),environmental impact,"human toxicity, via surface water",0.016874819529552908
+EDIP (obsolete),environmental impact,"land filling, bulk waste",1.7688827546694014e-05
+EDIP (obsolete),environmental impact,"land filling, hazardous waste",1.3769586067701093e-09
+EDIP (obsolete),environmental impact,"land filling, radioactive waste",2.5065674246649638e-08
+EDIP (obsolete),environmental impact,"land filling, slag and ashes",4.414858282971307e-07
+EDIP (obsolete),environmental impact,"nutrient enrichment, combined potential",6.065702790293866e-06
+EDIP (obsolete),environmental impact,"nutrient enrichment, separate N potential",1.593725344542514e-07
+EDIP (obsolete),environmental impact,"nutrient enrichment, separate P potential",1.691843918307711e-07
+EDIP (obsolete),environmental impact,"photochemical ozone formation, high NOx POCP",2.1302759078574483e-08
+EDIP (obsolete),environmental impact,"photochemical ozone formation, low NOx POCP",2.2141589503982683e-08
+EDIP (obsolete),environmental impact,"stratospheric ozone depletion, ODP 100a",7.514899464240247e-12
+EDIP (obsolete),environmental impact,"stratospheric ozone depletion, ODP 20a",1.1017990413247244e-11
+EDIP (obsolete),environmental impact,"stratospheric ozone depletion, ODP 5a",1.3081436637722945e-11
+EDIP (obsolete),environmental impact,"stratospheric ozone depletion, ODP steady state",2.0013066913282682e-11
+EDIP (obsolete),resource consumption,"non-renewable resources, aluminium",2.5918765763054372e-08
+EDIP (obsolete),resource consumption,"non-renewable resources, brown coal",5.6796587778628906e-05
+EDIP (obsolete),resource consumption,"non-renewable resources, coal",3.601940741029052e-05
+EDIP (obsolete),resource consumption,"non-renewable resources, cobalt",3.760934627791806e-12
+EDIP (obsolete),resource consumption,"non-renewable resources, natural gas",1.4529309931711571e-05
+EDIP (obsolete),resource consumption,"non-renewable resources, oil",3.4679242718834896e-06
+EDIP (obsolete),resource consumption,"renewable resources, wood",1.2434490181777383e-08
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, antimony w/o LT",9.184347511444638e-15
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, cadmium w/o LT",6.640442188784156e-13
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, cerium w/o LT",1.8032709506229316e-12
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, copper w/o LT",4.2105043613048416e-08
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, molybdenum w/o LT",0.0
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, gold w/o LT",1.3162043551308756e-11
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, iron w/o LT",1.2593375873149741e-06
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, lanthanum w/o LT",5.405951392668643e-13
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, lead w/o LT",1.293964543882452e-09
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, manganese w/o LT",6.76950892001559e-09
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, mercury w/o LT",5.698607469518677e-13
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, nickel w/o LT",1.3249513253390124e-08
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, palladium w/o LT",1.3302700938986646e-13
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, platinum w/o LT",1.2391288956731719e-13
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, silver w/o LT",5.9491828836297156e-12
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, tantalum w/o LT",6.903552056685118e-13
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, tin w/o LT",2.1541220817102642e-11
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, zinc w/o LT",5.7663761937791776e-09
+EDIP w/o LT (obsolete),environmental impact w/o LT,acidification w/o LT,8.041102047110619e-07
+EDIP w/o LT (obsolete),environmental impact w/o LT,"ecotoxicity, acute, in water w/o LT",0.005399834640556585
+EDIP w/o LT (obsolete),environmental impact w/o LT,"ecotoxicity, chronic, in soil w/o LT",0.00031429903676128096
+EDIP w/o LT (obsolete),environmental impact w/o LT,"ecotoxicity, chronic, in water w/o LT",0.025711908201777517
+EDIP w/o LT (obsolete),environmental impact w/o LT,"ecotoxicity, in sewage treatment plants w/o LT",0.09602255292716005
+EDIP w/o LT (obsolete),environmental impact w/o LT,"global warming, GWP 100a w/o LT",0.00017204157503778746
+EDIP w/o LT (obsolete),environmental impact w/o LT,"global warming, GWP 20a w/o LT",0.00018300881651608136
+EDIP w/o LT (obsolete),environmental impact w/o LT,"global warming, GWP 500a w/o LT",0.0001666742181562804
+EDIP w/o LT (obsolete),environmental impact w/o LT,"human toxicity, via air w/o LT",48.112641909564346
+EDIP w/o LT (obsolete),environmental impact w/o LT,"human toxicity, via soil w/o LT",2.117812448001822e-05
+EDIP w/o LT (obsolete),environmental impact w/o LT,"human toxicity, via surface water w/o LT",0.0013344767356714515
+EDIP w/o LT (obsolete),environmental impact w/o LT,"land filling, bulk waste w/o LT",1.7688827546694014e-05
+EDIP w/o LT (obsolete),environmental impact w/o LT,"land filling, hazardous waste w/o LT",1.3769586067701093e-09
+EDIP w/o LT (obsolete),environmental impact w/o LT,"land filling, radioactive waste w/o LT",2.5065674246649638e-08
+EDIP w/o LT (obsolete),environmental impact w/o LT,"land filling, slag and ashes w/o LT",4.414858282971307e-07
+EDIP w/o LT (obsolete),environmental impact w/o LT,"nutrient enrichment, combined potential w/o LT",1.124648834040639e-06
+EDIP w/o LT (obsolete),environmental impact w/o LT,"nutrient enrichment, separate N potential w/o LT",1.2114573807735234e-07
+EDIP w/o LT (obsolete),environmental impact w/o LT,"nutrient enrichment, separate P potential w/o LT",1.8395108695609177e-08
+EDIP w/o LT (obsolete),environmental impact w/o LT,"photochemical ozone formation, high NOx POCP w/o LT",2.130275871697811e-08
+EDIP w/o LT (obsolete),environmental impact w/o LT,"photochemical ozone formation, low NOx POCP w/o LT",2.214158927008847e-08
+EDIP w/o LT (obsolete),environmental impact w/o LT,"stratospheric ozone depletion, ODP 100a w/o LT",7.513609415035518e-12
+EDIP w/o LT (obsolete),environmental impact w/o LT,"stratospheric ozone depletion, ODP 20a w/o LT",1.1017014606805097e-11
+EDIP w/o LT (obsolete),environmental impact w/o LT,"stratospheric ozone depletion, ODP 5a w/o LT",1.3080526987589606e-11
+EDIP w/o LT (obsolete),environmental impact w/o LT,"stratospheric ozone depletion, ODP steady state w/o LT",2.001157839495437e-11
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, aluminium w/o LT",2.5918765763054372e-08
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, brown coal w/o LT",5.6796587778628906e-05
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, coal w/o LT",3.601940741029052e-05
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, cobalt w/o LT",3.760934627791806e-12
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, natural gas w/o LT",1.4529309931711571e-05
+EDIP w/o LT (obsolete),resource consumption w/o LT,"non-renewable resources, oil w/o LT",3.4679242718834896e-06
+EDIP w/o LT (obsolete),resource consumption w/o LT,"renewable resources, wood w/o LT",1.2434490181777383e-08
+EDIP2003 (obsolete),non-renewable resources,antimony,9.184347511444638e-15
+EDIP2003 (obsolete),non-renewable resources,cadmium,6.640442188784156e-13
+EDIP2003 (obsolete),non-renewable resources,cerium,1.8032709506229316e-12
+EDIP2003 (obsolete),non-renewable resources,copper,4.2105043613048416e-08
+EDIP2003 (obsolete),non-renewable resources,molybdenum,0.0
+EDIP2003 (obsolete),non-renewable resources,gold,1.3162043551308756e-11
+EDIP2003 (obsolete),non-renewable resources,iron,1.2593375873149741e-06
+EDIP2003 (obsolete),non-renewable resources,lanthanum,5.405951392668643e-13
+EDIP2003 (obsolete),non-renewable resources,lead,1.293964543882452e-09
+EDIP2003 (obsolete),non-renewable resources,manganese,6.76950892001559e-09
+EDIP2003 (obsolete),non-renewable resources,mercury,5.698607469518677e-13
+EDIP2003 (obsolete),non-renewable resources,nickel,1.3249513253390124e-08
+EDIP2003 (obsolete),non-renewable resources,palladium,1.3302700938986646e-13
+EDIP2003 (obsolete),non-renewable resources,platinum,1.2373243969019186e-13
+EDIP2003 (obsolete),non-renewable resources,silver,5.948864808132898e-12
+EDIP2003 (obsolete),non-renewable resources,tantalum,6.903552056685118e-13
+EDIP2003 (obsolete),non-renewable resources,tin,2.1541220817102642e-11
+EDIP2003 (obsolete),non-renewable resources,zinc,5.7663761937791776e-09
+EDIP2003 (obsolete),acidification,acidification,1.3614404553656273e-05
+EDIP2003 (obsolete),ecotoxicity,"acute, in water",0.06648502123389512
+EDIP2003 (obsolete),ecotoxicity,"chronic, in soil",0.00031717731814102175
+EDIP2003 (obsolete),ecotoxicity,"chronic, in water",0.5838273637918476
+EDIP2003 (obsolete),ecotoxicity,in sewage treatment plants,0.6977558667963634
+EDIP2003 (obsolete),eutrophication,combined potential,5.3427726857364755e-06
+EDIP2003 (obsolete),eutrophication,separate N potential,1.4242121955789005e-07
+EDIP2003 (obsolete),eutrophication,separate P potential,1.4866289545823149e-07
+EDIP2003 (obsolete),eutrophication,terrestrial eutrophication,1.007497130733588e-05
+EDIP2003 (obsolete),global warming,GWP 100a,0.00017164505710198975
+EDIP2003 (obsolete),global warming,GWP 20a,0.00018261228198388987
+EDIP2003 (obsolete),global warming,GWP 500a,0.00016627768403189327
+EDIP2003 (obsolete),human toxicity,via air,52.55785613678429
+EDIP2003 (obsolete),human toxicity,via soil,2.6653145642586757e-05
+EDIP2003 (obsolete),human toxicity,via surface water,0.016874819529306462
+EDIP2003 (obsolete),land filling,bulk waste,1.7688827546694014e-05
+EDIP2003 (obsolete),land filling,hazardous waste,1.3769586067701093e-09
+EDIP2003 (obsolete),land filling,radioactive waste,2.5065674246649638e-08
+EDIP2003 (obsolete),land filling,slag and ashes,4.414858282971307e-07
+EDIP2003 (obsolete),non-renewable resources,aluminium,2.5918765763054372e-08
+EDIP2003 (obsolete),non-renewable resources,brown coal,5.6796587778628906e-05
+EDIP2003 (obsolete),non-renewable resources,coal,3.601940741029052e-05
+EDIP2003 (obsolete),non-renewable resources,cobalt,3.760934627791806e-12
+EDIP2003 (obsolete),non-renewable resources,natural gas,1.4529309931711571e-05
+EDIP2003 (obsolete),non-renewable resources,oil,3.4679242718834896e-06
+EDIP2003 (obsolete),photochemical ozone formation,impacts on human health,5.1249348028699617e-08
+EDIP2003 (obsolete),photochemical ozone formation,impacts on vegetation,0.0007394515241688451
+EDIP2003 (obsolete),renewable resources,wood,1.2434490181777383e-08
+EDIP2003 (obsolete),stratospheric ozone depletion,ODP total,2.0021728657598352e-11
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,antimony w/o LT,9.184347511444638e-15
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,cadmium w/o LT,6.640442188784156e-13
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,cerium w/o LT,1.8032709506229316e-12
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,copper w/o LT,4.2105043613048416e-08
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,molybdenum w/o LT,0.0
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,gold w/o LT,1.3162043551308756e-11
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,iron w/o LT,1.2593375873149741e-06
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,lanthanum w/o LT,5.405951392668643e-13
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,lead w/o LT,1.293964543882452e-09
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,manganese w/o LT,6.76950892001559e-09
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,mercury w/o LT,5.698607469518677e-13
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,nickel w/o LT,1.3249513253390124e-08
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,palladium w/o LT,1.3302700938986646e-13
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,platinum w/o LT,1.2373243969019186e-13
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,silver w/o LT,5.948864808132898e-12
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,tantalum w/o LT,6.903552056685118e-13
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,tin w/o LT,2.1541220817102642e-11
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,zinc w/o LT,5.7663761937791776e-09
+EDIP2003 w/o LT (obsolete),acidification w/o LT,acidification w/o LT,1.361027758960439e-05
+EDIP2003 w/o LT (obsolete),ecotoxicity w/o LT,"acute, in water w/o LT",0.005399834622355683
+EDIP2003 w/o LT (obsolete),ecotoxicity w/o LT,"chronic, in soil w/o LT",0.0003146847155575898
+EDIP2003 w/o LT (obsolete),ecotoxicity w/o LT,"chronic, in water w/o LT",0.025711776895341078
+EDIP2003 w/o LT (obsolete),ecotoxicity w/o LT,in sewage treatment plants w/o LT,0.09602255292716005
+EDIP2003 w/o LT (obsolete),eutrophication w/o LT,combined potential w/o LT,1.0427722899430676e-06
+EDIP2003 w/o LT (obsolete),eutrophication w/o LT,separate N potential w/o LT,1.1986449563099268e-07
+EDIP2003 w/o LT (obsolete),eutrophication w/o LT,separate P potential w/o LT,1.5968043342480003e-08
+EDIP2003 w/o LT (obsolete),eutrophication w/o LT,terrestrial eutrophication w/o LT,1.0074909079589894e-05
+EDIP2003 w/o LT (obsolete),global warming w/o LT,GWP 100a w/o LT,0.00017164501359831895
+EDIP2003 w/o LT (obsolete),global warming w/o LT,GWP 20a w/o LT,0.00018261224031970575
+EDIP2003 w/o LT (obsolete),global warming w/o LT,GWP 500a w/o LT,0.00016627765935197384
+EDIP2003 w/o LT (obsolete),human toxicity w/o LT,via air w/o LT,48.11264190899294
+EDIP2003 w/o LT (obsolete),human toxicity w/o LT,via soil w/o LT,2.1178124522448498e-05
+EDIP2003 w/o LT (obsolete),human toxicity w/o LT,via surface water w/o LT,0.0013344767354250054
+EDIP2003 w/o LT (obsolete),land filling w/o LT,bulk waste w/o LT,1.7688827546694014e-05
+EDIP2003 w/o LT (obsolete),land filling w/o LT,hazardous waste w/o LT,1.3769586067701093e-09
+EDIP2003 w/o LT (obsolete),land filling w/o LT,radioactive waste w/o LT,2.5065674246649638e-08
+EDIP2003 w/o LT (obsolete),land filling w/o LT,slag and ashes w/o LT,4.414858282971307e-07
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,aluminium w/o LT,2.5918765763054372e-08
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,brown coal w/o LT,5.6796587778628906e-05
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,coal w/o LT,3.601940741029052e-05
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,cobalt w/o LT,3.760934627791806e-12
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,natural gas w/o LT,1.4529309931711571e-05
+EDIP2003 w/o LT (obsolete),non-renewable resources w/o LT,oil w/o LT,3.4679242718834896e-06
+EDIP2003 w/o LT (obsolete),photochemical ozone formation w/o LT,impacts on human health w/o LT,5.1249330453437996e-08
+EDIP2003 w/o LT (obsolete),photochemical ozone formation w/o LT,impacts on vegetation w/o LT,0.0007394512605427346
+EDIP2003 w/o LT (obsolete),renewable resources w/o LT,wood w/o LT,1.2434490181777383e-08
+EDIP2003 w/o LT (obsolete),stratospheric ozone depletion w/o LT,ODP total w/o LT,2.0020074748300857e-11
+EPS 2000 (obsolete),total,abiotic stock resources,3.934042132644976e-05
+EPS 2000 (obsolete),total,total,0.00013717370544512653
+EPS 2000 (obsolete),total,emissions into air,2.914649945288405e-05
+EPS 2000 (obsolete),total,emissions into soil,4.167499024889249e-12
+EPS 2000 (obsolete),total,emissions into water,-3.63675954432009e-10
+EPS 2000 (obsolete),total,land occupation,1.0029145168486158e-07
+ILCD 1.0.8 2016 midpoint (obsolete),resources,"mineral, fossils and renewables",1.362697295760953e-09
+ILCD 1.0.8 2016 midpoint no LT (obsolete),resources,"mineral, fossils and renewables",1.362697295760953e-09
+ILCD 1.0.8 2016 midpoint (obsolete),climate change,GWP 100a,0.00017241860904625264
+ILCD 1.0.8 2016 midpoint (obsolete),ecosystem quality,freshwater and terrestrial acidification,9.819758551032023e-07
+ILCD 1.0.8 2016 midpoint (obsolete),ecosystem quality,freshwater ecotoxicity,0.002607418312599898
+ILCD 1.0.8 2016 midpoint (obsolete),ecosystem quality,freshwater eutrophication,1.6914311708071684e-07
+ILCD 1.0.8 2016 midpoint (obsolete),ecosystem quality,ionising radiation,2.398023071015076e-10
+ILCD 1.0.8 2016 midpoint (obsolete),ecosystem quality,marine eutrophication,1.7151927703754332e-07
+ILCD 1.0.8 2016 midpoint (obsolete),ecosystem quality,terrestrial eutrophication,1.63484933176586e-06
+ILCD 1.0.8 2016 midpoint (obsolete),human health,carcinogenic effects,1.5066858607277547e-11
+ILCD 1.0.8 2016 midpoint (obsolete),human health,ionising radiation,9.282547229170448e-05
+ILCD 1.0.8 2016 midpoint (obsolete),human health,non-carcinogenic effects,5.965001575155243e-11
+ILCD 1.0.8 2016 midpoint (obsolete),human health,ozone layer depletion,2.001934072330772e-11
+ILCD 1.0.8 2016 midpoint (obsolete),human health,photochemical ozone creation,4.100134176314394e-07
+ILCD 1.0.8 2016 midpoint (obsolete),human health,"respiratory effects, inorganics",7.431420483256284e-08
+ILCD 1.0.8 2016 midpoint (obsolete),resources,land use,0.0002176562333794213
+cumulative exergy demand,metals,"non-renewable material resources, metals",7.3244383798762565e-06
+ILCD 1.0.8 2016 midpoint no LT (obsolete),climate change,GWP 100a,0.0001724185704576207
+ILCD 1.0.8 2016 midpoint no LT (obsolete),ecosystem quality,freshwater and terrestrial acidification,9.819739972856245e-07
+ILCD 1.0.8 2016 midpoint no LT (obsolete),ecosystem quality,freshwater ecotoxicity,5.465221198951751e-05
+ILCD 1.0.8 2016 midpoint no LT (obsolete),ecosystem quality,freshwater eutrophication,1.8356241850061758e-08
+ILCD 1.0.8 2016 midpoint no LT (obsolete),ecosystem quality,ionising radiation,2.398023071015076e-10
+ILCD 1.0.8 2016 midpoint no LT (obsolete),ecosystem quality,marine eutrophication,1.3402202891315017e-07
+ILCD 1.0.8 2016 midpoint no LT (obsolete),ecosystem quality,terrestrial eutrophication,1.634796099050475e-06
+ILCD 1.0.8 2016 midpoint no LT (obsolete),human health,carcinogenic effects,1.6916654835700645e-12
+ILCD 1.0.8 2016 midpoint no LT (obsolete),human health,ionising radiation,3.036589525088277e-05
+ILCD 1.0.8 2016 midpoint no LT (obsolete),human health,non-carcinogenic effects,1.972576241829502e-11
+ILCD 1.0.8 2016 midpoint no LT (obsolete),human health,ozone layer depletion,2.0017686814010224e-11
+ILCD 1.0.8 2016 midpoint no LT (obsolete),human health,photochemical ozone creation,4.1001327117986746e-07
+ILCD 1.0.8 2016 midpoint no LT (obsolete),human health,"respiratory effects, inorganics",7.312101470016784e-08
+ILCD 1.0.8 2016 midpoint no LT (obsolete),resources,land use,0.0002176562333794213
+IMPACT 2002+ (Endpoint) (obsolete),resources,mineral extraction,1.2768020599887965e-11
+IMPACT 2002+ (Endpoint) (obsolete),resources,total,2.4722204967501368e-08
+IMPACT 2002+ (Endpoint) (obsolete),climate change,climate change,1.673405471868772e-08
+IMPACT 2002+ (Endpoint) (obsolete),climate change,total,1.673405471868772e-08
+IMPACT 2002+ (Endpoint) (obsolete),ecosystem quality,aquatic ecotoxicity,4.2040364893490766e-11
+IMPACT 2002+ (Endpoint) (obsolete),ecosystem quality,land occupation,2.683803663428012e-10
+IMPACT 2002+ (Endpoint) (obsolete),ecosystem quality,terrestrial acidification & nutrification,1.9693710175721312e-10
+IMPACT 2002+ (Endpoint) (obsolete),ecosystem quality,terrestrial ecotoxicity,1.5922729041416993e-09
+IMPACT 2002+ (Endpoint) (obsolete),ecosystem quality,total,2.099630720825032e-09
+IMPACT 2002+ (Endpoint) (obsolete),human health,human toxicity,1.9876538335742153e-09
+IMPACT 2002+ (Endpoint) (obsolete),human health,ionising radiation,1.3133356038856045e-08
+IMPACT 2002+ (Endpoint) (obsolete),human health,ozone layer depletion,2.9608990271789043e-12
+IMPACT 2002+ (Endpoint) (obsolete),human health,photochemical oxidation,6.614788396858575e-12
+IMPACT 2002+ (Endpoint) (obsolete),human health,respiratory effects (inorganics),1.5957672311143932e-08
+IMPACT 2002+ (Endpoint) (obsolete),human health,total,3.108825787505244e-08
+IMPACT 2002+ (Endpoint) (obsolete),resources,non-renewable energy,2.470943694690148e-08
+IMPACT 2002+ (Midpoint) (obsolete),ecosystem quality,aquatic acidification,8.042046099557927e-07
+IMPACT 2002+ (Midpoint) (obsolete),ecosystem quality,aquatic eutrophication,2.506119273855026e-09
+IPCC 2001 (obsolete),climate change,GWP 100a,0.00017187555202700347
+IPCC 2001 (obsolete),climate change,GWP 20a,0.00018284290591412232
+IPCC 2001 (obsolete),climate change,GWP 500a,0.00016650812545103316
+IPCC 2007 (obsolete),climate change,GWP 100a,0.00017241786044147714
+IPCC 2007 (obsolete),climate change,GWP 20a,0.00018585523783496064
+IPCC 2007 (obsolete),climate change,GWP 500a,0.00016658276824606176
+IPCC 2007 no LT (obsolete),climate change,GWP 100a,0.0001724178165318574
+IPCC 2007 no LT (obsolete),climate change,GWP 20a,0.00018585519410647134
+IPCC 2007 no LT (obsolete),climate change,GWP 500a,0.00016658274385255342
+"ReCiPe Endpoint (E,A) (obsolete)",resources,metal depletion,7.836839350628182e-07
+"ReCiPe Endpoint (E,A) (obsolete)",resources,total,6.806998296350585e-06
+"ReCiPe Endpoint (E,A) (obsolete)",total,total,5.476201992844759e-05
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,agricultural land occupation,4.455720774442016e-07
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,"climate change, ecosystems",4.529038644974506e-06
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,freshwater ecotoxicity,3.166947187800271e-09
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,freshwater eutrophication,1.1103671390444693e-08
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,marine ecotoxicity,1.0128236851275773e-06
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,natural land transformation,2.779669268346088e-06
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,terrestrial acidification,1.669132272541161e-08
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,terrestrial ecotoxicity,1.9512408722637203e-08
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,total,8.877595621056936e-06
+"ReCiPe Endpoint (E,A) (obsolete)",ecosystem quality,urban land occupation,6.001759952736336e-08
+"ReCiPe Endpoint (E,A) (obsolete)",human health,"climate change, human health",5.69817115697892e-06
+"ReCiPe Endpoint (E,A) (obsolete)",human health,human toxicity,3.264223452959773e-05
+"ReCiPe Endpoint (E,A) (obsolete)",human health,ionising radiation,1.4864260876967833e-08
+"ReCiPe Endpoint (E,A) (obsolete)",human health,ozone depletion,4.179496345456724e-10
+"ReCiPe Endpoint (E,A) (obsolete)",human health,particulate matter formation,7.078173771128023e-07
+"ReCiPe Endpoint (E,A) (obsolete)",human health,photochemical oxidant formation,1.3920862309831057e-08
+"ReCiPe Endpoint (E,A) (obsolete)",human health,total,3.9077426134544e-05
+"ReCiPe Endpoint (E,A) (obsolete)",resources,fossil depletion,6.023314361287767e-06
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",resources w/o LT,metal depletion w/o LT,7.836839350628182e-07
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",resources w/o LT,total w/o LT,6.806998296350585e-06
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",total w/o LT,total w/o LT,2.3758961065292983e-05
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,agricultural land occupation w/o LT,4.455720774442016e-07
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,"climate change, ecosystems w/o LT",4.529037981035728e-06
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,freshwater ecotoxicity w/o LT,6.256639488490536e-11
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,freshwater eutrophication w/o LT,1.2051984509512342e-09
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,marine ecotoxicity w/o LT,2.9015291026373518e-08
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,natural land transformation w/o LT,2.779669268346088e-06
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,terrestrial acidification w/o LT,2.550017034852237e-08
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,terrestrial ecotoxicity w/o LT,1.7276119193789694e-08
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,total w/o LT,7.887356272454988e-06
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",ecosystem quality w/o LT,urban land occupation w/o LT,6.001759952736336e-08
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",human health w/o LT,"climate change, human health w/o LT",5.698170321650009e-06
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",human health w/o LT,human toxicity w/o LT,2.6446546510739902e-06
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",human health w/o LT,ionising radiation w/o LT,4.861961800819742e-09
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",human health w/o LT,ozone depletion w/o LT,4.1792128323216663e-10
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",human health w/o LT,particulate matter formation w/o LT,7.025810949228218e-07
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",human health w/o LT,photochemical oxidant formation w/o LT,1.3920860991854661e-08
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",human health w/o LT,total w/o LT,9.064606809754913e-06
+"ReCiPe Endpoint (E,A) w/o LT (obsolete)",resources w/o LT,fossil depletion w/o LT,6.023314361287767e-06
+"ReCiPe Endpoint (H,A) (obsolete)",resources,metal depletion,7.836839350628182e-07
+"ReCiPe Endpoint (H,A) (obsolete)",resources,total,6.806998296350585e-06
+"ReCiPe Endpoint (H,A) (obsolete)",total,total,1.861610407101929e-05
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,agricultural land occupation,6.83716160169195e-07
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,"climate change, ecosystems",3.0179813582843376e-06
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,freshwater ecotoxicity,4.793118086487517e-09
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,freshwater eutrophication,1.7025833848492126e-08
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,marine ecotoxicity,9.684504492292886e-10
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,natural land transformation,7.042125791358774e-08
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,terrestrial acidification,9.617419967231032e-09
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,terrestrial ecotoxicity,2.0421137526780742e-09
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,total,3.897751832858524e-06
+"ReCiPe Endpoint (H,A) (obsolete)",ecosystem quality,urban land occupation,9.118612042224425e-08
+"ReCiPe Endpoint (H,A) (obsolete)",human health,"climate change, human health",4.774823305491755e-06
+"ReCiPe Endpoint (H,A) (obsolete)",human health,human toxicity,1.636504698961323e-06
+"ReCiPe Endpoint (H,A) (obsolete)",human health,ionising radiation,3.0277373618276596e-08
+"ReCiPe Endpoint (H,A) (obsolete)",human health,ozone depletion,8.513458853668295e-10
+"ReCiPe Endpoint (H,A) (obsolete)",human health,particulate matter formation,1.4462100844949148e-06
+"ReCiPe Endpoint (H,A) (obsolete)",human health,photochemical oxidant formation,2.268743655994453e-08
+"ReCiPe Endpoint (H,A) (obsolete)",human health,total,7.91135423013976e-06
+"ReCiPe Endpoint (H,A) (obsolete)",resources,fossil depletion,6.023314361287767e-06
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",resources w/o LT,metal depletion w/o LT,7.836839350628182e-07
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",resources w/o LT,total w/o LT,6.806998296350585e-06
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",total w/o LT,total w/o LT,1.7125849473507076e-05
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,agricultural land occupation w/o LT,6.83716160169195e-07
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,"climate change, ecosystems w/o LT",3.017980588878321e-06
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,freshwater ecotoxicity w/o LT,7.702919588568545e-11
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,freshwater eutrophication w/o LT,1.8479923551398127e-09
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,marine ecotoxicity w/o LT,3.8760862949929754e-11
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,natural land transformation w/o LT,7.042125791358774e-08
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,terrestrial acidification w/o LT,1.3734296514400175e-08
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,terrestrial ecotoxicity w/o LT,1.9336386069030934e-09
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,total w/o LT,3.88093584489572e-06
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",ecosystem quality w/o LT,urban land occupation w/o LT,9.118612042224425e-08
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",human health w/o LT,"climate change, human health w/o LT",4.774822088195382e-06
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",human health w/o LT,human toxicity w/o LT,2.0839162567188474e-07
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",human health w/o LT,ionising radiation w/o LT,9.903496380423534e-09
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",human health w/o LT,ozone depletion w/o LT,8.512881341631909e-10
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",human health w/o LT,particulate matter formation w/o LT,1.4212597431693382e-06
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",human health w/o LT,photochemical oxidant formation w/o LT,2.2687433885158068e-08
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",human health w/o LT,total w/o LT,6.437915656311017e-06
+"ReCiPe Endpoint (H,A) w/o LT (obsolete)",resources w/o LT,fossil depletion w/o LT,6.023314361287767e-06
+"ReCiPe Endpoint (I,A) (obsolete)",resources,metal depletion,7.091897988098786e-07
+"ReCiPe Endpoint (I,A) (obsolete)",resources,total,6.7208589269639055e-06
+"ReCiPe Endpoint (I,A) (obsolete)",total,total,1.615072603014395e-05
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,agricultural land occupation,3.9610686619214395e-07
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,"climate change, ecosystems",3.165981076453398e-06
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,freshwater ecotoxicity,4.664067182391213e-09
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,freshwater eutrophication,1.6443047717729416e-08
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,marine ecotoxicity,7.567776604951256e-10
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,natural land transformation,6.096728233530724e-08
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,terrestrial acidification,2.349330500659115e-09
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,terrestrial ecotoxicity,1.9835049515122003e-09
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,total,3.724674130625227e-06
+"ReCiPe Endpoint (I,A) (obsolete)",ecosystem quality,urban land occupation,7.542217771724319e-08
+"ReCiPe Endpoint (I,A) (obsolete)",human health,"climate change, human health",4.208569174208832e-06
+"ReCiPe Endpoint (I,A) (obsolete)",human health,human toxicity,9.343738603500415e-08
+"ReCiPe Endpoint (I,A) (obsolete)",human health,ionising radiation,2.1063303975904492e-08
+"ReCiPe Endpoint (I,A) (obsolete)",human health,ozone depletion,1.9378516740450406e-10
+"ReCiPe Endpoint (I,A) (obsolete)",human health,particulate matter formation,1.381929186911743e-06
+"ReCiPe Endpoint (I,A) (obsolete)",human health,photochemical oxidant formation,1.3632106697832438e-13
+"ReCiPe Endpoint (I,A) (obsolete)",human health,total,5.705192967676437e-06
+"ReCiPe Endpoint (I,A) (obsolete)",resources,fossil depletion,6.011669128154027e-06
+ReCiPe Midpoint (E) (obsolete),metal depletion,MDP,5.565245110873783e-06
+ReCiPe Midpoint (E) (obsolete),agricultural land occupation,ALOP,1.8217309494262472e-05
+ReCiPe Midpoint (E) (obsolete),climate change,GWP500,0.00016639995006827076
+ReCiPe Midpoint (E) (obsolete),fossil depletion,FDP,5.023022374294465e-05
+ReCiPe Midpoint (E) (obsolete),freshwater ecotoxicity,FETPinf,5.35432273233151e-06
+ReCiPe Midpoint (E) (obsolete),freshwater eutrophication,FEP,1.6914327723845006e-07
+ReCiPe Midpoint (E) (obsolete),human toxicity,HTPinf,0.004812501791379771
+ReCiPe Midpoint (E) (obsolete),ionising radiation,IRP_HE,9.30552556549911e-05
+ReCiPe Midpoint (E) (obsolete),marine ecotoxicity,METPinf,0.004703779734229169
+ReCiPe Midpoint (E) (obsolete),marine eutrophication,MEP,1.7172417569121873e-07
+ReCiPe Midpoint (E) (obsolete),natural land transformation,NLTP,2.307255166140848e-08
+ReCiPe Midpoint (E) (obsolete),ozone depletion,ODPinf,2.002902048111622e-11
+ReCiPe Midpoint (E) (obsolete),particulate matter formation,PMFP,2.7904339230382157e-07
+ReCiPe Midpoint (E) (obsolete),photochemical oxidant formation,POFP,4.161204790097833e-07
+ReCiPe Midpoint (E) (obsolete),terrestrial acidification,TAP500,8.073226809409887e-07
+ReCiPe Midpoint (E) (obsolete),terrestrial ecotoxicity,TETPinf,9.195599733743648e-08
+ReCiPe Midpoint (E) (obsolete),urban land occupation,ULOP,1.991265236996335e-06
+ReCiPe Midpoint (E) (obsolete),water depletion,WDP,0.0010010160264402642
+ReCiPe Midpoint (E) w/o LT (obsolete),metal depletion w/o LT,MDP w/o LT,5.565245110873783e-06
+ReCiPe Midpoint (E) w/o LT (obsolete),agricultural land occupation w/o LT,ALOP w/o LT,1.813522915387161e-05
+ReCiPe Midpoint (E) w/o LT (obsolete),climate change w/o LT,GWP500 w/o LT,0.00016639994076687786
+ReCiPe Midpoint (E) w/o LT (obsolete),fossil depletion w/o LT,FDP w/o LT,4.7033044446724596e-05
+ReCiPe Midpoint (E) w/o LT (obsolete),freshwater ecotoxicity w/o LT,FETPinf w/o LT,5.3028600968258075e-08
+ReCiPe Midpoint (E) w/o LT (obsolete),freshwater eutrophication w/o LT,FEP w/o LT,1.835634599567254e-08
+ReCiPe Midpoint (E) w/o LT (obsolete),human toxicity w/o LT,HTPinf w/o LT,0.0003963280585364435
+ReCiPe Midpoint (E) w/o LT (obsolete),ionising radiation w/o LT,IRP_HE w/o LT,3.0436726401578738e-05
+ReCiPe Midpoint (E) w/o LT (obsolete),marine ecotoxicity w/o LT,METPinf w/o LT,0.00012124622055829511
+ReCiPe Midpoint (E) w/o LT (obsolete),marine eutrophication w/o LT,MEP w/o LT,1.7589753785260983e-08
+ReCiPe Midpoint (E) w/o LT (obsolete),natural land transformation w/o LT,NLTP w/o LT,2.2789494839256654e-08
+ReCiPe Midpoint (E) w/o LT (obsolete),ozone depletion w/o LT,ODPinf w/o LT,2.002975450610936e-11
+ReCiPe Midpoint (E) w/o LT (obsolete),particulate matter formation w/o LT,PMFP w/o LT,2.760523713063985e-07
+ReCiPe Midpoint (E) w/o LT (obsolete),photochemical oxidant formation w/o LT,POFP w/o LT,4.161145628608576e-07
+ReCiPe Midpoint (E) w/o LT (obsolete),terrestrial acidification w/o LT,TAP500 w/o LT,8.072799874743185e-07
+ReCiPe Midpoint (E) w/o LT (obsolete),terrestrial ecotoxicity w/o LT,TETPinf w/o LT,8.022946108417669e-08
+ReCiPe Midpoint (E) w/o LT (obsolete),urban land occupation w/o LT,ULOP w/o LT,1.991218449049989e-06
+ReCiPe Midpoint (E) w/o LT (obsolete),water depletion w/o LT,WDP w/o LT,0.0010010160141042308
+ReCiPe Midpoint (H) (obsolete),metal depletion,MDP,5.565245110873783e-06
+ReCiPe Midpoint (H) (obsolete),agricultural land occupation,ALOP,1.8217309494262472e-05
+ReCiPe Midpoint (H) (obsolete),climate change,GWP100,0.00017223507134318992
+ReCiPe Midpoint (H) (obsolete),fossil depletion,FDP,5.023022374294465e-05
+ReCiPe Midpoint (H) (obsolete),freshwater ecotoxicity,FETPinf,5.342880840090383e-06
+ReCiPe Midpoint (H) (obsolete),freshwater eutrophication,FEP,1.6914327723845006e-07
+ReCiPe Midpoint (H) (obsolete),human toxicity,HTPinf,0.00011956981368193659
+ReCiPe Midpoint (H) (obsolete),ionising radiation,IRP_HE,9.30552556549911e-05
+ReCiPe Midpoint (H) (obsolete),marine ecotoxicity,METPinf,4.919374326889468e-06
+ReCiPe Midpoint (H) (obsolete),marine eutrophication,MEP,1.7172417569121873e-07
+ReCiPe Midpoint (H) (obsolete),natural land transformation,NLTP,2.307255166140848e-08
+ReCiPe Midpoint (H) (obsolete),ozone depletion,ODPinf,2.002902048111622e-11
+ReCiPe Midpoint (H) (obsolete),particulate matter formation,PMFP,2.7904339230382157e-07
+ReCiPe Midpoint (H) (obsolete),photochemical oxidant formation,POFP,4.161204790097833e-07
+ReCiPe Midpoint (H) (obsolete),terrestrial acidification,TAP100,7.503245639170725e-07
+ReCiPe Midpoint (H) (obsolete),terrestrial ecotoxicity,TETPinf,6.481607457144798e-09
+ReCiPe Midpoint (H) (obsolete),urban land occupation,ULOP,1.991265236996335e-06
+ReCiPe Midpoint (H) (obsolete),water depletion,WDP,0.0010010160264402642
+ReCiPe Midpoint (H) w/o LT (obsolete),metal depletion w/o LT,MDP w/o LT,5.565245110873783e-06
+ReCiPe Midpoint (H) w/o LT (obsolete),agricultural land occupation w/o LT,ALOP w/o LT,1.813522915387161e-05
+ReCiPe Midpoint (H) w/o LT (obsolete),climate change w/o LT,GWP100 w/o LT,0.00017223498221726337
+ReCiPe Midpoint (H) w/o LT (obsolete),fossil depletion w/o LT,FDP w/o LT,4.7033044446724596e-05
+ReCiPe Midpoint (H) w/o LT (obsolete),freshwater ecotoxicity w/o LT,FETPinf w/o LT,4.240670326695118e-08
+ReCiPe Midpoint (H) w/o LT (obsolete),freshwater eutrophication w/o LT,FEP w/o LT,1.835634599567254e-08
+ReCiPe Midpoint (H) w/o LT (obsolete),human toxicity w/o LT,HTPinf w/o LT,1.575919456485434e-05
+ReCiPe Midpoint (H) w/o LT (obsolete),ionising radiation w/o LT,IRP_HE w/o LT,3.0436726401578738e-05
+ReCiPe Midpoint (H) w/o LT (obsolete),marine ecotoxicity w/o LT,METPinf w/o LT,1.0173951116925952e-07
+ReCiPe Midpoint (H) w/o LT (obsolete),marine eutrophication w/o LT,MEP w/o LT,1.7589753785260983e-08
+ReCiPe Midpoint (H) w/o LT (obsolete),natural land transformation w/o LT,NLTP w/o LT,2.2789494839256654e-08
+ReCiPe Midpoint (H) w/o LT (obsolete),ozone depletion w/o LT,ODPinf w/o LT,2.002975450610936e-11
+ReCiPe Midpoint (H) w/o LT (obsolete),particulate matter formation w/o LT,PMFP w/o LT,2.760523713063985e-07
+ReCiPe Midpoint (H) w/o LT (obsolete),photochemical oxidant formation w/o LT,POFP w/o LT,4.161145628608576e-07
+ReCiPe Midpoint (H) w/o LT (obsolete),terrestrial acidification w/o LT,TAP100 w/o LT,7.502821473039645e-07
+ReCiPe Midpoint (H) w/o LT (obsolete),terrestrial ecotoxicity w/o LT,TETPinf w/o LT,5.991128943967174e-09
+ReCiPe Midpoint (H) w/o LT (obsolete),urban land occupation w/o LT,ULOP w/o LT,1.991218449049989e-06
+ReCiPe Midpoint (H) w/o LT (obsolete),water depletion w/o LT,WDP w/o LT,0.0010010160141042308
+ReCiPe Midpoint (I) (obsolete),metal depletion,MDP,5.565245110873783e-06
+ReCiPe Midpoint (I) (obsolete),agricultural land occupation,ALOP,1.8217309494262472e-05
+ReCiPe Midpoint (I) (obsolete),climate change,GWP20,0.00018567254277099626
+ReCiPe Midpoint (I) (obsolete),fossil depletion,FDP,5.023022374294465e-05
+ReCiPe Midpoint (I) (obsolete),freshwater ecotoxicity,FETP100,2.521422394346606e-06
+ReCiPe Midpoint (I) (obsolete),freshwater eutrophication,FEP,1.6914327723845006e-07
+ReCiPe Midpoint (I) (obsolete),human toxicity,HTP100,7.014065605631622e-06
+ReCiPe Midpoint (I) (obsolete),ionising radiation,IRP_I,6.734513689006975e-05
+ReCiPe Midpoint (I) (obsolete),marine ecotoxicity,METP100,2.003444953293369e-06
+ReCiPe Midpoint (I) (obsolete),marine eutrophication,MEP,1.7172417569121873e-07
+ReCiPe Midpoint (I) (obsolete),natural land transformation,NLTP,2.307255166140848e-08
+ReCiPe Midpoint (I) (obsolete),ozone depletion,ODPinf,2.002902048111622e-11
+ReCiPe Midpoint (I) (obsolete),particulate matter formation,PMFP,2.7904339230382157e-07
+ReCiPe Midpoint (I) (obsolete),photochemical oxidant formation,POFP,4.161204790097833e-07
+ReCiPe Midpoint (I) (obsolete),terrestrial acidification,TAP20,7.196565826960554e-07
+ReCiPe Midpoint (I) (obsolete),terrestrial ecotoxicity,TETP100,6.470141329604094e-09
+ReCiPe Midpoint (I) (obsolete),urban land occupation,ULOP,1.991265236996335e-06
+ReCiPe Midpoint (I) (obsolete),water depletion,WDP,0.0010010160264402642
+TRACI (obsolete),environmental impact,acidification,4.228436145170584e-05
+TRACI (obsolete),environmental impact,ecotoxicity,7.540171231233789e-05
+TRACI (obsolete),environmental impact,eutrophication,2.181110309836113e-08
+TRACI (obsolete),environmental impact,global warming,0.0001713945325111994
+TRACI (obsolete),environmental impact,ozone depletion,7.893269323612544e-12
+TRACI (obsolete),environmental impact,photochemical oxidation,3.381369873134155e-07
+TRACI (obsolete),human health,carcinogenics,3.954042014030319e-07
+TRACI (obsolete),human health,non-carcinogenics,0.0008223986322888101
+TRACI (obsolete),human health,"respiratory effects, average",2.182235893166251e-07
+USEtox (obsolete),ecotoxicity,total,0.0013678910231714782
+USEtox (obsolete),human toxicity,carcinogenic,1.4919127086696346e-11
+USEtox (obsolete),human toxicity,non-carcinogenic,5.969526856415184e-11
+USEtox (obsolete),human toxicity,total,7.461439524551832e-11
+USEtox w/o LT (obsolete),ecotoxicity w/o LT,total w/o LT,3.212687777048029e-05
+USEtox w/o LT (obsolete),human toxicity w/o LT,carcinogenic w/o LT,1.4961171489510567e-12
+USEtox w/o LT (obsolete),human toxicity w/o LT,non-carcinogenic w/o LT,1.9730867269718403e-11
+USEtox w/o LT (obsolete),human toxicity w/o LT,total w/o LT,2.1226984187860625e-11
+ReCiPe Midpoint (E) V1.13,freshwater ecotoxicity,FETPinf,5.3524843197094794e-06
+ReCiPe Midpoint (E) V1.13,human toxicity,HTPinf,0.004776946167246856
+ReCiPe Midpoint (E) V1.13,marine ecotoxicity,METPinf,0.004669329586073335
+ReCiPe Midpoint (E) V1.13,terrestrial ecotoxicity,TETPinf,6.612361541774414e-08
+ReCiPe Midpoint (H) V1.13,freshwater ecotoxicity,FETPinf,5.345654490098143e-06
+ReCiPe Midpoint (H) V1.13,human toxicity,HTPinf,0.00011481953842305729
+ReCiPe Midpoint (H) V1.13,marine ecotoxicity,METPinf,4.9059975498471494e-06
+ReCiPe Midpoint (H) V1.13,terrestrial ecotoxicity,TETPinf,5.978686739448574e-09
+ReCiPe Midpoint (I) V1.13,freshwater ecotoxicity,FETP100,5.345613533964753e-06
+ReCiPe Midpoint (I) V1.13,human toxicity,HTP100,3.7516582446334034e-06
+ReCiPe Midpoint (I) V1.13,marine ecotoxicity,METP100,3.0078326109459043e-06
+ReCiPe Midpoint (I) V1.13,terrestrial ecotoxicity,TETP100,5.9672031718857945e-09
+ILCD 2.0 2018 midpoint,ecosystem quality,freshwater ecotoxicity,5.478744274002307e-05
+ILCD 2.0 2018 midpoint,human health,non-carcinogenic effects,1.972597507222379e-11
+ILCD 2.0 2018 midpoint,human health,carcinogenic effects,1.6916894900608584e-12
+ecological scarcity 2013,mineral resources,total,0.0016633923643658058
+ecological scarcity 2013,total,total,0.1995369880927482
+ecological scarcity 2013 no LT,mineral resources,total,0.0016633923643658058
+ecological scarcity 2013 no LT,total,total,0.19377037642837547
+cumulative exergy demand,minerals,"non-renewable material resources, minerals",1.0576436663696113e-05
+ILCD 2.0 2018 midpoint,resources,minerals and metals,7.708343922686387e-10
+ILCD 2.0 2018 midpoint no LT,resources,minerals and metals,7.708343922686387e-10
+ReCiPe Midpoint (E) V1.13,metal depletion,MDP,3.822834032184116e-06
+ReCiPe Midpoint (E) V1.13 no LT,metal depletion,MDP,3.822834032184116e-06
+ReCiPe Midpoint (H) V1.13,metal depletion,MDP,3.822834032184116e-06
+ReCiPe Midpoint (H) V1.13 no LT,metal depletion,MDP,3.822834032184116e-06
+ReCiPe Midpoint (I) V1.13,metal depletion,MDP,3.822834032184116e-06
+ILCD 2.0 2018 midpoint,climate change,climate change biogenic,1.1076375364803467e-06
+ILCD 2.0 2018 midpoint,climate change,climate change fossil,0.000174494630620392
+ILCD 2.0 2018 midpoint,climate change,climate change land use and land use change,3.959262117438892e-07
+ILCD 2.0 2018 midpoint,climate change,climate change total,0.00017599819436861627
+ILCD 2.0 2018 midpoint,ecosystem quality,freshwater and terrestrial acidification,9.822261234805708e-07
+ILCD 2.0 2018 midpoint,ecosystem quality,freshwater eutrophication,1.6889550213904617e-07
+ILCD 2.0 2018 midpoint,ecosystem quality,marine eutrophication,1.715193676048585e-07
+ILCD 2.0 2018 midpoint,ecosystem quality,terrestrial eutrophication,1.6343700452087151e-06
+ILCD 2.0 2018 midpoint,human health,ionising radiation,9.282547229170448e-05
+ILCD 2.0 2018 midpoint,human health,ozone layer depletion,1.554556740809725e-11
+ILCD 2.0 2018 midpoint,human health,photochemical ozone creation,4.153732422877127e-07
+ILCD 2.0 2018 midpoint,human health,"respiratory effects, inorganics",3.3564889889370617e-12
+ILCD 2.0 2018 midpoint,resources,dissipated water,8.748503047632633e-05
+ILCD 2.0 2018 midpoint,resources,fossils,0.004015058650421607
+ILCD 2.0 2018 midpoint,resources,land use,0.0018722445042045203
+ILCD 2.0 2018 midpoint no LT,climate change,climate change biogenic,1.1076375364803467e-06
+ILCD 2.0 2018 midpoint no LT,climate change,climate change fossil,0.00017449458594997398
+ILCD 2.0 2018 midpoint no LT,climate change,climate change land use and land use change,3.959262117438892e-07
+ILCD 2.0 2018 midpoint no LT,climate change,climate change total,0.00017599814969819822
+ILCD 2.0 2018 midpoint no LT,ecosystem quality,freshwater and terrestrial acidification,9.82224265662993e-07
+ILCD 2.0 2018 midpoint no LT,ecosystem quality,freshwater ecotoxicity,5.478677404183994e-05
+ILCD 2.0 2018 midpoint no LT,ecosystem quality,freshwater eutrophication,1.8108626908391107e-08
+ILCD 2.0 2018 midpoint no LT,ecosystem quality,marine eutrophication,1.3402211948046535e-07
+ILCD 2.0 2018 midpoint no LT,ecosystem quality,terrestrial eutrophication,1.6343168206599399e-06
+ILCD 2.0 2018 midpoint no LT,human health,carcinogenic effects,1.6916894883199573e-12
+ILCD 2.0 2018 midpoint no LT,human health,ionising radiation,3.036589525088277e-05
+ILCD 2.0 2018 midpoint no LT,human health,non-carcinogenic effects,1.9725975071258607e-11
+ILCD 2.0 2018 midpoint no LT,human health,ozone layer depletion,1.5544227741562333e-11
+ILCD 2.0 2018 midpoint no LT,human health,photochemical ozone creation,4.153697776011978e-07
+ILCD 2.0 2018 midpoint no LT,human health,"respiratory effects, inorganics",3.0715864678730464e-12
+ILCD 2.0 2018 midpoint no LT,resources,dissipated water,8.748326379577116e-05
+ILCD 2.0 2018 midpoint no LT,resources,fossils,0.004015058650421607
+ILCD 2.0 2018 midpoint no LT,resources,land use,0.0018722445042045203
+IPCC 2013,climate change,GTP 100a,0.00016655672022237002
+IPCC 2013,climate change,GTP 20a,0.00018554642218503135
+IPCC 2013,climate change,GWP 100a,0.00017393040245441448
+IPCC 2013,climate change,GWP 20a,0.00019048167564201203
+IPCC 2013 no LT,climate change,GTP 100a,0.00016655668514324799
+IPCC 2013 no LT,climate change,GTP 20a,0.00018554637929566777
+IPCC 2013 no LT,climate change,GWP 100a,0.00017393036222096122
+IPCC 2013 no LT,climate change,GWP 20a,0.00019048163441165355
+ReCiPe Midpoint (E) V1.13,agricultural land occupation,ALOP,1.9317212464554903e-05
+ReCiPe Midpoint (E) V1.13,climate change,GWP500,0.00016639659824055602
+ReCiPe Midpoint (E) V1.13,fossil depletion,FDP,5.2164195201543e-05
+ReCiPe Midpoint (E) V1.13,freshwater eutrophication,FEP,1.691432212263276e-07
+ReCiPe Midpoint (E) V1.13,ionising radiation,IRP_HE,9.289251224505232e-05
+ReCiPe Midpoint (E) V1.13,marine eutrophication,MEP,5.5862662341758776e-08
+ReCiPe Midpoint (E) V1.13,natural land transformation,NLTP,-1.505541074202768e-08
+ReCiPe Midpoint (E) V1.13,ozone depletion,ODPinf,1.9795529922425497e-11
+ReCiPe Midpoint (E) V1.13,particulate matter formation,PMFP,2.7908160089312844e-07
+ReCiPe Midpoint (E) V1.13,photochemical oxidant formation,POFP,4.143947556723805e-07
+ReCiPe Midpoint (E) V1.13,terrestrial acidification,TAP500,8.075137238846762e-07
+ReCiPe Midpoint (E) V1.13,urban land occupation,ULOP,1.598604700266124e-06
+ReCiPe Midpoint (E) V1.13,water depletion,WDP,2.036904049413076e-06
+ReCiPe Midpoint (E) V1.13 no LT,agricultural land occupation,ALOP,1.9317212464554903e-05
+ReCiPe Midpoint (E) V1.13 no LT,climate change,GWP500,0.0001663965783126028
+ReCiPe Midpoint (E) V1.13 no LT,fossil depletion,FDP,5.2164195201543e-05
+ReCiPe Midpoint (E) V1.13 no LT,freshwater ecotoxicity,FETPinf,4.671553447702203e-08
+ReCiPe Midpoint (E) V1.13 no LT,freshwater eutrophication,FEP,1.835634599567254e-08
+ReCiPe Midpoint (E) V1.13 no LT,human toxicity,HTPinf,0.0003845811582085035
+ReCiPe Midpoint (E) V1.13 no LT,ionising radiation,IRP_HE,3.0432935204230605e-05
+ReCiPe Midpoint (E) V1.13 no LT,marine ecotoxicity,METPinf,0.0001129723675722748
+ReCiPe Midpoint (E) V1.13 no LT,marine eutrophication,MEP,1.7638957334759977e-08
+ReCiPe Midpoint (E) V1.13 no LT,natural land transformation,NLTP,-1.505541074202768e-08
+ReCiPe Midpoint (E) V1.13 no LT,ozone depletion,ODPinf,1.9795529922425497e-11
+ReCiPe Midpoint (E) V1.13 no LT,particulate matter formation,PMFP,2.760905798957054e-07
+ReCiPe Midpoint (E) V1.13 no LT,photochemical oxidant formation,POFP,4.1439129098586574e-07
+ReCiPe Midpoint (E) V1.13 no LT,terrestrial acidification,TAP500,8.074710304180059e-07
+ReCiPe Midpoint (E) V1.13 no LT,terrestrial ecotoxicity,TETPinf,5.588263722005552e-08
+ReCiPe Midpoint (E) V1.13 no LT,urban land occupation,ULOP,1.598604700266124e-06
+ReCiPe Midpoint (E) V1.13 no LT,water depletion,WDP,2.0368629159899378e-06
+ReCiPe Midpoint (H) V1.13,agricultural land occupation,ALOP,1.9317212464554903e-05
+ReCiPe Midpoint (H) V1.13,climate change,GWP100,0.0001722274005761031
+ReCiPe Midpoint (H) V1.13,fossil depletion,FDP,5.2164195201543e-05
+ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,1.691432212263276e-07
+ReCiPe Midpoint (H) V1.13,ionising radiation,IRP_HE,9.289251224505232e-05
+ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,5.5862662341758776e-08
+ReCiPe Midpoint (H) V1.13,natural land transformation,NLTP,-1.505541074202768e-08
+ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,1.9795529922425497e-11
+ReCiPe Midpoint (H) V1.13,particulate matter formation,PMFP,2.7908160089312844e-07
+ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,4.143947556723805e-07
+ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,7.5051560686076e-07
+ReCiPe Midpoint (H) V1.13,urban land occupation,ULOP,1.598604700266124e-06
+ReCiPe Midpoint (H) V1.13,water depletion,WDP,2.036904049413076e-06
+ReCiPe Midpoint (H) V1.13 no LT,agricultural land occupation,ALOP,1.9317212464554903e-05
+ReCiPe Midpoint (H) V1.13 no LT,climate change,GWP100,0.0001722273668049473
+ReCiPe Midpoint (H) V1.13 no LT,fossil depletion,FDP,5.2164195201543e-05
+ReCiPe Midpoint (H) V1.13 no LT,freshwater ecotoxicity,FETPinf,4.0152384162757114e-08
+ReCiPe Midpoint (H) V1.13 no LT,freshwater eutrophication,FEP,1.835634599567254e-08
+ReCiPe Midpoint (H) V1.13 no LT,human toxicity,HTPinf,1.18667589668013e-05
+ReCiPe Midpoint (H) V1.13 no LT,ionising radiation,IRP_HE,3.0432935204230605e-05
+ReCiPe Midpoint (H) V1.13 no LT,marine ecotoxicity,METPinf,9.806431801752925e-08
+ReCiPe Midpoint (H) V1.13 no LT,marine eutrophication,MEP,1.7638957334759977e-08
+ReCiPe Midpoint (H) V1.13 no LT,natural land transformation,NLTP,-1.505541074202768e-08
+ReCiPe Midpoint (H) V1.13 no LT,ozone depletion,ODPinf,1.9795529922425497e-11
+ReCiPe Midpoint (H) V1.13 no LT,particulate matter formation,PMFP,2.760905798957054e-07
+ReCiPe Midpoint (H) V1.13 no LT,photochemical oxidant formation,POFP,4.1439129098586574e-07
+ReCiPe Midpoint (H) V1.13 no LT,terrestrial acidification,TAP100,7.50473190247652e-07
+ReCiPe Midpoint (H) V1.13 no LT,terrestrial ecotoxicity,TETPinf,5.656289748255777e-09
+ReCiPe Midpoint (H) V1.13 no LT,urban land occupation,ULOP,1.598604700266124e-06
+ReCiPe Midpoint (H) V1.13 no LT,water depletion,WDP,2.0368629159899378e-06
+ReCiPe Midpoint (I) V1.13,agricultural land occupation,ALOP,1.9317212464554903e-05
+ReCiPe Midpoint (I) V1.13,climate change,GWP20,0.00018564918246271632
+ReCiPe Midpoint (I) V1.13,fossil depletion,FDP,5.2164195201543e-05
+ReCiPe Midpoint (I) V1.13,freshwater eutrophication,FEP,1.691432212263276e-07
+ReCiPe Midpoint (I) V1.13,ionising radiation,IRP_I,6.71836280138769e-05
+ReCiPe Midpoint (I) V1.13,marine eutrophication,MEP,5.5862662341758776e-08
+ReCiPe Midpoint (I) V1.13,natural land transformation,NLTP,-1.505541074202768e-08
+ReCiPe Midpoint (I) V1.13,ozone depletion,ODPinf,1.9795529922425497e-11
+ReCiPe Midpoint (I) V1.13,particulate matter formation,PMFP,2.7908160089312844e-07
+ReCiPe Midpoint (I) V1.13,photochemical oxidant formation,POFP,4.143947556723805e-07
+ReCiPe Midpoint (I) V1.13,terrestrial acidification,TAP20,7.198476256397429e-07
+ReCiPe Midpoint (I) V1.13,urban land occupation,ULOP,1.598604700266124e-06
+ReCiPe Midpoint (I) V1.13,water depletion,WDP,2.036904049413076e-06
+cumulative energy demand,biomass,"renewable energy resources, biomass",0.00013320740929331407
+cumulative energy demand,fossil,"non-renewable energy resources, fossil",0.0021122104722487343
+cumulative energy demand,geothermal,"renewable energy resources, geothermal, converted",1.0358986517850862e-05
+cumulative energy demand,nuclear,"non-renewable energy resources, nuclear",0.0016076743648227995
+cumulative energy demand,primary forest,"non-renewable energy resources, primary forest",1.568934954659176e-08
+cumulative energy demand,solar,"renewable energy resources, solar, converted",2.0261352561042237e-08
+cumulative energy demand,water,"renewable energy resources, potential (in barrage water), converted",0.0002874952825576886
+cumulative energy demand,wind,"renewable energy resources, kinetic (in wind), converted",0.00015244634784732872
+cumulative exergy demand,biomass,"renewable energy resources, biomass",0.0001398677734061556
+cumulative exergy demand,fossil,"non-renewable energy resources, fossil",0.0021175764498218056
+cumulative exergy demand,nuclear,"non-renewable energy resources, nuclear",0.0016076743648227995
+cumulative exergy demand,primary forest,"non-renewable energy resources, primary forest",1.6473816275794864e-08
+cumulative exergy demand,solar,"renewable energy resources, solar, converted",1.884305802668976e-08
+cumulative exergy demand,water,"renewable energy resources, potential (in barrage water), converted",0.0002874952825576886
+cumulative exergy demand,water resources,"renewable material resources, water",0.05155935177095011
+cumulative exergy demand,wind,"renewable energy resources, kinetic (in wind), converted",0.00015244634784732872
+ecological footprint,total,CO2,0.00043180783085703636
+ecological footprint,total,land occupation,3.0134218507729102e-05
+ecological footprint,total,nuclear,0.00031504675856366764
+ecological footprint,total,total,0.0007769888079284331
+ecological scarcity 2013,POP into water,total,0.0003760941706264867
+ecological scarcity 2013,carcinogenic substances into air,total,0.009835284316305115
+ecological scarcity 2013,energy resources,total,0.013255636696961616
+ecological scarcity 2013,global warming,total,0.07944212574897141
+ecological scarcity 2013,heavy metals into air,total,0.00829675395960133
+ecological scarcity 2013,heavy metals into soil,total,0.0007189585783448921
+ecological scarcity 2013,heavy metals into water,total,0.003546520651792162
+ecological scarcity 2013,land use,total,0.0011178887866263897
+ecological scarcity 2013,main air pollutants and PM,total,0.03934735818318731
+ecological scarcity 2013,non radioactive waste to deposit,total,0.0004617134254534723
+ecological scarcity 2013,ozone layer depletion,total,0.00015534754774901586
+ecological scarcity 2013,pesticides into soil,total,6.412227336048971e-06
+ecological scarcity 2013,radioactive substances into air,total,7.3989715888084e-09
+ecological scarcity 2013,radioactive substances into water,total,0.00037676286847478487
+ecological scarcity 2013,radioactive waste to deposit,total,0.03391957372322052
+ecological scarcity 2013,water pollutants,total,0.005774645974618269
+ecological scarcity 2013,water resources,total,0.0012425114701419757
+ecological scarcity 2013 no LT,POP into water,total,0.0003760941706264867
+ecological scarcity 2013 no LT,carcinogenic substances into air,total,0.009835282918894954
+ecological scarcity 2013 no LT,energy resources,total,0.013255636696961616
+ecological scarcity 2013 no LT,global warming,total,0.0794421099354663
+ecological scarcity 2013 no LT,heavy metals into air,total,0.00784940568866654
+ecological scarcity 2013 no LT,heavy metals into soil,total,0.0007189585783448921
+ecological scarcity 2013 no LT,heavy metals into water,total,0.003546520651792162
+ecological scarcity 2013 no LT,land use,total,0.0011178887866263897
+ecological scarcity 2013 no LT,main air pollutants and PM,total,0.03892788736701416
+ecological scarcity 2013 no LT,non radioactive waste to deposit,total,3.700576255694666e-05
+ecological scarcity 2013 no LT,ozone layer depletion,total,0.00015533630116579288
+ecological scarcity 2013 no LT,pesticides into soil,total,6.412227336048971e-06
+ecological scarcity 2013 no LT,radioactive substances into air,total,2.413163196081824e-09
+ecological scarcity 2013 no LT,radioactive substances into water,total,0.00037676286847478487
+ecological scarcity 2013 no LT,radioactive waste to deposit,total,0.03391957372322052
+ecological scarcity 2013 no LT,water pollutants,total,0.0012996195949450562
+ecological scarcity 2013 no LT,water resources,total,0.0012424863787538613
+ecosystem damage potential,total,"linear, land occupation",1.3203208356465072e-05
+ecosystem damage potential,total,"linear, land transformation",6.641679173690028e-08
+ecosystem damage potential,total,"linear, land use, total",1.3269625148201973e-05

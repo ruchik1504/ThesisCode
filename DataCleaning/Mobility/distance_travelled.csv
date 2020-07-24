@@ -1,0 +1,1086 @@
+Name,Type,Code,Mode,Distance travelled
+Den Haag,Gemeente,GM0518,Passenger car (driver).1,8238334.511043039
+Den Haag,Gemeente,GM0518,Passenger car (passenger).1,2723845.2983544553
+Den Haag,Gemeente,GM0518,Train.1,2913809.39648902
+Den Haag,Gemeente,GM0518,Bus / tram / metro.1,970322.553482455
+Den Haag,Gemeente,GM0518,Bike.1,1405719.6120320498
+Den Haag,Gemeente,GM0518,walk.1,497910.02735681453
+Den Haag,Gemeente,GM0518,Other mode of transport.1,615096.6588636091
+Wijk 02 Belgisch Park,Wijk,WK051802,Passenger car (driver).1,122216.94066727604
+Wijk 02 Belgisch Park,Wijk,WK051802,Passenger car (passenger).1,41661.821786258384
+Wijk 02 Belgisch Park,Wijk,WK051802,Train.1,46337.81483459563
+Wijk 02 Belgisch Park,Wijk,WK051802,Bus / tram / metro.1,15689.115457038391
+Wijk 02 Belgisch Park,Wijk,WK051802,Bike.1,22281.57557129799
+Wijk 02 Belgisch Park,Wijk,WK051802,walk.1,7694.376245429616
+Wijk 02 Belgisch Park,Wijk,WK051802,Other mode of transport.1,8196.813711151737
+Belgisch Park,Buurt,BU05180271,Passenger car (driver).1,122216.94066727604
+Belgisch Park,Buurt,BU05180271,Passenger car (passenger).1,41661.821786258384
+Belgisch Park,Buurt,BU05180271,Train.1,46337.81483459563
+Belgisch Park,Buurt,BU05180271,Bus / tram / metro.1,15689.115457038391
+Belgisch Park,Buurt,BU05180271,Bike.1,22281.57557129799
+Belgisch Park,Buurt,BU05180271,walk.1,7694.376245429616
+Belgisch Park,Buurt,BU05180271,Other mode of transport.1,8196.813711151737
+Wijk 03 Westbroekpark en Duttendel,Wijk,WK051803,Passenger car (driver).1,26887.224808184143
+Wijk 03 Westbroekpark en Duttendel,Wijk,WK051803,Passenger car (passenger).1,10061.051694373402
+Wijk 03 Westbroekpark en Duttendel,Wijk,WK051803,Train.1,11183.468704786263
+Wijk 03 Westbroekpark en Duttendel,Wijk,WK051803,Bus / tram / metro.1,3754.841327081557
+Wijk 03 Westbroekpark en Duttendel,Wijk,WK051803,Bike.1,5269.2025831202045
+Wijk 03 Westbroekpark en Duttendel,Wijk,WK051803,walk.1,1813.3589066496165
+Wijk 03 Westbroekpark en Duttendel,Wijk,WK051803,Other mode of transport.1,1377.3375959079283
+Westbroekpark,Buurt,BU05180373,Passenger car (driver).1,11701.796626420453
+Westbroekpark,Buurt,BU05180373,Passenger car (passenger).1,4510.260703125
+Westbroekpark,Buurt,BU05180373,Train.1,5144.810172483766
+Westbroekpark,Buurt,BU05180373,Bus / tram / metro.1,1745.5360732323231
+Westbroekpark,Buurt,BU05180373,Bike.1,2377.9994176136365
+Westbroekpark,Buurt,BU05180373,walk.1,813.6608238636363
+Westbroekpark,Buurt,BU05180373,Other mode of transport.1,536.162002840909
+Duttendel,Buurt,BU05180374,Passenger car (driver).1,15186.55425
+Duttendel,Buurt,BU05180374,Passenger car (passenger).1,5553.808348837209
+Duttendel,Buurt,BU05180374,Train.1,6038.023149501661
+Duttendel,Buurt,BU05180374,Bus / tram / metro.1,2009.2363423772608
+Duttendel,Buurt,BU05180374,Bike.1,2890.6622790697675
+Duttendel,Buurt,BU05180374,walk.1,999.6319476744186
+Duttendel,Buurt,BU05180374,Other mode of transport.1,843.1173837209302
+Wijk 04 Benoordenhout,Wijk,WK051804,Passenger car (driver).1,194079.93756202116
+Wijk 04 Benoordenhout,Wijk,WK051804,Passenger car (passenger).1,71408.75302991609
+Wijk 04 Benoordenhout,Wijk,WK051804,Train.1,74638.2549768072
+Wijk 04 Benoordenhout,Wijk,WK051804,Bus / tram / metro.1,24701.868990534676
+Wijk 04 Benoordenhout,Wijk,WK051804,Bike.1,35776.670832725285
+Wijk 04 Benoordenhout,Wijk,WK051804,walk.1,12593.383876322512
+Wijk 04 Benoordenhout,Wijk,WK051804,Other mode of transport.1,12287.254309558555
+Nassaubuurt,Buurt,BU05180448,Passenger car (driver).1,23908.380923076922
+Nassaubuurt,Buurt,BU05180448,Passenger car (passenger).1,8410.399015384617
+Nassaubuurt,Buurt,BU05180448,Train.1,8757.584835164835
+Nassaubuurt,Buurt,BU05180448,Bus / tram / metro.1,2893.5120307692305
+Nassaubuurt,Buurt,BU05180448,Bike.1,4239.676153846153
+Nassaubuurt,Buurt,BU05180448,walk.1,1498.6848923076923
+Nassaubuurt,Buurt,BU05180448,Other mode of transport.1,1662.786
+Uilennest,Buurt,BU05180475,Passenger car (driver).1,31673.278032738093
+Uilennest,Buurt,BU05180475,Passenger car (passenger).1,10892.967080357143
+Uilennest,Buurt,BU05180475,Train.1,11423.719901360544
+Uilennest,Buurt,BU05180475,Bus / tram / metro.1,3719.6677751322754
+Uilennest,Buurt,BU05180475,Bike.1,5455.948595238096
+Uilennest,Buurt,BU05180475,walk.1,1957.0184226190477
+Uilennest,Buurt,BU05180475,Other mode of transport.1,2038.1064285714285
+Duinzigt,Buurt,BU05180476,Passenger car (driver).1,32553.04155811623
+Duinzigt,Buurt,BU05180476,Passenger car (passenger).1,13120.72349699399
+Duinzigt,Buurt,BU05180476,Train.1,14607.146558116232
+Duinzigt,Buurt,BU05180476,Bus / tram / metro.1,4909.190551102204
+Duinzigt,Buurt,BU05180476,Bike.1,6601.025516032064
+Duinzigt,Buurt,BU05180476,walk.1,2302.077970941884
+Duinzigt,Buurt,BU05180476,Other mode of transport.1,1354.0195641282564
+Waalsdorp,Buurt,BU05180477,Passenger car (driver).1,52820.450103346455
+Waalsdorp,Buurt,BU05180477,Passenger car (passenger).1,20023.069903215222
+Waalsdorp,Buurt,BU05180477,Train.1,20243.327598425196
+Waalsdorp,Buurt,BU05180477,Bus / tram / metro.1,6710.0500218722655
+Waalsdorp,Buurt,BU05180477,Bike.1,9911.838963254593
+Waalsdorp,Buurt,BU05180477,walk.1,3464.1544947506563
+Waalsdorp,Buurt,BU05180477,Other mode of transport.1,3585.119094488189
+Arendsdorp,Buurt,BU05180478,Passenger car (driver).1,17956.2469348659
+Arendsdorp,Buurt,BU05180478,Passenger car (passenger).1,6786.321973180076
+Arendsdorp,Buurt,BU05180478,Train.1,7085.085351669403
+Arendsdorp,Buurt,BU05180478,Bus / tram / metro.1,2360.6648435504467
+Arendsdorp,Buurt,BU05180478,Bike.1,3407.7029693486593
+Arendsdorp,Buurt,BU05180478,walk.1,1188.9840708812262
+Arendsdorp,Buurt,BU05180478,Other mode of transport.1,1135.1166666666668
+Van Hoytemastraat en omgeving,Buurt,BU05180479,Passenger car (driver).1,34743.993787076266
+Van Hoytemastraat en omgeving,Buurt,BU05180479,Passenger car (passenger).1,12428.636954449152
+Van Hoytemastraat en omgeving,Buurt,BU05180479,Train.1,12425.925478208233
+Van Hoytemastraat en omgeving,Buurt,BU05180479,Bus / tram / metro.1,4073.8661558380413
+Van Hoytemastraat en omgeving,Buurt,BU05180479,Bike.1,6077.163283898304
+Van Hoytemastraat en omgeving,Buurt,BU05180479,walk.1,2167.9737923728812
+Van Hoytemastraat en omgeving,Buurt,BU05180479,Other mode of transport.1,2586.693273305085
+Wijk 05 Archipelbuurt,Wijk,WK051805,Passenger car (driver).1,95225.64485245902
+Wijk 05 Archipelbuurt,Wijk,WK051805,Passenger car (passenger).1,31172.28237704918
+Wijk 05 Archipelbuurt,Wijk,WK051805,Train.1,33465.24365398126
+Wijk 05 Archipelbuurt,Wijk,WK051805,Bus / tram / metro.1,11006.412107923497
+Wijk 05 Archipelbuurt,Wijk,WK051805,Bike.1,16228.755786885245
+Wijk 05 Archipelbuurt,Wijk,WK051805,walk.1,5742.386651639345
+Wijk 05 Archipelbuurt,Wijk,WK051805,Other mode of transport.1,6516.4069672131145
+Archipelbuurt,Buurt,BU05180546,Passenger car (driver).1,95225.64485245902
+Archipelbuurt,Buurt,BU05180546,Passenger car (passenger).1,31172.28237704918
+Archipelbuurt,Buurt,BU05180546,Train.1,33465.24365398126
+Archipelbuurt,Buurt,BU05180546,Bus / tram / metro.1,11006.412107923497
+Archipelbuurt,Buurt,BU05180546,Bike.1,16228.755786885245
+Archipelbuurt,Buurt,BU05180546,walk.1,5742.386651639345
+Archipelbuurt,Buurt,BU05180546,Other mode of transport.1,6516.4069672131145
+Wijk 06 Van Stolkpark en Scheveningse Bo,Wijk,WK051806,Passenger car (driver).1,10721.777796052633
+Wijk 06 Van Stolkpark en Scheveningse Bo,Wijk,WK051806,Passenger car (passenger).1,3869.3151151315788
+Wijk 06 Van Stolkpark en Scheveningse Bo,Wijk,WK051806,Train.1,4265.535556860903
+Wijk 06 Van Stolkpark en Scheveningse Bo,Wijk,WK051806,Bus / tram / metro.1,1428.6711092836258
+Wijk 06 Van Stolkpark en Scheveningse Bo,Wijk,WK051806,Bike.1,2025.464539473684
+Wijk 06 Van Stolkpark en Scheveningse Bo,Wijk,WK051806,walk.1,701.5115460526315
+Wijk 06 Van Stolkpark en Scheveningse Bo,Wijk,WK051806,Other mode of transport.1,612.6784539473684
+Van Stolkpark en Scheveningse Bosjes,Buurt,BU05180605,Passenger car (driver).1,10721.777796052633
+Van Stolkpark en Scheveningse Bosjes,Buurt,BU05180605,Passenger car (passenger).1,3869.3151151315788
+Van Stolkpark en Scheveningse Bosjes,Buurt,BU05180605,Train.1,4265.535556860903
+Van Stolkpark en Scheveningse Bosjes,Buurt,BU05180605,Bus / tram / metro.1,1428.6711092836258
+Van Stolkpark en Scheveningse Bosjes,Buurt,BU05180605,Bike.1,2025.464539473684
+Van Stolkpark en Scheveningse Bosjes,Buurt,BU05180605,walk.1,701.5115460526315
+Van Stolkpark en Scheveningse Bosjes,Buurt,BU05180605,Other mode of transport.1,612.6784539473684
+Wijk 07 Scheveningen,Wijk,WK051807,Passenger car (driver).1,275035.1185936599
+Wijk 07 Scheveningen,Wijk,WK051807,Passenger car (passenger).1,87964.40752161383
+Wijk 07 Scheveningen,Wijk,WK051807,Train.1,94783.95191642652
+Wijk 07 Scheveningen,Wijk,WK051807,Bus / tram / metro.1,31164.99292010887
+Wijk 07 Scheveningen,Wijk,WK051807,Bike.1,45794.6806037464
+Wijk 07 Scheveningen,Wijk,WK051807,walk.1,16310.906096541787
+Wijk 07 Scheveningen,Wijk,WK051807,Other mode of transport.1,19697.188984149856
+Oud Scheveningen,Buurt,BU05180701,Passenger car (driver).1,49024.83252568493
+Oud Scheveningen,Buurt,BU05180701,Passenger car (passenger).1,14566.134606164384
+Oud Scheveningen,Buurt,BU05180701,Train.1,15663.041730675148
+Oud Scheveningen,Buurt,BU05180701,Bus / tram / metro.1,5072.462762557077
+Oud Scheveningen,Buurt,BU05180701,Bike.1,7653.882200342466
+Oud Scheveningen,Buurt,BU05180701,walk.1,2759.5566010273974
+Oud Scheveningen,Buurt,BU05180701,Other mode of transport.1,3733.3783818493152
+Vissershaven,Buurt,BU05180702,Passenger car (driver).1,54744.244487359545
+Vissershaven,Buurt,BU05180702,Passenger car (passenger).1,18152.270565308987
+Vissershaven,Buurt,BU05180702,Train.1,19257.11740619984
+Vissershaven,Buurt,BU05180702,Bus / tram / metro.1,6321.59724446005
+Vissershaven,Buurt,BU05180702,Bike.1,9330.317408707864
+Vissershaven,Buurt,BU05180702,walk.1,3314.3271558988763
+Vissershaven,Buurt,BU05180702,Other mode of transport.1,3824.1796348314606
+Scheveningen Badplaats,Buurt,BU05180703,Passenger car (driver).1,87957.32852504637
+Scheveningen Badplaats,Buurt,BU05180703,Passenger car (passenger).1,27064.138497217067
+Scheveningen Badplaats,Buurt,BU05180703,Train.1,29399.487702093822
+Scheveningen Badplaats,Buurt,BU05180703,Bus / tram / metro.1,9662.817582714903
+Scheveningen Badplaats,Buurt,BU05180703,Bike.1,14234.180531076066
+Scheveningen Badplaats,Buurt,BU05180703,walk.1,5087.597831632653
+Scheveningen Badplaats,Buurt,BU05180703,Other mode of transport.1,6586.326171150278
+Visserijbuurt,Buurt,BU05180704,Passenger car (driver).1,58748.50032383419
+Visserijbuurt,Buurt,BU05180704,Passenger car (passenger).1,19855.236839378238
+Visserijbuurt,Buurt,BU05180704,Train.1,21264.66832716506
+Visserijbuurt,Buurt,BU05180704,Bus / tram / metro.1,7030.327813759355
+Visserijbuurt,Buurt,BU05180704,Bike.1,10188.117836787565
+Visserijbuurt,Buurt,BU05180704,walk.1,3613.381191709844
+Visserijbuurt,Buurt,BU05180704,Other mode of transport.1,3983.8727331606215
+Rijslag,Buurt,BU05180772,Passenger car (driver).1,24301.901203416146
+Rijslag,Buurt,BU05180772,Passenger car (passenger).1,8198.575341614905
+Rijslag,Buurt,BU05180772,Train.1,9055.913962954746
+Rijslag,Buurt,BU05180772,Bus / tram / metro.1,3026.6305434782607
+Rijslag,Buurt,BU05180772,Bike.1,4313.500054347826
+Rijslag,Buurt,BU05180772,walk.1,1512.0685481366459
+Rijslag,Buurt,BU05180772,Other mode of transport.1,1581.4296195652173
+Wijk 08 Duindorp,Wijk,WK051808,Passenger car (driver).1,93313.73248950462
+Wijk 08 Duindorp,Wijk,WK051808,Passenger car (passenger).1,30463.598313392104
+Wijk 08 Duindorp,Wijk,WK051808,Train.1,31650.87649784095
+Wijk 08 Duindorp,Wijk,WK051808,Bus / tram / metro.1,10377.495121513202
+Wijk 08 Duindorp,Wijk,WK051808,Bike.1,15612.948473971452
+Wijk 08 Duindorp,Wijk,WK051808,walk.1,5543.612226070529
+Wijk 08 Duindorp,Wijk,WK051808,Other mode of transport.1,7090.385831234256
+Duindorp,Buurt,BU05180800,Passenger car (driver).1,93313.73248950462
+Duindorp,Buurt,BU05180800,Passenger car (passenger).1,30463.598313392104
+Duindorp,Buurt,BU05180800,Train.1,31650.87649784095
+Duindorp,Buurt,BU05180800,Bus / tram / metro.1,10377.495121513202
+Duindorp,Buurt,BU05180800,Bike.1,15612.948473971452
+Duindorp,Buurt,BU05180800,walk.1,5543.612226070529
+Duindorp,Buurt,BU05180800,Other mode of transport.1,7090.385831234256
+Wijk 09 Geuzen- en Statenkwartier,Wijk,WK051809,Passenger car (driver).1,211077.75978173898
+Wijk 09 Geuzen- en Statenkwartier,Wijk,WK051809,Passenger car (passenger).1,72657.44552898293
+Wijk 09 Geuzen- en Statenkwartier,Wijk,WK051809,Train.1,76589.14279313147
+Wijk 09 Geuzen- en Statenkwartier,Wijk,WK051809,Bus / tram / metro.1,25392.243848190297
+Wijk 09 Geuzen- en Statenkwartier,Wijk,WK051809,Bike.1,37195.4108579303
+Wijk 09 Geuzen- en Statenkwartier,Wijk,WK051809,walk.1,13093.107093261024
+Wijk 09 Geuzen- en Statenkwartier,Wijk,WK051809,Other mode of transport.1,14751.185472972973
+Statenkwartier,Buurt,BU05180907,Passenger car (driver).1,143460.9546081221
+Statenkwartier,Buurt,BU05180907,Passenger car (passenger).1,50105.589306130365
+Statenkwartier,Buurt,BU05180907,Train.1,52485.76564426132
+Statenkwartier,Buurt,BU05180907,Bus / tram / metro.1,17428.247216042997
+Statenkwartier,Buurt,BU05180907,Bike.1,25560.288136316605
+Statenkwartier,Buurt,BU05180907,walk.1,8973.53561109674
+Statenkwartier,Buurt,BU05180907,Other mode of transport.1,10043.30160372478
+Geuzenkwartier,Buurt,BU05180908,Passenger car (driver).1,67518.75525768792
+Geuzenkwartier,Buurt,BU05180908,Passenger car (passenger).1,22498.400462699316
+Geuzenkwartier,Buurt,BU05180908,Train.1,24052.459321103157
+Geuzenkwartier,Buurt,BU05180908,Bus / tram / metro.1,7947.007274740572
+Geuzenkwartier,Buurt,BU05180908,Bike.1,11612.904524487472
+Geuzenkwartier,Buurt,BU05180908,walk.1,4111.414040432803
+Geuzenkwartier,Buurt,BU05180908,Other mode of transport.1,4702.139649772209
+Wijk 10 Zorgvliet,Wijk,WK051810,Passenger car (driver).1,7718.008225
+Wijk 10 Zorgvliet,Wijk,WK051810,Passenger car (passenger).1,2426.644525
+Wijk 10 Zorgvliet,Wijk,WK051810,Train.1,2764.8581357142857
+Wijk 10 Zorgvliet,Wijk,WK051810,Bus / tram / metro.1,912.7770111111112
+Wijk 10 Zorgvliet,Wijk,WK051810,Bike.1,1323.64095
+Wijk 10 Zorgvliet,Wijk,WK051810,walk.1,464.42805
+Wijk 10 Zorgvliet,Wijk,WK051810,Other mode of transport.1,493.8075
+Zorgvliet,Buurt,BU05181041,Passenger car (driver).1,7718.008225
+Zorgvliet,Buurt,BU05181041,Passenger car (passenger).1,2426.644525
+Zorgvliet,Buurt,BU05181041,Train.1,2764.8581357142857
+Zorgvliet,Buurt,BU05181041,Bus / tram / metro.1,912.7770111111112
+Zorgvliet,Buurt,BU05181041,Bike.1,1323.64095
+Zorgvliet,Buurt,BU05181041,walk.1,464.42805
+Zorgvliet,Buurt,BU05181041,Other mode of transport.1,493.8075
+Wijk 11 Duinoord,Wijk,WK051811,Passenger car (driver).1,124253.94892041801
+Wijk 11 Duinoord,Wijk,WK051811,Passenger car (passenger).1,39847.50144935691
+Wijk 11 Duinoord,Wijk,WK051811,Train.1,41898.59766972899
+Wijk 11 Duinoord,Wijk,WK051811,Bus / tram / metro.1,13734.629927116828
+Wijk 11 Duinoord,Wijk,WK051811,Bike.1,20269.473453376206
+Wijk 11 Duinoord,Wijk,WK051811,walk.1,7295.18670096463
+Wijk 11 Duinoord,Wijk,WK051811,Other mode of transport.1,9468.293151125403
+Stadhoudersplantsoen,Buurt,BU05181142,Passenger car (driver).1,30766.950178571427
+Stadhoudersplantsoen,Buurt,BU05181142,Passenger car (passenger).1,10094.335038265304
+Stadhoudersplantsoen,Buurt,BU05181142,Train.1,10646.933485787173
+Stadhoudersplantsoen,Buurt,BU05181142,Bus / tram / metro.1,3477.9239682539683
+Stadhoudersplantsoen,Buurt,BU05181142,Bike.1,5089.8763392857145
+Stadhoudersplantsoen,Buurt,BU05181142,walk.1,1838.1029719387757
+Stadhoudersplantsoen,Buurt,BU05181142,Other mode of transport.1,2198.0680484693876
+Sweelinckplein en omgeving,Buurt,BU05181143,Passenger car (driver).1,93668.7056422117
+Sweelinckplein en omgeving,Buurt,BU05181143,Passenger car (passenger).1,29848.716651247847
+Sweelinckplein en omgeving,Buurt,BU05181143,Train.1,31318.32934103762
+Sweelinckplein en omgeving,Buurt,BU05181143,Bus / tram / metro.1,10278.63074679671
+Sweelinckplein en omgeving,Buurt,BU05181143,Bike.1,15214.519173838211
+Sweelinckplein en omgeving,Buurt,BU05181143,walk.1,5469.888162650603
+Sweelinckplein en omgeving,Buurt,BU05181143,Other mode of transport.1,7290.364802065404
+Wijk 12 Bomen- en Bloemenbuurt,Wijk,WK051812,Passenger car (driver).1,222887.6910327198
+Wijk 12 Bomen- en Bloemenbuurt,Wijk,WK051812,Passenger car (passenger).1,76607.93306066803
+Wijk 12 Bomen- en Bloemenbuurt,Wijk,WK051812,Train.1,79771.41096869219
+Wijk 12 Bomen- en Bloemenbuurt,Wijk,WK051812,Bus / tram / metro.1,26148.788997386953
+Wijk 12 Bomen- en Bloemenbuurt,Wijk,WK051812,Bike.1,38473.66301635992
+Wijk 12 Bomen- en Bloemenbuurt,Wijk,WK051812,walk.1,13727.822540899795
+Wijk 12 Bomen- en Bloemenbuurt,Wijk,WK051812,Other mode of transport.1,15202.748824130878
+Bloemenbuurt-West,Buurt,BU05181250,Passenger car (driver).1,34383.403076923074
+Bloemenbuurt-West,Buurt,BU05181250,Passenger car (passenger).1,12171.298365384617
+Bloemenbuurt-West,Buurt,BU05181250,Train.1,12738.63596153846
+Bloemenbuurt-West,Buurt,BU05181250,Bus / tram / metro.1,4186.314551282051
+Bloemenbuurt-West,Buurt,BU05181250,Bike.1,6231.485192307692
+Bloemenbuurt-West,Buurt,BU05181250,walk.1,2178.0883653846154
+Bloemenbuurt-West,Buurt,BU05181250,Other mode of transport.1,2169.605769230769
+Bloemenbuurt-Oost,Buurt,BU05181251,Passenger car (driver).1,98223.43711300308
+Bloemenbuurt-Oost,Buurt,BU05181251,Passenger car (passenger).1,33869.90495356037
+Bloemenbuurt-Oost,Buurt,BU05181251,Train.1,35143.325360459974
+Bloemenbuurt-Oost,Buurt,BU05181251,Bus / tram / metro.1,11519.421298589612
+Bloemenbuurt-Oost,Buurt,BU05181251,Bike.1,16909.43736842105
+Bloemenbuurt-Oost,Buurt,BU05181251,walk.1,6050.672314241487
+Bloemenbuurt-Oost,Buurt,BU05181251,Other mode of transport.1,6734.227012383901
+Bomenbuurt,Buurt,BU05181252,Passenger car (driver).1,90263.35100383632
+Bomenbuurt,Buurt,BU05181252,Passenger car (passenger).1,30554.01543478261
+Bomenbuurt,Buurt,BU05181252,Train.1,31836.39932955791
+Bomenbuurt,Buurt,BU05181252,Bus / tram / metro.1,10419.199926825804
+Bomenbuurt,Buurt,BU05181252,Bike.1,15314.826886189257
+Bomenbuurt,Buurt,BU05181252,walk.1,5494.782480818414
+Bomenbuurt,Buurt,BU05181252,Other mode of transport.1,6300.518574168797
+Wijk 13 Vogelwijk,Wijk,WK051813,Passenger car (driver).1,73697.61978971963
+Wijk 13 Vogelwijk,Wijk,WK051813,Passenger car (passenger).1,27945.660424065423
+Wijk 13 Vogelwijk,Wijk,WK051813,Train.1,28877.496727970625
+Wijk 13 Vogelwijk,Wijk,WK051813,Bus / tram / metro.1,9667.184625389407
+Wijk 13 Vogelwijk,Wijk,WK051813,Bike.1,14271.304651869159
+Wijk 13 Vogelwijk,Wijk,WK051813,walk.1,4892.167578271028
+Wijk 13 Vogelwijk,Wijk,WK051813,Other mode of transport.1,4774.561612149532
+Vogelwijk,Buurt,BU05181309,Passenger car (driver).1,73697.61978971963
+Vogelwijk,Buurt,BU05181309,Passenger car (passenger).1,27945.660424065423
+Vogelwijk,Buurt,BU05181309,Train.1,28877.496727970625
+Vogelwijk,Buurt,BU05181309,Bus / tram / metro.1,9667.184625389407
+Vogelwijk,Buurt,BU05181309,Bike.1,14271.304651869159
+Vogelwijk,Buurt,BU05181309,walk.1,4892.167578271028
+Vogelwijk,Buurt,BU05181309,Other mode of transport.1,4774.561612149532
+Wijk 14 Bohemen en Meer en Bos,Wijk,WK051814,Passenger car (driver).1,72987.3188394683
+Wijk 14 Bohemen en Meer en Bos,Wijk,WK051814,Passenger car (passenger).1,25123.890483128835
+Wijk 14 Bohemen en Meer en Bos,Wijk,WK051814,Train.1,27605.691290169438
+Wijk 14 Bohemen en Meer en Bos,Wijk,WK051814,Bus / tram / metro.1,9074.201729720517
+Wijk 14 Bohemen en Meer en Bos,Wijk,WK051814,Bike.1,13095.815074130878
+Wijk 14 Bohemen en Meer en Bos,Wijk,WK051814,walk.1,4605.115907464213
+Wijk 14 Bohemen en Meer en Bos,Wijk,WK051814,Other mode of transport.1,4080.23615797546
+Bosjes van Pex,Buurt,BU05181481,Passenger car (driver).1,6181.785062499999
+Bosjes van Pex,Buurt,BU05181481,Passenger car (passenger).1,2044.6712499999999
+Bosjes van Pex,Buurt,BU05181481,Train.1,2236.300955357143
+Bosjes van Pex,Buurt,BU05181481,Bus / tram / metro.1,745.0585555555556
+Bosjes van Pex,Buurt,BU05181481,Bike.1,1097.2966875000002
+Bosjes van Pex,Buurt,BU05181481,walk.1,379.5218125
+Bosjes van Pex,Buurt,BU05181481,Other mode of transport.1,407.3540625
+Bohemen en Meer en Bos,Buurt,BU05181492,Passenger car (driver).1,66603.17550167223
+Bohemen en Meer en Bos,Buurt,BU05181492,Passenger car (passenger).1,23025.7612541806
+Bohemen en Meer en Bos,Buurt,BU05181492,Train.1,25316.178972766364
+Bohemen en Meer en Bos,Buurt,BU05181492,Bus / tram / metro.1,8315.189841137124
+Bohemen en Meer en Bos,Buurt,BU05181492,Bike.1,11971.801362876255
+Bohemen en Meer en Bos,Buurt,BU05181492,walk.1,4215.098971571906
+Bohemen en Meer en Bos,Buurt,BU05181492,Other mode of transport.1,3662.009322742475
+Wijk 15 Kijkduin en Ockenburgh,Wijk,WK051815,Passenger car (driver).1,35475.12651119403
+Wijk 15 Kijkduin en Ockenburgh,Wijk,WK051815,Passenger car (passenger).1,11453.75472814499
+Wijk 15 Kijkduin en Ockenburgh,Wijk,WK051815,Train.1,13380.757324093816
+Wijk 15 Kijkduin en Ockenburgh,Wijk,WK051815,Bus / tram / metro.1,4510.591044183842
+Wijk 15 Kijkduin en Ockenburgh,Wijk,WK051815,Bike.1,6470.218176972281
+Wijk 15 Kijkduin en Ockenburgh,Wijk,WK051815,walk.1,2205.203734008529
+Wijk 15 Kijkduin en Ockenburgh,Wijk,WK051815,Other mode of transport.1,2110.471615138593
+Ockenburgh,Buurt,BU05181590,Passenger car (driver).1,12386.874402515725
+Ockenburgh,Buurt,BU05181590,Passenger car (passenger).1,3858.2343710691825
+Ockenburgh,Buurt,BU05181590,Train.1,4482.532987421384
+Ockenburgh,Buurt,BU05181590,Bus / tram / metro.1,1534.9970055904962
+Ockenburgh,Buurt,BU05181590,Bike.1,2209.9811320754716
+Ockenburgh,Buurt,BU05181590,walk.1,748.0346540880503
+Ockenburgh,Buurt,BU05181590,Other mode of transport.1,876.5915094339623
+Kijkduin,Buurt,BU05181591,Passenger car (driver).1,22906.179532258066
+Kijkduin,Buurt,BU05181591,Passenger car (passenger).1,7607.45227016129
+Kijkduin,Buurt,BU05181591,Train.1,8856.879131336405
+Kijkduin,Buurt,BU05181591,Bus / tram / metro.1,2963.379317204301
+Kijkduin,Buurt,BU05181591,Bike.1,4236.5512499999995
+Kijkduin,Buurt,BU05181591,walk.1,1450.453052419355
+Kijkduin,Buurt,BU05181591,Other mode of transport.1,1235.1774193548388
+Wijk 16 Kraayenstein en de Uithof,Wijk,WK051816,Passenger car (driver).1,92622.68028297872
+Wijk 16 Kraayenstein en de Uithof,Wijk,WK051816,Passenger car (passenger).1,29551.70157021277
+Wijk 16 Kraayenstein en de Uithof,Wijk,WK051816,Train.1,31499.705039513676
+Wijk 16 Kraayenstein en de Uithof,Wijk,WK051816,Bus / tram / metro.1,10345.983568321513
+Wijk 16 Kraayenstein en de Uithof,Wijk,WK051816,Bike.1,15552.821165957446
+Wijk 16 Kraayenstein en de Uithof,Wijk,WK051816,walk.1,5480.234729787234
+Wijk 16 Kraayenstein en de Uithof,Wijk,WK051816,Other mode of transport.1,6771.0123191489365
+Kraayenstein,Buurt,BU05181697,Passenger car (driver).1,92622.68028297872
+Kraayenstein,Buurt,BU05181697,Passenger car (passenger).1,29551.70157021277
+Kraayenstein,Buurt,BU05181697,Train.1,31499.705039513676
+Kraayenstein,Buurt,BU05181697,Bus / tram / metro.1,10345.983568321513
+Kraayenstein,Buurt,BU05181697,Bike.1,15552.821165957446
+Kraayenstein,Buurt,BU05181697,walk.1,5480.234729787234
+Kraayenstein,Buurt,BU05181697,Other mode of transport.1,6771.0123191489365
+Wijk 17 Loosduinen,Wijk,WK051817,Passenger car (driver).1,271301.09627976187
+Wijk 17 Loosduinen,Wijk,WK051817,Passenger car (passenger).1,90840.13293417367
+Wijk 17 Loosduinen,Wijk,WK051817,Train.1,98310.91020268107
+Wijk 17 Loosduinen,Wijk,WK051817,Bus / tram / metro.1,32580.834003345783
+Wijk 17 Loosduinen,Wijk,WK051817,Bike.1,47585.40625910364
+Wijk 17 Loosduinen,Wijk,WK051817,walk.1,16691.347720938375
+Wijk 17 Loosduinen,Wijk,WK051817,Other mode of transport.1,18161.412909663864
+Kerketuinen en Zichtenburg,Buurt,BU05181785,Passenger car (driver).1,1435.9368749999999
+Kerketuinen en Zichtenburg,Buurt,BU05181785,Passenger car (passenger).1,137.780625
+Kerketuinen en Zichtenburg,Buurt,BU05181785,Train.1,240.13535714285712
+Kerketuinen en Zichtenburg,Buurt,BU05181785,Bus / tram / metro.1,72.33388888888888
+Kerketuinen en Zichtenburg,Buurt,BU05181785,Bike.1,132.6775
+Kerketuinen en Zichtenburg,Buurt,BU05181785,walk.1,48.6525
+Kerketuinen en Zichtenburg,Buurt,BU05181785,Other mode of transport.1,169.02
+Houtwijk,Buurt,BU05181786,Passenger car (driver).1,194800.73960510918
+Houtwijk,Buurt,BU05181786,Passenger car (passenger).1,65289.778039196564
+Houtwijk,Buurt,BU05181786,Train.1,70313.60653749721
+Houtwijk,Buurt,BU05181786,Bus / tram / metro.1,23371.099889495577
+Houtwijk,Buurt,BU05181786,Bike.1,34257.44633970359
+Houtwijk,Buurt,BU05181786,walk.1,11975.066146645866
+Houtwijk,Buurt,BU05181786,Other mode of transport.1,13439.371889625585
+Kom Loosduinen,Buurt,BU05181795,Passenger car (driver).1,74979.98252763819
+Kom Loosduinen,Buurt,BU05181795,Passenger car (passenger).1,25448.9072839196
+Kom Loosduinen,Buurt,BU05181795,Train.1,27716.435655778892
+Kom Loosduinen,Buurt,BU05181795,Bus / tram / metro.1,9127.997236739251
+Kom Loosduinen,Buurt,BU05181795,Bike.1,13167.784263819096
+Kom Loosduinen,Buurt,BU05181795,walk.1,4660.770374371859
+Kom Loosduinen,Buurt,BU05181795,Other mode of transport.1,4595.64290201005
+Wijk 18 Waldeck,Wijk,WK051818,Passenger car (driver).1,254060.91520456536
+Wijk 18 Waldeck,Wijk,WK051818,Passenger car (passenger).1,87917.86099073803
+Wijk 18 Waldeck,Wijk,WK051818,Train.1,95940.75339744124
+Wijk 18 Waldeck,Wijk,WK051818,Bus / tram / metro.1,31699.791724685594
+Wijk 18 Waldeck,Wijk,WK051818,Bike.1,45486.679737456245
+Wijk 18 Waldeck,Wijk,WK051818,walk.1,16031.790700845975
+Wijk 18 Waldeck,Wijk,WK051818,Other mode of transport.1,15165.314133605601
+Waldeck-Zuid,Buurt,BU05181806,Passenger car (driver).1,29601.88399262899
+Waldeck-Zuid,Buurt,BU05181806,Passenger car (passenger).1,10557.955224201474
+Waldeck-Zuid,Buurt,BU05181806,Train.1,11353.084421726922
+Waldeck-Zuid,Buurt,BU05181806,Bus / tram / metro.1,3742.413430930931
+Waldeck-Zuid,Buurt,BU05181806,Bike.1,5386.438237100738
+Waldeck-Zuid,Buurt,BU05181806,walk.1,1898.1746468058968
+Waldeck-Zuid,Buurt,BU05181806,Other mode of transport.1,1715.1208230958232
+Nieuw Waldeck,Buurt,BU05181840,Passenger car (driver).1,108459.84467059639
+Nieuw Waldeck,Buurt,BU05181840,Passenger car (passenger).1,37173.307813800275
+Nieuw Waldeck,Buurt,BU05181840,Train.1,39495.553084257976
+Nieuw Waldeck,Buurt,BU05181840,Bus / tram / metro.1,13078.220701571892
+Nieuw Waldeck,Buurt,BU05181840,Bike.1,19071.041340152566
+Nieuw Waldeck,Buurt,BU05181840,walk.1,6725.883607836338
+Nieuw Waldeck,Buurt,BU05181840,Other mode of transport.1,7406.004117545076
+Rosenburg,Buurt,BU05181882,Passenger car (driver).1,44546.0204209622
+Rosenburg,Buurt,BU05181882,Passenger car (passenger).1,14555.974359965636
+Rosenburg,Buurt,BU05181882,Train.1,16340.98754663721
+Rosenburg,Buurt,BU05181882,Bus / tram / metro.1,5376.3431576937755
+Rosenburg,Buurt,BU05181882,Bike.1,7749.6421477663225
+Rosenburg,Buurt,BU05181882,walk.1,2732.2664647766323
+Rosenburg,Buurt,BU05181882,Other mode of transport.1,2629.076288659794
+Componistenbuurt,Buurt,BU05181893,Passenger car (driver).1,27297.38859589041
+Componistenbuurt,Buurt,BU05181893,Passenger car (passenger).1,9411.046712328767
+Componistenbuurt,Buurt,BU05181893,Train.1,10331.17277886497
+Componistenbuurt,Buurt,BU05181893,Bus / tram / metro.1,3408.2113280060885
+Componistenbuurt,Buurt,BU05181893,Bike.1,4906.7125
+Componistenbuurt,Buurt,BU05181893,walk.1,1723.4328767123288
+Componistenbuurt,Buurt,BU05181893,Other mode of transport.1,1570.6587328767123
+Waldeck-Noord,Buurt,BU05181894,Passenger car (driver).1,43801.91945238095
+Waldeck-Noord,Buurt,BU05181894,Passenger car (passenger).1,16396.300678571428
+Waldeck-Noord,Buurt,BU05181894,Train.1,18359.167024376417
+Waldeck-Noord,Buurt,BU05181894,Bus / tram / metro.1,6084.085282627866
+Waldeck-Noord,Buurt,BU05181894,Bike.1,8308.297222222223
+Waldeck-Noord,Buurt,BU05181894,walk.1,2938.6994603174603
+Waldeck-Noord,Buurt,BU05181894,Other mode of transport.1,1925.715595238095
+Wijk 19 Vruchtenbuurt,Wijk,WK051819,Passenger car (driver).1,149632.43876593575
+Wijk 19 Vruchtenbuurt,Wijk,WK051819,Passenger car (passenger).1,51055.26754716981
+Wijk 19 Vruchtenbuurt,Wijk,WK051819,Train.1,52659.38319534494
+Wijk 19 Vruchtenbuurt,Wijk,WK051819,Bus / tram / metro.1,17279.377508499063
+Wijk 19 Vruchtenbuurt,Wijk,WK051819,Bike.1,25660.451211116775
+Wijk 19 Vruchtenbuurt,Wijk,WK051819,walk.1,9138.348292962775
+Wijk 19 Vruchtenbuurt,Wijk,WK051819,Other mode of transport.1,10764.309026007139
+Vruchtenbuurt,Buurt,BU05181953,Passenger car (driver).1,107769.08153175155
+Vruchtenbuurt,Buurt,BU05181953,Passenger car (passenger).1,37433.173864270764
+Vruchtenbuurt,Buurt,BU05181953,Train.1,38509.28807571528
+Vruchtenbuurt,Buurt,BU05181953,Bus / tram / metro.1,12674.781068659377
+Vruchtenbuurt,Buurt,BU05181953,Bike.1,18733.436259595255
+Vruchtenbuurt,Buurt,BU05181953,walk.1,6658.26724354501
+Vruchtenbuurt,Buurt,BU05181953,Other mode of transport.1,7726.166032798325
+Eykenduinen,Buurt,BU05181983,Passenger car (driver).1,41830.63023244782
+Eykenduinen,Buurt,BU05181983,Passenger car (passenger).1,13633.649259962049
+Eykenduinen,Buurt,BU05181983,Train.1,14151.760249390078
+Eykenduinen,Buurt,BU05181983,Bus / tram / metro.1,4604.764177735611
+Eykenduinen,Buurt,BU05181983,Bike.1,6926.231166982922
+Eykenduinen,Buurt,BU05181983,walk.1,2480.2242172675524
+Eykenduinen,Buurt,BU05181983,Other mode of transport.1,3031.8348671726753
+Wijk 20 Valkenboskwartier,Wijk,WK051820,Passenger car (driver).1,301293.4102302632
+Wijk 20 Valkenboskwartier,Wijk,WK051820,Passenger car (passenger).1,93137.76200657894
+Wijk 20 Valkenboskwartier,Wijk,WK051820,Train.1,99283.6521099624
+Wijk 20 Valkenboskwartier,Wijk,WK051820,Bus / tram / metro.1,32654.05155701754
+Wijk 20 Valkenboskwartier,Wijk,WK051820,Bike.1,47669.29976973684
+Wijk 20 Valkenboskwartier,Wijk,WK051820,walk.1,17278.312565789474
+Wijk 20 Valkenboskwartier,Wijk,WK051820,Other mode of transport.1,23980.18914473684
+Heesterbuurt,Buurt,BU05182054,Passenger car (driver).1,110447.29732182219
+Heesterbuurt,Buurt,BU05182054,Passenger car (passenger).1,35124.622981263776
+Heesterbuurt,Buurt,BU05182054,Train.1,36808.57578539939
+Heesterbuurt,Buurt,BU05182054,Bus / tram / metro.1,12073.562917176912
+Heesterbuurt,Buurt,BU05182054,Bike.1,17681.87108008817
+Heesterbuurt,Buurt,BU05182054,walk.1,6420.981072740632
+Heesterbuurt,Buurt,BU05182054,Other mode of transport.1,8669.736204996327
+Valkenboskwartier,Buurt,BU05182055,Passenger car (driver).1,190738.937944906
+Valkenboskwartier,Buurt,BU05182055,Passenger car (passenger).1,57984.06222890249
+Valkenboskwartier,Buurt,BU05182055,Train.1,62451.79347242176
+Valkenboskwartier,Buurt,BU05182055,Bus / tram / metro.1,20574.55358864111
+Valkenboskwartier,Buurt,BU05182055,Bike.1,29972.33429383472
+Valkenboskwartier,Buurt,BU05182055,walk.1,10852.128461958899
+Valkenboskwartier,Buurt,BU05182055,Other mode of transport.1,15304.310515959773
+Wijk 21 Regentessekwartier,Wijk,WK051821,Passenger car (driver).1,228618.5561784263
+Wijk 21 Regentessekwartier,Wijk,WK051821,Passenger car (passenger).1,68454.12073605467
+Wijk 21 Regentessekwartier,Wijk,WK051821,Train.1,73905.07178716555
+Wijk 21 Regentessekwartier,Wijk,WK051821,Bus / tram / metro.1,24265.882905430364
+Wijk 21 Regentessekwartier,Wijk,WK051821,Bike.1,35348.079251939416
+Wijk 21 Regentessekwartier,Wijk,WK051821,walk.1,12872.099677687478
+Wijk 21 Regentessekwartier,Wijk,WK051821,Other mode of transport.1,18460.362578500186
+Rond de Energiecentrale,Buurt,BU05182110,Passenger car (driver).1,100358.45801742232
+Rond de Energiecentrale,Buurt,BU05182110,Passenger car (passenger).1,29945.488923173805
+Rond de Energiecentrale,Buurt,BU05182110,Train.1,32847.724789492626
+Rond de Energiecentrale,Buurt,BU05182110,Bus / tram / metro.1,10852.702161815469
+Rond de Energiecentrale,Buurt,BU05182110,Bike.1,15686.981120906801
+Rond de Energiecentrale,Buurt,BU05182110,walk.1,5673.87119752309
+Rond de Energiecentrale,Buurt,BU05182110,Other mode of transport.1,8037.523457178841
+Koningsplein en omgeving,Buurt,BU05182144,Passenger car (driver).1,128300.08818481848
+Koningsplein en omgeving,Buurt,BU05182144,Passenger car (passenger).1,38505.41130363036
+Koningsplein en omgeving,Buurt,BU05182144,Train.1,41038.96109618105
+Koningsplein en omgeving,Buurt,BU05182144,Bus / tram / metro.1,13403.571090942427
+Koningsplein en omgeving,Buurt,BU05182144,Bike.1,19656.649422442242
+Koningsplein en omgeving,Buurt,BU05182144,walk.1,7197.968894389438
+Koningsplein en omgeving,Buurt,BU05182144,Other mode of transport.1,10426.631188118812
+Wijk 22 Zeeheldenkwartier,Wijk,WK051822,Passenger car (driver).1,201903.59194807935
+Wijk 22 Zeeheldenkwartier,Wijk,WK051822,Passenger car (passenger).1,59294.15142465175
+Wijk 22 Zeeheldenkwartier,Wijk,WK051822,Train.1,65473.52041850088
+Wijk 22 Zeeheldenkwartier,Wijk,WK051822,Bus / tram / metro.1,21623.53558463487
+Wijk 22 Zeeheldenkwartier,Wijk,WK051822,Bike.1,31350.417855635293
+Wijk 22 Zeeheldenkwartier,Wijk,WK051822,walk.1,11324.895673279865
+Wijk 22 Zeeheldenkwartier,Wijk,WK051822,Other mode of transport.1,16151.641747572816
+Zeeheldenkwartier,Buurt,BU05182245,Passenger car (driver).1,201903.59194807935
+Zeeheldenkwartier,Buurt,BU05182245,Passenger car (passenger).1,59294.15142465175
+Zeeheldenkwartier,Buurt,BU05182245,Train.1,65473.52041850088
+Zeeheldenkwartier,Buurt,BU05182245,Bus / tram / metro.1,21623.53558463487
+Zeeheldenkwartier,Buurt,BU05182245,Bike.1,31350.417855635293
+Zeeheldenkwartier,Buurt,BU05182245,walk.1,11324.895673279865
+Zeeheldenkwartier,Buurt,BU05182245,Other mode of transport.1,16151.641747572816
+Wijk 23 Willemspark,Wijk,WK051823,Passenger car (driver).1,25779.364362416105
+Wijk 23 Willemspark,Wijk,WK051823,Passenger car (passenger).1,7284.099865771812
+Wijk 23 Willemspark,Wijk,WK051823,Train.1,8161.921681447747
+Wijk 23 Willemspark,Wijk,WK051823,Bus / tram / metro.1,2660.8062798284864
+Wijk 23 Willemspark,Wijk,WK051823,Bike.1,3952.7161073825505
+Wijk 23 Willemspark,Wijk,WK051823,walk.1,1422.817072147651
+Wijk 23 Willemspark,Wijk,WK051823,Other mode of transport.1,1967.4372483221475
+Willemspark,Buurt,BU05182347,Passenger car (driver).1,25779.364362416105
+Willemspark,Buurt,BU05182347,Passenger car (passenger).1,7284.099865771812
+Willemspark,Buurt,BU05182347,Train.1,8161.921681447747
+Willemspark,Buurt,BU05182347,Bus / tram / metro.1,2660.8062798284864
+Willemspark,Buurt,BU05182347,Bike.1,3952.7161073825505
+Willemspark,Buurt,BU05182347,walk.1,1422.817072147651
+Willemspark,Buurt,BU05182347,Other mode of transport.1,1967.4372483221475
+Wijk 24 Haagse Bos,Wijk,WK051824,Passenger car (driver).1,7051.0204117647045
+Wijk 24 Haagse Bos,Wijk,WK051824,Passenger car (passenger).1,2030.178676470588
+Wijk 24 Haagse Bos,Wijk,WK051824,Train.1,2401.268415966387
+Wijk 24 Haagse Bos,Wijk,WK051824,Bus / tram / metro.1,782.777068627451
+Wijk 24 Haagse Bos,Wijk,WK051824,Bike.1,1119.4237647058824
+Wijk 24 Haagse Bos,Wijk,WK051824,walk.1,402.9892941176471
+Wijk 24 Haagse Bos,Wijk,WK051824,Other mode of transport.1,447.54088235294114
+Haagse Bos,Buurt,BU05182449,Passenger car (driver).1,7051.0204117647045
+Haagse Bos,Buurt,BU05182449,Passenger car (passenger).1,2030.178676470588
+Haagse Bos,Buurt,BU05182449,Train.1,2401.268415966387
+Haagse Bos,Buurt,BU05182449,Bus / tram / metro.1,782.777068627451
+Haagse Bos,Buurt,BU05182449,Bike.1,1119.4237647058824
+Haagse Bos,Buurt,BU05182449,walk.1,402.9892941176471
+Haagse Bos,Buurt,BU05182449,Other mode of transport.1,447.54088235294114
+Wijk 25 Mariahoeve en Marlot,Wijk,WK051825,Passenger car (driver).1,228310.51129930295
+Wijk 25 Mariahoeve en Marlot,Wijk,WK051825,Passenger car (passenger).1,75064.2550467528
+Wijk 25 Mariahoeve en Marlot,Wijk,WK051825,Train.1,80311.74574998785
+Wijk 25 Mariahoeve en Marlot,Wijk,WK051825,Bus / tram / metro.1,26378.376961256567
+Wijk 25 Mariahoeve en Marlot,Wijk,WK051825,Bike.1,38317.94684291058
+Wijk 25 Mariahoeve en Marlot,Wijk,WK051825,walk.1,13744.083552788166
+Wijk 25 Mariahoeve en Marlot,Wijk,WK051825,Other mode of transport.1,16003.399077694661
+Landen,Buurt,BU05182561,Passenger car (driver).1,80057.03310499515
+Landen,Buurt,BU05182561,Passenger car (passenger).1,26369.936942289038
+Landen,Buurt,BU05182561,Train.1,28123.669592628517
+Landen,Buurt,BU05182561,Bus / tram / metro.1,9259.414924830262
+Landen,Buurt,BU05182561,Bike.1,13408.848545101844
+Landen,Buurt,BU05182561,walk.1,4815.093616634335
+Landen,Buurt,BU05182561,Other mode of transport.1,5758.119798739089
+Kampen,Buurt,BU05182567,Passenger car (driver).1,39903.628615071284
+Kampen,Buurt,BU05182567,Passenger car (passenger).1,12364.403910386965
+Kampen,Buurt,BU05182567,Train.1,13266.76233633983
+Kampen,Buurt,BU05182567,Bus / tram / metro.1,4319.4941264992085
+Kampen,Buurt,BU05182567,Bike.1,6359.89882892057
+Kampen,Buurt,BU05182567,walk.1,2304.473716904277
+Kampen,Buurt,BU05182567,Other mode of transport.1,2976.5075865580447
+Marlot,Buurt,BU05182568,Passenger car (driver).1,11208.508035714285
+Marlot,Buurt,BU05182568,Passenger car (passenger).1,4104.18774068323
+Marlot,Buurt,BU05182568,Train.1,4401.875388198758
+Marlot,Buurt,BU05182568,Bus / tram / metro.1,1488.8980124223604
+Marlot,Buurt,BU05182568,Bike.1,2155.793866459627
+Marlot,Buurt,BU05182568,walk.1,735.7352173913043
+Marlot,Buurt,BU05182568,Other mode of transport.1,736.9805124223603
+Burgen en Horsten,Buurt,BU05182569,Passenger car (driver).1,96976.22753082738
+Burgen en Horsten,Buurt,BU05182569,Passenger car (passenger).1,32269.48211515513
+Burgen en Horsten,Buurt,BU05182569,Train.1,34496.132212467324
+Burgen en Horsten,Buurt,BU05182569,Bus / tram / metro.1,11303.780849465216
+Burgen en Horsten,Buurt,BU05182569,Bike.1,16384.813752983293
+Burgen en Horsten,Buurt,BU05182569,walk.1,5886.127943516309
+Burgen en Horsten,Buurt,BU05182569,Other mode of transport.1,6525.315483293556
+Wijk 26 Bezuidenhout,Wijk,WK051826,Passenger car (driver).1,275441.17889
+Wijk 26 Bezuidenhout,Wijk,WK051826,Passenger car (passenger).1,86553.42491555556
+Wijk 26 Bezuidenhout,Wijk,WK051826,Train.1,93141.61209079364
+Wijk 26 Bezuidenhout,Wijk,WK051826,Bus / tram / metro.1,30775.21330938272
+Wijk 26 Bezuidenhout,Wijk,WK051826,Bike.1,44231.77752444445
+Wijk 26 Bezuidenhout,Wijk,WK051826,walk.1,16024.950147777778
+Wijk 26 Bezuidenhout,Wijk,WK051826,Other mode of transport.1,21182.6927
+Bezuidenhout-West,Buurt,BU05182664,Passenger car (driver).1,52285.364944134075
+Bezuidenhout-West,Buurt,BU05182664,Passenger car (passenger).1,18731.888889664806
+Bezuidenhout-West,Buurt,BU05182664,Train.1,21288.95073922586
+Bezuidenhout-West,Buurt,BU05182664,Bus / tram / metro.1,7433.31062849162
+Bezuidenhout-West,Buurt,BU05182664,Bike.1,9880.80155726257
+Bezuidenhout-West,Buurt,BU05182664,walk.1,3410.242143854749
+Bezuidenhout-West,Buurt,BU05182664,Other mode of transport.1,3668.3031075418994
+Bezuidenhout-Midden,Buurt,BU05182665,Passenger car (driver).1,68635.34163068845
+Bezuidenhout-Midden,Buurt,BU05182665,Passenger car (passenger).1,22020.07614060677
+Bezuidenhout-Midden,Buurt,BU05182665,Train.1,23051.320603433905
+Bezuidenhout-Midden,Buurt,BU05182665,Bus / tram / metro.1,7553.724299235058
+Bezuidenhout-Midden,Buurt,BU05182665,Bike.1,11091.662707117852
+Bezuidenhout-Midden,Buurt,BU05182665,walk.1,4016.656406067678
+Bezuidenhout-Midden,Buurt,BU05182665,Other mode of transport.1,5354.375758459742
+Bezuidenhout-Oost,Buurt,BU05182666,Passenger car (driver).1,154551.0251137625
+Bezuidenhout-Oost,Buurt,BU05182666,Passenger car (passenger).1,45829.585449500555
+Bezuidenhout-Oost,Buurt,BU05182666,Train.1,48847.0171916125
+Bezuidenhout-Oost,Buurt,BU05182666,Bus / tram / metro.1,15803.997461462572
+Bezuidenhout-Oost,Buurt,BU05182666,Bike.1,23276.107572142064
+Bezuidenhout-Oost,Buurt,BU05182666,walk.1,8601.437641509434
+Bezuidenhout-Oost,Buurt,BU05182666,Other mode of transport.1,12165.773349056606
+Wijk 27 Stationsbuurt,Wijk,WK051827,Passenger car (driver).1,194095.2444393087
+Wijk 27 Stationsbuurt,Wijk,WK051827,Passenger car (passenger).1,62169.89557073955
+Wijk 27 Stationsbuurt,Wijk,WK051827,Train.1,74910.71776498621
+Wijk 27 Stationsbuurt,Wijk,WK051827,Bus / tram / metro.1,26296.470683279742
+Wijk 27 Stationsbuurt,Wijk,WK051827,Bike.1,34425.052542202575
+Wijk 27 Stationsbuurt,Wijk,WK051827,walk.1,11934.67213625402
+Wijk 27 Stationsbuurt,Wijk,WK051827,Other mode of transport.1,14866.747216639873
+Huygenspark,Buurt,BU05182718,Passenger car (driver).1,117274.93642178594
+Huygenspark,Buurt,BU05182718,Passenger car (passenger).1,39937.55429227359
+Huygenspark,Buurt,BU05182718,Train.1,49294.6846552972
+Huygenspark,Buurt,BU05182718,Bus / tram / metro.1,17670.495434522556
+Huygenspark,Buurt,BU05182718,Bike.1,22315.33474984167
+Huygenspark,Buurt,BU05182718,walk.1,7603.823418302723
+Huygenspark,Buurt,BU05182718,Other mode of transport.1,8529.148195060165
+Rivierenbuurt-Zuid,Buurt,BU05182762,Passenger car (driver).1,14895.310279411764
+Rivierenbuurt-Zuid,Buurt,BU05182762,Passenger car (passenger).1,4014.7323676470587
+Rivierenbuurt-Zuid,Buurt,BU05182762,Train.1,5116.980478991596
+Rivierenbuurt-Zuid,Buurt,BU05182762,Bus / tram / metro.1,1775.97268627451
+Rivierenbuurt-Zuid,Buurt,BU05182762,Bike.1,2335.045705882353
+Rivierenbuurt-Zuid,Buurt,BU05182762,walk.1,827.3942941176471
+Rivierenbuurt-Zuid,Buurt,BU05182762,Other mode of transport.1,1251.9714705882352
+Rivierenbuurt-Noord,Buurt,BU05182763,Passenger car (driver).1,62005.79046070461
+Rivierenbuurt-Noord,Buurt,BU05182763,Passenger car (passenger).1,18198.94990514905
+Rivierenbuurt-Noord,Buurt,BU05182763,Train.1,20477.78955478126
+Rivierenbuurt-Noord,Buurt,BU05182763,Bus / tram / metro.1,6837.244710930442
+Rivierenbuurt-Noord,Buurt,BU05182763,Bike.1,9759.836829268292
+Rivierenbuurt-Noord,Buurt,BU05182763,walk.1,3498.176802168022
+Rivierenbuurt-Noord,Buurt,BU05182763,Other mode of transport.1,5118.67662601626
+Wijk 28 Centrum,Wijk,WK051828,Passenger car (driver).1,346191.46564356436
+Wijk 28 Centrum,Wijk,WK051828,Passenger car (passenger).1,96847.90044554454
+Wijk 28 Centrum,Wijk,WK051828,Train.1,109346.6999222065
+Wijk 28 Centrum,Wijk,WK051828,Bus / tram / metro.1,36001.371732673266
+Wijk 28 Centrum,Wijk,WK051828,Bike.1,52254.19198019802
+Wijk 28 Centrum,Wijk,WK051828,walk.1,18938.459504950493
+Wijk 28 Centrum,Wijk,WK051828,Other mode of transport.1,27942.57326732673
+Kortenbos,Buurt,BU05182811,Passenger car (driver).1,123812.2965017182
+Kortenbos,Buurt,BU05182811,Passenger car (passenger).1,36226.81643814433
+Kortenbos,Buurt,BU05182811,Train.1,40327.964079037796
+Kortenbos,Buurt,BU05182811,Bus / tram / metro.1,13324.431528445972
+Kortenbos,Buurt,BU05182811,Bike.1,19342.217350515464
+Kortenbos,Buurt,BU05182811,walk.1,6957.981750859106
+Kortenbos,Buurt,BU05182811,Other mode of transport.1,9695.585257731958
+Voorhout,Buurt,BU05182812,Passenger car (driver).1,43163.62743630573
+Voorhout,Buurt,BU05182812,Passenger car (passenger).1,11103.274044585987
+Voorhout,Buurt,BU05182812,Train.1,13388.709899909009
+Voorhout,Buurt,BU05182812,Bus / tram / metro.1,4432.016937367303
+Voorhout,Buurt,BU05182812,Bike.1,6307.49775477707
+Voorhout,Buurt,BU05182812,walk.1,2285.5520063694266
+Voorhout,Buurt,BU05182812,Other mode of transport.1,3532.9884554140126
+Uilebomen,Buurt,BU05182813,Passenger car (driver).1,56598.060324292455
+Uilebomen,Buurt,BU05182813,Passenger car (passenger).1,15666.37386595912
+Uilebomen,Buurt,BU05182813,Train.1,17061.181146114104
+Uilebomen,Buurt,BU05182813,Bus / tram / metro.1,5504.539505590496
+Uilebomen,Buurt,BU05182813,Bike.1,8246.120514937105
+Uilebomen,Buurt,BU05182813,walk.1,3032.0820125786167
+Uilebomen,Buurt,BU05182813,Other mode of transport.1,4717.394044811321
+Zuidwal,Buurt,BU05182814,Passenger car (driver).1,122387.60484386348
+Zuidwal,Buurt,BU05182814,Passenger car (passenger).1,33746.57569172113
+Zuidwal,Buurt,BU05182814,Train.1,38498.45169208424
+Zuidwal,Buurt,BU05182814,Bus / tram / metro.1,12714.973935286049
+Zuidwal,Buurt,BU05182814,Bike.1,18317.712618010166
+Zuidwal,Buurt,BU05182814,walk.1,6647.87212962963
+Zuidwal,Buurt,BU05182814,Other mode of transport.1,9987.410675381263
+Wijk 29 Schildersbuurt,Wijk,WK051829,Passenger car (driver).1,460520.23803255137
+Wijk 29 Schildersbuurt,Wijk,WK051829,Passenger car (passenger).1,162468.88758217648
+Wijk 29 Schildersbuurt,Wijk,WK051829,Train.1,173141.14937507123
+Wijk 29 Schildersbuurt,Wijk,WK051829,Bus / tram / metro.1,58783.314120791445
+Wijk 29 Schildersbuurt,Wijk,WK051829,Bike.1,83482.39892372745
+Wijk 29 Schildersbuurt,Wijk,WK051829,walk.1,29102.33126495931
+Wijk 29 Schildersbuurt,Wijk,WK051829,Other mode of transport.1,34669.91347534706
+Schildersbuurt-West,Buurt,BU05182915,Passenger car (driver).1,210153.33792419411
+Schildersbuurt-West,Buurt,BU05182915,Passenger car (passenger).1,72913.94162770103
+Schildersbuurt-West,Buurt,BU05182915,Train.1,78078.60601766105
+Schildersbuurt-West,Buurt,BU05182915,Bus / tram / metro.1,26510.468037155115
+Schildersbuurt-West,Buurt,BU05182915,Bike.1,37579.64437832093
+Schildersbuurt-West,Buurt,BU05182915,walk.1,13134.999284449168
+Schildersbuurt-West,Buurt,BU05182915,Other mode of transport.1,16128.480100956429
+Schildersbuurt-Noord,Buurt,BU05182916,Passenger car (driver).1,146205.55907486228
+Schildersbuurt-Noord,Buurt,BU05182916,Passenger car (passenger).1,51931.49106659989
+Schildersbuurt-Noord,Buurt,BU05182916,Train.1,54953.44994634809
+Schildersbuurt-Noord,Buurt,BU05182916,Bus / tram / metro.1,18591.26525440939
+Schildersbuurt-Noord,Buurt,BU05182916,Bike.1,26566.44469078618
+Schildersbuurt-Noord,Buurt,BU05182916,walk.1,9266.40302203305
+Schildersbuurt-Noord,Buurt,BU05182916,Other mode of transport.1,10858.67424261392
+Schildersbuurt-Oost,Buurt,BU05182917,Passenger car (driver).1,104244.47077282156
+Schildersbuurt-Oost,Buurt,BU05182917,Passenger car (passenger).1,37684.81322614108
+Schildersbuurt-Oost,Buurt,BU05182917,Train.1,40162.510877296976
+Schildersbuurt-Oost,Buurt,BU05182917,Bus / tram / metro.1,13698.93210580913
+Schildersbuurt-Oost,Buurt,BU05182917,Bike.1,19354.733195020744
+Schildersbuurt-Oost,Buurt,BU05182917,walk.1,6708.676945020747
+Schildersbuurt-Oost,Buurt,BU05182917,Other mode of transport.1,7696.997769709543
+Wijk 30 Transvaalkwartier,Wijk,WK051830,Passenger car (driver).1,241111.91715333538
+Wijk 30 Transvaalkwartier,Wijk,WK051830,Passenger car (passenger).1,83773.06262623533
+Wijk 30 Transvaalkwartier,Wijk,WK051830,Train.1,88377.77830472955
+Wijk 30 Transvaalkwartier,Wijk,WK051830,Bus / tram / metro.1,29806.39805692815
+Wijk 30 Transvaalkwartier,Wijk,WK051830,Bike.1,42549.473983168624
+Wijk 30 Transvaalkwartier,Wijk,WK051830,walk.1,14986.388208384808
+Wijk 30 Transvaalkwartier,Wijk,WK051830,Other mode of transport.1,18802.467665225446
+Transvaalkwartier-Noord,Buurt,BU05183032,Passenger car (driver).1,59768.08373257288
+Transvaalkwartier-Noord,Buurt,BU05183032,Passenger car (passenger).1,20462.16855196451
+Transvaalkwartier-Noord,Buurt,BU05183032,Train.1,21848.469839761
+Transvaalkwartier-Noord,Buurt,BU05183032,Bus / tram / metro.1,7367.7194078298835
+Transvaalkwartier-Noord,Buurt,BU05183032,Bike.1,10475.196850443599
+Transvaalkwartier-Noord,Buurt,BU05183032,walk.1,3693.1535773130545
+Transvaalkwartier-Noord,Buurt,BU05183032,Other mode of transport.1,4540.374524714829
+Transvaalkwartier-Midden,Buurt,BU05183033,Passenger car (driver).1,72522.28045704294
+Transvaalkwartier-Midden,Buurt,BU05183033,Passenger car (passenger).1,26053.10517982018
+Transvaalkwartier-Midden,Buurt,BU05183033,Train.1,27027.200312187815
+Transvaalkwartier-Midden,Buurt,BU05183033,Bus / tram / metro.1,9074.902903762904
+Transvaalkwartier-Midden,Buurt,BU05183033,Bike.1,12958.881705794207
+Transvaalkwartier-Midden,Buurt,BU05183033,walk.1,4586.019103396604
+Transvaalkwartier-Midden,Buurt,BU05183033,Other mode of transport.1,5573.168294205794
+Transvaalkwartier-Zuid,Buurt,BU05183034,Passenger car (driver).1,108832.65987906013
+Transvaalkwartier-Zuid,Buurt,BU05183034,Passenger car (passenger).1,37304.284552522455
+Transvaalkwartier-Zuid,Buurt,BU05183034,Train.1,39533.65134095172
+Transvaalkwartier-Zuid,Buurt,BU05183034,Bus / tram / metro.1,13375.621808531061
+Transvaalkwartier-Zuid,Buurt,BU05183034,Bike.1,19126.748258465792
+Transvaalkwartier-Zuid,Buurt,BU05183034,walk.1,6711.707239115411
+Transvaalkwartier-Zuid,Buurt,BU05183034,Other mode of transport.1,8684.990514858328
+Wijk 31 Rustenburg en Oostbroek,Wijk,WK051831,Passenger car (driver).1,300698.97481348785
+Wijk 31 Rustenburg en Oostbroek,Wijk,WK051831,Passenger car (passenger).1,94821.21911364855
+Wijk 31 Rustenburg en Oostbroek,Wijk,WK051831,Train.1,101212.55649200184
+Wijk 31 Rustenburg en Oostbroek,Wijk,WK051831,Bus / tram / metro.1,33625.36241807304
+Wijk 31 Rustenburg en Oostbroek,Wijk,WK051831,Bike.1,48600.22276654166
+Wijk 31 Rustenburg en Oostbroek,Wijk,WK051831,walk.1,17476.841059469596
+Wijk 31 Rustenburg en Oostbroek,Wijk,WK051831,Other mode of transport.1,24807.369746182692
+Rustenburg,Buurt,BU05183130,Passenger car (driver).1,99636.86380327868
+Rustenburg,Buurt,BU05183130,Passenger car (passenger).1,30716.51763114754
+Rustenburg,Buurt,BU05183130,Train.1,32949.63507377049
+Rustenburg,Buurt,BU05183130,Bus / tram / metro.1,10872.9667431694
+Rustenburg,Buurt,BU05183130,Bike.1,15893.434942622951
+Rustenburg,Buurt,BU05183130,walk.1,5719.998663934426
+Rustenburg,Buurt,BU05183130,Other mode of transport.1,8113.861844262296
+Oostbroek-Noord,Buurt,BU05183131,Passenger car (driver).1,73934.14485833333
+Oostbroek-Noord,Buurt,BU05183131,Passenger car (passenger).1,22822.29006666667
+Oostbroek-Noord,Buurt,BU05183131,Train.1,24379.237612301586
+Oostbroek-Noord,Buurt,BU05183131,Bus / tram / metro.1,8070.212960493827
+Oostbroek-Noord,Buurt,BU05183131,Bike.1,11706.636452777777
+Oostbroek-Noord,Buurt,BU05183131,walk.1,4231.357736111111
+Oostbroek-Noord,Buurt,BU05183131,Other mode of transport.1,6198.354791666668
+Oostbroek-Zuid,Buurt,BU05183135,Passenger car (driver).1,127295.6984605835
+Oostbroek-Zuid,Buurt,BU05183135,Passenger car (passenger).1,41315.372297486036
+Oostbroek-Zuid,Buurt,BU05183135,Train.1,43949.89847898377
+Oostbroek-Zuid,Buurt,BU05183135,Bus / tram / metro.1,14707.945858852334
+Oostbroek-Zuid,Buurt,BU05183135,Bike.1,21035.506308193668
+Oostbroek-Zuid,Buurt,BU05183135,walk.1,7535.14809512725
+Oostbroek-Zuid,Buurt,BU05183135,Other mode of transport.1,10507.869785847299
+Wijk 32 Leyenburg,Wijk,WK051832,Passenger car (driver).1,235641.38302146213
+Wijk 32 Leyenburg,Wijk,WK051832,Passenger car (passenger).1,75952.20048960429
+Wijk 32 Leyenburg,Wijk,WK051832,Train.1,82223.49431038613
+Wijk 32 Leyenburg,Wijk,WK051832,Bus / tram / metro.1,27198.817180676655
+Wijk 32 Leyenburg,Wijk,WK051832,Bike.1,39492.26054661301
+Wijk 32 Leyenburg,Wijk,WK051832,walk.1,14057.374941314556
+Wijk 32 Leyenburg,Wijk,WK051832,Other mode of transport.1,16951.946227364184
+Leyenburg,Buurt,BU05183284,Passenger car (driver).1,235641.38302146213
+Leyenburg,Buurt,BU05183284,Passenger car (passenger).1,75952.20048960429
+Leyenburg,Buurt,BU05183284,Train.1,82223.49431038613
+Leyenburg,Buurt,BU05183284,Bus / tram / metro.1,27198.817180676655
+Leyenburg,Buurt,BU05183284,Bike.1,39492.26054661301
+Leyenburg,Buurt,BU05183284,walk.1,14057.374941314556
+Leyenburg,Buurt,BU05183284,Other mode of transport.1,16951.946227364184
+Wijk 33 Bouwlust en Vrederust,Wijk,WK051833,Passenger car (driver).1,421137.5564916186
+Wijk 33 Bouwlust en Vrederust,Wijk,WK051833,Passenger car (passenger).1,148314.80037454166
+Wijk 33 Bouwlust en Vrederust,Wijk,WK051833,Train.1,155553.24980954875
+Wijk 33 Bouwlust en Vrederust,Wijk,WK051833,Bus / tram / metro.1,51942.66111765904
+Wijk 33 Bouwlust en Vrederust,Wijk,WK051833,Bike.1,74616.79179282347
+Wijk 33 Bouwlust en Vrederust,Wijk,WK051833,walk.1,26410.310856469354
+Wijk 33 Bouwlust en Vrederust,Wijk,WK051833,Other mode of transport.1,30878.058256940807
+"Venen, Oorden en Raden",Buurt,BU05183387,Passenger car (driver).1,126319.57245777518
+"Venen, Oorden en Raden",Buurt,BU05183387,Passenger car (passenger).1,44513.51704717531
+"Venen, Oorden en Raden",Buurt,BU05183387,Train.1,46508.1448647974
+"Venen, Oorden en Raden",Buurt,BU05183387,Bus / tram / metro.1,15566.584749886753
+"Venen, Oorden en Raden",Buurt,BU05183387,Bike.1,22391.35235876529
+"Venen, Oorden en Raden",Buurt,BU05183387,walk.1,7911.6774781595805
+"Venen, Oorden en Raden",Buurt,BU05183387,Other mode of transport.1,9483.675742574258
+"Zijden, Steden en Zichten",Buurt,BU05183396,Passenger car (driver).1,118972.30884394904
+"Zijden, Steden en Zichten",Buurt,BU05183396,Passenger car (passenger).1,40531.425321656054
+"Zijden, Steden en Zichten",Buurt,BU05183396,Train.1,41982.2715766606
+"Zijden, Steden en Zichten",Buurt,BU05183396,Bus / tram / metro.1,13898.190198690729
+"Zijden, Steden en Zichten",Buurt,BU05183396,Bike.1,20346.85610191083
+"Zijden, Steden en Zichten",Buurt,BU05183396,walk.1,7250.152320063695
+"Zijden, Steden en Zichten",Buurt,BU05183396,Other mode of transport.1,9139.892722929935
+Dreven en Gaarden,Buurt,BU05183398,Passenger car (driver).1,156379.605
+Dreven en Gaarden,Buurt,BU05183398,Passenger car (passenger).1,56256.48763349514
+Dreven en Gaarden,Buurt,BU05183398,Train.1,59162.47912621359
+Dreven en Gaarden,Buurt,BU05183398,Bus / tram / metro.1,19840.4684412082
+Dreven en Gaarden,Buurt,BU05183398,Bike.1,28163.84468446602
+Dreven en Gaarden,Buurt,BU05183398,walk.1,9960.875327669903
+Dreven en Gaarden,Buurt,BU05183398,Other mode of transport.1,11268.531553398057
+De Uithof,Buurt,BU05183399,Passenger car (driver).1,19089.457617753622
+De Uithof,Buurt,BU05183399,Passenger car (passenger).1,7023.264057971014
+De Uithof,Buurt,BU05183399,Train.1,7826.332138975155
+De Uithof,Buurt,BU05183399,Bus / tram / metro.1,2614.8321618357486
+De Uithof,Buurt,BU05183399,Bike.1,3658.7571286231887
+De Uithof,Buurt,BU05183399,walk.1,1271.525751811594
+De Uithof,Buurt,BU05183399,Other mode of transport.1,988.4430706521739
+Wijk 34 Morgenstond,Wijk,WK051834,Passenger car (driver).1,295753.352672904
+Wijk 34 Morgenstond,Wijk,WK051834,Passenger car (passenger).1,96657.34516067179
+Wijk 34 Morgenstond,Wijk,WK051834,Train.1,101660.737554124
+Wijk 34 Morgenstond,Wijk,WK051834,Bus / tram / metro.1,33554.205097931175
+Wijk 34 Morgenstond,Wijk,WK051834,Bike.1,49152.357103940754
+Wijk 34 Morgenstond,Wijk,WK051834,walk.1,17592.639744445914
+Wijk 34 Morgenstond,Wijk,WK051834,Other mode of transport.1,22924.71820616239
+Morgenstond-Zuid,Buurt,BU05183480,Passenger car (driver).1,94214.35704047218
+Morgenstond-Zuid,Buurt,BU05183480,Passenger car (passenger).1,30344.137266020232
+Morgenstond-Zuid,Buurt,BU05183480,Train.1,31701.979052336785
+Morgenstond-Zuid,Buurt,BU05183480,Bus / tram / metro.1,10428.951478827057
+Morgenstond-Zuid,Buurt,BU05183480,Bike.1,15370.376920320405
+Morgenstond-Zuid,Buurt,BU05183480,walk.1,5527.998804806071
+Morgenstond-Zuid,Buurt,BU05183480,Other mode of transport.1,7509.501633642496
+Morgenstond-West,Buurt,BU05183488,Passenger car (driver).1,111872.77722738014
+Morgenstond-West,Buurt,BU05183488,Passenger car (passenger).1,38255.77743923025
+Morgenstond-West,Buurt,BU05183488,Train.1,40043.9519484904
+Morgenstond-West,Buurt,BU05183488,Bus / tram / metro.1,13289.688214044565
+Morgenstond-West,Buurt,BU05183488,Bike.1,19298.14109891965
+Morgenstond-West,Buurt,BU05183488,walk.1,6864.366619682647
+Morgenstond-West,Buurt,BU05183488,Other mode of transport.1,8345.34393990547
+Morgenstond-Oost,Buurt,BU05183489,Passenger car (driver).1,89595.44376798559
+Morgenstond-Oost,Buurt,BU05183489,Passenger car (passenger).1,28029.951753597124
+Morgenstond-Oost,Buurt,BU05183489,Train.1,29888.807122302158
+Morgenstond-Oost,Buurt,BU05183489,Bus / tram / metro.1,9826.271862509991
+Morgenstond-Oost,Buurt,BU05183489,Bike.1,14469.404712230214
+Morgenstond-Oost,Buurt,BU05183489,walk.1,5194.994730215827
+Morgenstond-Oost,Buurt,BU05183489,Other mode of transport.1,7074.063399280575
+Wijk 35 Zuiderpark,Wijk,WK051835,Passenger car (driver).1,2179.8311328125
+Wijk 35 Zuiderpark,Wijk,WK051835,Passenger car (passenger).1,799.375234375
+Wijk 35 Zuiderpark,Wijk,WK051835,Train.1,909.4991517857143
+Wijk 35 Zuiderpark,Wijk,WK051835,Bus / tram / metro.1,299.5605642361111
+Wijk 35 Zuiderpark,Wijk,WK051835,Bike.1,417.6006249999999
+Wijk 35 Zuiderpark,Wijk,WK051835,walk.1,145.6293359375
+Wijk 35 Zuiderpark,Wijk,WK051835,Other mode of transport.1,86.54648437499999
+Zuiderpark,Buurt,BU05183536,Passenger car (driver).1,2179.8311328125
+Zuiderpark,Buurt,BU05183536,Passenger car (passenger).1,799.375234375
+Zuiderpark,Buurt,BU05183536,Train.1,909.4991517857143
+Zuiderpark,Buurt,BU05183536,Bus / tram / metro.1,299.5605642361111
+Zuiderpark,Buurt,BU05183536,Bike.1,417.6006249999999
+Zuiderpark,Buurt,BU05183536,walk.1,145.6293359375
+Zuiderpark,Buurt,BU05183536,Other mode of transport.1,86.54648437499999
+Wijk 36 Moerwijk,Wijk,WK051836,Passenger car (driver).1,324910.14663347555
+Wijk 36 Moerwijk,Wijk,WK051836,Passenger car (passenger).1,107474.97448790896
+Wijk 36 Moerwijk,Wijk,WK051836,Train.1,113265.43495326153
+Wijk 36 Moerwijk,Wijk,WK051836,Bus / tram / metro.1,37693.21766529688
+Wijk 36 Moerwijk,Wijk,WK051836,Bike.1,54731.06701991465
+Wijk 36 Moerwijk,Wijk,WK051836,walk.1,19487.08907539118
+Wijk 36 Moerwijk,Wijk,WK051836,Other mode of transport.1,26012.246799431006
+Moerwijk-Oost,Buurt,BU05183620,Passenger car (driver).1,51450.49424004594
+Moerwijk-Oost,Buurt,BU05183620,Passenger car (passenger).1,16393.863147013784
+Moerwijk-Oost,Buurt,BU05183620,Train.1,17544.933221395753
+Moerwijk-Oost,Buurt,BU05183620,Bus / tram / metro.1,5836.256385485793
+Moerwijk-Oost,Buurt,BU05183620,Bike.1,8509.402350689128
+Moerwijk-Oost,Buurt,BU05183620,walk.1,3024.4880608728945
+Moerwijk-Oost,Buurt,BU05183620,Other mode of transport.1,4187.218357580397
+Moerwijk-West,Buurt,BU05183637,Passenger car (driver).1,94579.71746995192
+Moerwijk-West,Buurt,BU05183637,Passenger car (passenger).1,32014.87192107372
+Moerwijk-West,Buurt,BU05183637,Train.1,33279.824187843406
+Moerwijk-West,Buurt,BU05183637,Bus / tram / metro.1,11017.448856837607
+Moerwijk-West,Buurt,BU05183637,Bike.1,16185.226566506411
+Moerwijk-West,Buurt,BU05183637,walk.1,5749.717299679488
+Moerwijk-West,Buurt,BU05183637,Other mode of transport.1,7290.6761418269225
+Moerwijk-Noord,Buurt,BU05183638,Passenger car (driver).1,108611.80746415771
+Moerwijk-Noord,Buurt,BU05183638,Passenger car (passenger).1,35546.71481362007
+Moerwijk-Noord,Buurt,BU05183638,Train.1,37691.14050435228
+Moerwijk-Noord,Buurt,BU05183638,Bus / tram / metro.1,12564.546943647949
+Moerwijk-Noord,Buurt,BU05183638,Bike.1,18210.732069892474
+Moerwijk-Noord,Buurt,BU05183638,walk.1,6479.7462114695345
+Moerwijk-Noord,Buurt,BU05183638,Other mode of transport.1,8706.36572580645
+Moerwijk-Zuid,Buurt,BU05183639,Passenger car (driver).1,70327.73228940218
+Moerwijk-Zuid,Buurt,BU05183639,Passenger car (passenger).1,23529.13171875
+Moerwijk-Zuid,Buurt,BU05183639,Train.1,24746.311878881985
+Moerwijk-Zuid,Buurt,BU05183639,Bus / tram / metro.1,8266.50172705314
+Moerwijk-Zuid,Buurt,BU05183639,Bike.1,11821.869347826087
+Moerwijk-Zuid,Buurt,BU05183639,walk.1,4234.080584239131
+Moerwijk-Zuid,Buurt,BU05183639,Other mode of transport.1,5833.284782608696
+Wijk 37 Groente- en Fruitmarkt,Wijk,WK051837,Passenger car (driver).1,80259.77134054563
+Wijk 37 Groente- en Fruitmarkt,Wijk,WK051837,Passenger car (passenger).1,27286.481037158985
+Wijk 37 Groente- en Fruitmarkt,Wijk,WK051837,Train.1,29235.393426622766
+Wijk 37 Groente- en Fruitmarkt,Wijk,WK051837,Bus / tram / metro.1,9932.968662851468
+Wijk 37 Groente- en Fruitmarkt,Wijk,WK051837,Bike.1,14105.176091251176
+Wijk 37 Groente- en Fruitmarkt,Wijk,WK051837,walk.1,4939.287267168392
+Wijk 37 Groente- en Fruitmarkt,Wijk,WK051837,Other mode of transport.1,6450.784078080903
+Groente- en Fruitmarkt,Buurt,BU05183721,Passenger car (driver).1,80259.77134054563
+Groente- en Fruitmarkt,Buurt,BU05183721,Passenger car (passenger).1,27286.481037158985
+Groente- en Fruitmarkt,Buurt,BU05183721,Train.1,29235.393426622766
+Groente- en Fruitmarkt,Buurt,BU05183721,Bus / tram / metro.1,9932.968662851468
+Groente- en Fruitmarkt,Buurt,BU05183721,Bike.1,14105.176091251176
+Groente- en Fruitmarkt,Buurt,BU05183721,walk.1,4939.287267168392
+Groente- en Fruitmarkt,Buurt,BU05183721,Other mode of transport.1,6450.784078080903
+Wijk 38 Laakkwartier en Spoorwijk,Wijk,WK051838,Passenger car (driver).1,654929.8825862899
+Wijk 38 Laakkwartier en Spoorwijk,Wijk,WK051838,Passenger car (passenger).1,211219.7822074564
+Wijk 38 Laakkwartier en Spoorwijk,Wijk,WK051838,Train.1,231069.66057529423
+Wijk 38 Laakkwartier en Spoorwijk,Wijk,WK051838,Bus / tram / metro.1,78054.87041578139
+Wijk 38 Laakkwartier en Spoorwijk,Wijk,WK051838,Bike.1,110293.17308298257
+Wijk 38 Laakkwartier en Spoorwijk,Wijk,WK051838,walk.1,39068.363337342154
+Wijk 38 Laakkwartier en Spoorwijk,Wijk,WK051838,Other mode of transport.1,52495.224173181
+Laakhaven-Oost,Buurt,BU05183819,Passenger car (driver).1,60866.24100617283
+Laakhaven-Oost,Buurt,BU05183819,Passenger car (passenger).1,20820.203660493826
+Laakhaven-Oost,Buurt,BU05183819,Train.1,23969.649548059966
+Laakhaven-Oost,Buurt,BU05183819,Bus / tram / metro.1,8354.9078542524
+Laakhaven-Oost,Buurt,BU05183819,Bike.1,11148.467796296296
+Laakhaven-Oost,Buurt,BU05183819,walk.1,3859.326052469136
+Laakhaven-Oost,Buurt,BU05183819,Other mode of transport.1,4454.91787037037
+Laakhaven-West,Buurt,BU05183822,Passenger car (driver).1,85108.13993307622
+Laakhaven-West,Buurt,BU05183822,Passenger car (passenger).1,28094.60600045372
+Laakhaven-West,Buurt,BU05183822,Train.1,31089.605210655947
+Laakhaven-West,Buurt,BU05183822,Bus / tram / metro.1,10599.187848608592
+Laakhaven-West,Buurt,BU05183822,Bike.1,14757.016842105262
+Laakhaven-West,Buurt,BU05183822,walk.1,5185.916269283121
+Laakhaven-West,Buurt,BU05183822,Other mode of transport.1,6639.615074863884
+Spoorwijk,Buurt,BU05183823,Passenger car (driver).1,64731.598525345624
+Spoorwijk,Buurt,BU05183823,Passenger car (passenger).1,22661.21543058756
+Spoorwijk,Buurt,BU05183823,Train.1,23439.256534726796
+Spoorwijk,Buurt,BU05183823,Bus / tram / metro.1,7862.457164618536
+Spoorwijk,Buurt,BU05183823,Bike.1,11404.514542050692
+Spoorwijk,Buurt,BU05183823,walk.1,4019.508549827189
+Spoorwijk,Buurt,BU05183823,Other mode of transport.1,5052.140841013825
+Laakkwartier-West,Buurt,BU05183824,Passenger car (driver).1,131148.95896103897
+Laakkwartier-West,Buurt,BU05183824,Passenger car (passenger).1,40709.014149659866
+Laakkwartier-West,Buurt,BU05183824,Train.1,44048.62101599081
+Laakkwartier-West,Buurt,BU05183824,Bus / tram / metro.1,14696.650590256304
+Laakkwartier-West,Buurt,BU05183824,Bike.1,21213.467891156462
+Laakkwartier-West,Buurt,BU05183824,walk.1,7582.757959183673
+Laakkwartier-West,Buurt,BU05183824,Other mode of transport.1,10896.471428571427
+Laakkwartier-Oost,Buurt,BU05183825,Passenger car (driver).1,182604.38274354982
+Laakkwartier-Oost,Buurt,BU05183825,Passenger car (passenger).1,56529.844566837186
+Laakkwartier-Oost,Buurt,BU05183825,Train.1,61826.76972419929
+Laakkwartier-Oost,Buurt,BU05183825,Bus / tram / metro.1,20674.0935493278
+Laakkwartier-Oost,Buurt,BU05183825,Bike.1,29446.519493994663
+Laakkwartier-Oost,Buurt,BU05183825,walk.1,10565.58034530694
+Laakkwartier-Oost,Buurt,BU05183825,Other mode of transport.1,15063.979804270464
+Noordpolderbuurt,Buurt,BU05183826,Passenger car (driver).1,130243.6238825644
+Noordpolderbuurt,Buurt,BU05183826,Passenger car (passenger).1,42319.81279508688
+Noordpolderbuurt,Buurt,BU05183826,Train.1,46600.03405846101
+Noordpolderbuurt,Buurt,BU05183826,Bus / tram / metro.1,15826.939253711469
+Noordpolderbuurt,Buurt,BU05183826,Bike.1,22264.907219892153
+Noordpolderbuurt,Buurt,BU05183826,walk.1,7835.315710005992
+Noordpolderbuurt,Buurt,BU05183826,Other mode of transport.1,10408.480452366686
+Wijk 39 Binckhorst,Wijk,WK051839,Passenger car (driver).1,42148.85818784916
+Wijk 39 Binckhorst,Wijk,WK051839,Passenger car (passenger).1,6346.4125174580995
+Wijk 39 Binckhorst,Wijk,WK051839,Train.1,10046.729568036711
+Wijk 39 Binckhorst,Wijk,WK051839,Bus / tram / metro.1,3382.0875186219737
+Wijk 39 Binckhorst,Wijk,WK051839,Bike.1,4903.448582402234
+Wijk 39 Binckhorst,Wijk,WK051839,walk.1,1755.634406424581
+Wijk 39 Binckhorst,Wijk,WK051839,Other mode of transport.1,4724.1663058659215
+Binckhorst,Buurt,BU05183960,Passenger car (driver).1,42148.85818784916
+Binckhorst,Buurt,BU05183960,Passenger car (passenger).1,6346.4125174580995
+Binckhorst,Buurt,BU05183960,Train.1,10046.729568036711
+Binckhorst,Buurt,BU05183960,Bus / tram / metro.1,3382.0875186219737
+Binckhorst,Buurt,BU05183960,Bike.1,4903.448582402234
+Binckhorst,Buurt,BU05183960,walk.1,1755.634406424581
+Binckhorst,Buurt,BU05183960,Other mode of transport.1,4724.1663058659215
+Wijk 40 Wateringse Veld,Wijk,WK051840,Passenger car (driver).1,324134.3880888359
+Wijk 40 Wateringse Veld,Wijk,WK051840,Passenger car (passenger).1,114980.57507828454
+Wijk 40 Wateringse Veld,Wijk,WK051840,Train.1,118092.93727511427
+Wijk 40 Wateringse Veld,Wijk,WK051840,Bus / tram / metro.1,39447.63352488465
+Wijk 40 Wateringse Veld,Wijk,WK051840,Bike.1,58204.47971579306
+Wijk 40 Wateringse Veld,Wijk,WK051840,walk.1,20340.774686861812
+Wijk 40 Wateringse Veld,Wijk,WK051840,Other mode of transport.1,24361.99270762423
+Erasmus Veld,Buurt,BU05184001,Passenger car (driver).1,31961.34873839907
+Erasmus Veld,Buurt,BU05184001,Passenger car (passenger).1,11049.409933294663
+Erasmus Veld,Buurt,BU05184001,Train.1,12023.29650729201
+Erasmus Veld,Buurt,BU05184001,Bus / tram / metro.1,4024.8535898427426
+Erasmus Veld,Buurt,BU05184001,Bike.1,5814.463950116009
+Erasmus Veld,Buurt,BU05184001,walk.1,2017.2235208816705
+Erasmus Veld,Buurt,BU05184001,Other mode of transport.1,2076.99840487239
+Hoge Veld,Buurt,BU05184002,Passenger car (driver).1,121010.64546056419
+Hoge Veld,Buurt,BU05184002,Passenger car (passenger).1,46311.03637593552
+Hoge Veld,Buurt,BU05184002,Train.1,45520.16930750884
+Hoge Veld,Buurt,BU05184002,Bus / tram / metro.1,15177.009476108233
+Hoge Veld,Buurt,BU05184002,Bike.1,22088.88305699482
+Hoge Veld,Buurt,BU05184002,walk.1,7850.650736902706
+Hoge Veld,Buurt,BU05184002,Other mode of transport.1,9508.463471502591
+Parkbuurt oosteinde,Buurt,BU05184003,Passenger car (driver).1,53450.57795815295
+Parkbuurt oosteinde,Buurt,BU05184003,Passenger car (passenger).1,17511.084693362194
+Parkbuurt oosteinde,Buurt,BU05184003,Train.1,18759.100091218308
+Parkbuurt oosteinde,Buurt,BU05184003,Bus / tram / metro.1,6315.244157046657
+Parkbuurt oosteinde,Buurt,BU05184003,Bike.1,9511.349985569985
+Parkbuurt oosteinde,Buurt,BU05184003,walk.1,3242.954372294372
+Parkbuurt oosteinde,Buurt,BU05184003,Other mode of transport.1,3975.320238095238
+Lage Veld,Buurt,BU05184004,Passenger car (driver).1,65314.79779463244
+Lage Veld,Buurt,BU05184004,Passenger car (passenger).1,22094.699014002334
+Lage Veld,Buurt,BU05184004,Train.1,23146.392200783463
+Lage Veld,Buurt,BU05184004,Bus / tram / metro.1,7687.680972708415
+Lage Veld,Buurt,BU05184004,Bike.1,11531.823465577596
+Lage Veld,Buurt,BU05184004,walk.1,4006.05448949825
+Lage Veld,Buurt,BU05184004,Other mode of transport.1,4706.199241540257
+Zonne Veld,Buurt,BU05184005,Passenger car (driver).1,51901.35387536338
+Zonne Veld,Buurt,BU05184005,Passenger car (passenger).1,17922.28433502907
+Zonne Veld,Buurt,BU05184005,Train.1,18455.628827865447
+Zonne Veld,Buurt,BU05184005,Bus / tram / metro.1,6188.936476501938
+Zonne Veld,Buurt,BU05184005,Bike.1,9183.47422238372
+Zonne Veld,Buurt,BU05184005,walk.1,3197.897338299419
+Zonne Veld,Buurt,BU05184005,Other mode of transport.1,4063.710119912791
+Wijk 41 Hoornwijk,Wijk,WK051841,Passenger car (driver).1,5171.573995535714
+Wijk 41 Hoornwijk,Wijk,WK051841,Passenger car (passenger).1,1111.5402901785715
+Wijk 41 Hoornwijk,Wijk,WK051841,Train.1,1704.543463010204
+Wijk 41 Hoornwijk,Wijk,WK051841,Bus / tram / metro.1,611.7195436507936
+Wijk 41 Hoornwijk,Wijk,WK051841,Bike.1,821.5448660714285
+Wijk 41 Hoornwijk,Wijk,WK051841,walk.1,272.1665178571428
+Wijk 41 Hoornwijk,Wijk,WK051841,Other mode of transport.1,459.30066964285714
+Vlietzoom-West,Buurt,BU05184106,Passenger car (driver).1,2646.862941176471
+Vlietzoom-West,Buurt,BU05184106,Passenger car (passenger).1,793.7116544117647
+Vlietzoom-West,Buurt,BU05184106,Train.1,898.3821428571429
+Vlietzoom-West,Buurt,BU05184106,Bus / tram / metro.1,300.32147058823523
+Vlietzoom-West,Buurt,BU05184106,Bike.1,451.34492647058823
+Vlietzoom-West,Buurt,BU05184106,walk.1,154.5009926470588
+Vlietzoom-West,Buurt,BU05184106,Other mode of transport.1,190.35
+De Reef,Buurt,BU05184110,Passenger car (driver).1,2350.0575
+De Reef,Buurt,BU05184110,Passenger car (passenger).1,302.09499999999997
+De Reef,Buurt,BU05184110,Train.1,794.4357142857144
+De Reef,Buurt,BU05184110,Bus / tram / metro.1,302.43583333333333
+De Reef,Buurt,BU05184110,Bike.1,343.3575
+De Reef,Buurt,BU05184110,walk.1,112.845
+De Reef,Buurt,BU05184110,Other mode of transport.1,267.78749999999997
+Wijk 42 Ypenburg,Wijk,WK051842,Passenger car (driver).1,399817.11672093446
+Wijk 42 Ypenburg,Wijk,WK051842,Passenger car (passenger).1,142803.7746155261
+Wijk 42 Ypenburg,Wijk,WK051842,Train.1,144272.8862919163
+Wijk 42 Ypenburg,Wijk,WK051842,Bus / tram / metro.1,48145.18148434306
+Wijk 42 Ypenburg,Wijk,WK051842,Bike.1,71623.80599889625
+Wijk 42 Ypenburg,Wijk,WK051842,walk.1,25050.44645603385
+Wijk 42 Ypenburg,Wijk,WK051842,Other mode of transport.1,30985.079470198674
+Bosweide,Buurt,BU05184208,Passenger car (driver).1,29395.394195121953
+Bosweide,Buurt,BU05184208,Passenger car (passenger).1,10650.461731707317
+Bosweide,Buurt,BU05184208,Train.1,10985.58487979094
+Bosweide,Buurt,BU05184208,Bus / tram / metro.1,3714.6723279132784
+Bosweide,Buurt,BU05184208,Bike.1,5568.984841463415
+Bosweide,Buurt,BU05184208,walk.1,1888.6050853658535
+Bosweide,Buurt,BU05184208,Other mode of transport.1,2138.5498170731707
+De Venen,Buurt,BU05184211,Passenger car (driver).1,27140.51948717949
+De Venen,Buurt,BU05184211,Passenger car (passenger).1,9201.712564102563
+De Venen,Buurt,BU05184211,Train.1,9154.213992673991
+De Venen,Buurt,BU05184211,Bus / tram / metro.1,3003.7086039886035
+De Venen,Buurt,BU05184211,Bike.1,4418.442820512821
+De Venen,Buurt,BU05184211,walk.1,1612.7023076923078
+De Venen,Buurt,BU05184211,Other mode of transport.1,2345.769230769231
+Morgenweide,Buurt,BU05184212,Passenger car (driver).1,105789.3525578136
+Morgenweide,Buurt,BU05184212,Passenger car (passenger).1,37435.347400140156
+Morgenweide,Buurt,BU05184212,Train.1,38038.38845630193
+Morgenweide,Buurt,BU05184212,Bus / tram / metro.1,12686.029457681227
+Morgenweide,Buurt,BU05184212,Bike.1,18745.2905360897
+Morgenweide,Buurt,BU05184212,walk.1,6589.514754730203
+Morgenweide,Buurt,BU05184212,Other mode of transport.1,8222.524404344778
+Singels,Buurt,BU05184213,Passenger car (driver).1,84566.9488214924
+Singels,Buurt,BU05184213,Passenger car (passenger).1,28976.828302055404
+Singels,Buurt,BU05184213,Train.1,30169.46554768288
+Singels,Buurt,BU05184213,Bus / tram / metro.1,10091.519904676794
+Singels,Buurt,BU05184213,Bike.1,15059.217598302057
+Singels,Buurt,BU05184213,walk.1,5216.965347408401
+Singels,Buurt,BU05184213,Other mode of transport.1,6335.320844504021
+Waterbuurt,Buurt,BU05184214,Passenger car (driver).1,71676.67856020943
+Waterbuurt,Buurt,BU05184214,Passenger car (passenger).1,25051.027774869108
+Waterbuurt,Buurt,BU05184214,Train.1,25386.148451757665
+Waterbuurt,Buurt,BU05184214,Bus / tram / metro.1,8439.208616928447
+Waterbuurt,Buurt,BU05184214,Bike.1,12496.300170157068
+Waterbuurt,Buurt,BU05184214,walk.1,4416.617735602094
+Waterbuurt,Buurt,BU05184214,Other mode of transport.1,5655.291557591622
+De Bras,Buurt,BU05184215,Passenger car (driver).1,80999.45937233134
+De Bras,Buurt,BU05184215,Passenger car (passenger).1,31408.126398377455
+De Bras,Buurt,BU05184215,Train.1,30465.18194613883
+De Bras,Buurt,BU05184215,Bus / tram / metro.1,10183.240959768478
+De Bras,Buurt,BU05184215,Bike.1,15295.458614432111
+De Bras,Buurt,BU05184215,walk.1,5312.010898804441
+De Bras,Buurt,BU05184215,Other mode of transport.1,6267.948067890692
+Wijk 43 Forepark,Wijk,WK051843,Passenger car (driver).1,2041.38945
+Wijk 43 Forepark,Wijk,WK051843,Passenger car (passenger).1,580.6024500000001
+Wijk 43 Forepark,Wijk,WK051843,Train.1,714.3258857142857
+Wijk 43 Forepark,Wijk,WK051843,Bus / tram / metro.1,242.92035555555555
+Wijk 43 Forepark,Wijk,WK051843,Bike.1,355.6578
+Wijk 43 Forepark,Wijk,WK051843,walk.1,119.24969999999999
+Wijk 43 Forepark,Wijk,WK051843,Other mode of transport.1,132.249
+Vlietzoom-Oost,Buurt,BU05184316,Passenger car (driver).1,1744.4249375
+Vlietzoom-Oost,Buurt,BU05184316,Passenger car (passenger).1,472.4299375
+Vlietzoom-Oost,Buurt,BU05184316,Train.1,608.33025
+Vlietzoom-Oost,Buurt,BU05184316,Bus / tram / metro.1,207.04105555555554
+Vlietzoom-Oost,Buurt,BU05184316,Bike.1,302.01925
+Vlietzoom-Oost,Buurt,BU05184316,walk.1,100.69437500000001
+Vlietzoom-Oost,Buurt,BU05184316,Other mode of transport.1,106.92
+De Rivieren,Buurt,BU05184317,Passenger car (driver).1,380.69624999999996
+De Rivieren,Buurt,BU05184317,Passenger car (passenger).1,98.44500000000001
+De Rivieren,Buurt,BU05184317,Train.1,112.50303571428572
+De Rivieren,Buurt,BU05184317,Bus / tram / metro.1,37.295833333333334
+De Rivieren,Buurt,BU05184317,Bike.1,61.25375
+De Rivieren,Buurt,BU05184317,walk.1,20.36875
+De Rivieren,Buurt,BU05184317,Other mode of transport.1,27.956249999999997
+Wijk 44 Leidschenveen,Wijk,WK051844,Passenger car (driver).1,303873.21238277486
+Wijk 44 Leidschenveen,Wijk,WK051844,Passenger car (passenger).1,108584.87346582691
+Wijk 44 Leidschenveen,Wijk,WK051844,Train.1,109639.7856150124
+Wijk 44 Leidschenveen,Wijk,WK051844,Bus / tram / metro.1,36514.287217132754
+Wijk 44 Leidschenveen,Wijk,WK051844,Bike.1,54364.70516453713
+Wijk 44 Leidschenveen,Wijk,WK051844,walk.1,19041.868197926713
+Wijk 44 Leidschenveen,Wijk,WK051844,Other mode of transport.1,23482.730379098357
+De Lanen,Buurt,BU05184418,Passenger car (driver).1,74854.03603710751
+De Lanen,Buurt,BU05184418,Passenger car (passenger).1,27988.339754995242
+De Lanen,Buurt,BU05184418,Train.1,27147.867016107106
+De Lanen,Buurt,BU05184418,Bus / tram / metro.1,9017.365754572365
+De Lanen,Buurt,BU05184418,Bike.1,13393.46003805899
+De Lanen,Buurt,BU05184418,walk.1,4753.117350142722
+De Lanen,Buurt,BU05184418,Other mode of transport.1,6192.755066603235
+De Velden,Buurt,BU05184419,Passenger car (driver).1,64297.383619668246
+De Velden,Buurt,BU05184419,Passenger car (passenger).1,21695.258752962087
+De Velden,Buurt,BU05184419,Train.1,22563.44361247461
+De Velden,Buurt,BU05184419,Bus / tram / metro.1,7521.460938322802
+De Velden,Buurt,BU05184419,Bike.1,11278.372067535545
+De Velden,Buurt,BU05184419,walk.1,3920.8349526066354
+De Velden,Buurt,BU05184419,Other mode of transport.1,4894.850651658768
+De Vissen,Buurt,BU05184420,Passenger car (driver).1,126622.71184303351
+De Vissen,Buurt,BU05184420,Passenger car (passenger).1,44087.59686654909
+De Vissen,Buurt,BU05184420,Train.1,46009.21968023012
+De Vissen,Buurt,BU05184420,Bus / tram / metro.1,15379.60305588216
+De Vissen,Buurt,BU05184420,Bike.1,22863.231087595534
+De Vissen,Buurt,BU05184420,walk.1,7912.784293062905
+De Vissen,Buurt,BU05184420,Other mode of transport.1,9168.83425925926
+Rietbuurt,Buurt,BU05184421,Passenger car (driver).1,38051.973430127044
+Rietbuurt,Buurt,BU05184421,Passenger car (passenger).1,14814.69640199637
+Rietbuurt,Buurt,BU05184421,Train.1,13914.378195488724
+Rietbuurt,Buurt,BU05184421,Bus / tram / metro.1,4588.955734018955
+Rietbuurt,Buurt,BU05184421,Bike.1,6813.433593466424
+Rietbuurt,Buurt,BU05184421,walk.1,2451.7051769509985
+Rietbuurt,Buurt,BU05184421,Other mode of transport.1,3228.4957350272234
